@@ -26,7 +26,7 @@ def get_userlinks(username, sleeptime=1, down_scrolls=200):
     try:
         driver.find_element_by_link_text('LOAD MORE').click()
     except NoSuchElementException:
-        print 'Sorry, this page isnt available: ', user
+        print 'Sorry, this page isnt available: ', username
 
     for i in xrange(down_scrolls):
         driver.execute_script('window.scrollTo(0, document.body.scrollHeight);')
@@ -46,7 +46,7 @@ def get_userlinks(username, sleeptime=1, down_scrolls=200):
 
 def write_file(name, items, description):
     fname = name+'_'+description+'.txt'
-    f = open( ('../data/'+fname), 'w')
+    f = open( ('../data/'+name+'/'+fname), 'w')
     for item in items:
         f.write(item + '\n')
     f.close()
