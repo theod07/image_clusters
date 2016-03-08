@@ -55,7 +55,7 @@ def write_file(name, items, description):
     print strftime('%Y%m%d.%H:%M:%s'), ' items written to ', fname
     return
 
-def scrape_func(username, sleeptime, down_scrolls):
+def scrape_links(username, sleeptime, down_scrolls):
     good_links, bad_links = get_userlinks(username, sleeptime=sleeptime, down_scrolls=down_scrolls)
     write_file(username, good_links, 'gooduserlinks')
     # write_file(username, bad_links, 'baduserlinks')
@@ -86,7 +86,7 @@ if __name__ == '__main__':
             try:
                 os.mkdir('../data/'+name)
                 print strftime('%Y%m%d.%H:%M:%s'), ' Pulling up IG profile for ', name
-                t = threading.Thread(target=scrape_func, args=(name, pause, down_scrolls,))
+                t = threading.Thread(target=scrape_links, args=(name, pause, down_scrolls,))
                 t.start()
                 print 'Started thread for ', name
                 threads.append(t)
