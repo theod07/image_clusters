@@ -4,6 +4,7 @@ import numpy as np
 from time import strftime
 import time
 import os
+import random
 from selenium.common.exceptions import NoSuchElementException
 
 
@@ -31,7 +32,7 @@ def get_userlinks(username, sleeptime=1, down_scrolls=200):
 
     for i in xrange(down_scrolls):
         driver.execute_script('window.scrollTo(0, document.body.scrollHeight);')
-        time.sleep(sleeptime)
+        time.sleep(sleeptime*random.random())
 
     a_tags = driver.find_elements_by_tag_name('a')
 
@@ -71,10 +72,12 @@ def find_replace(url):
 if __name__ == '__main__':
     print 'looks like the program entered MAIN correctly..'
     usernames = get_usernames('../data/most_popular.txt')
-    num_threads = 2
+    num_threads = 3
+    down_scrolls = 200
+    pause = 2
     print 'len(usernames): ', len(usernames)
 
-    while len(usernames) > 450:
+    while len(usernames) > 0:
         threads = []
         subset = [usernames.pop() for i in range(num_threads)]
         print 'len(usernames): ', len(usernames)
@@ -83,7 +86,7 @@ if __name__ == '__main__':
             try:
                 os.mkdir('../data/'+name)
                 print strftime('%Y%m%d.%H:%M:%s'), ' Pulling up IG profile for ', name
-                t = threading.Thread(target=scrape_func, args=(name, 2, 10,))
+                t = threading.Thread(target=scrape_func, args=(name, pause, down_scrolls,))
                 t.start()
                 print 'Started thread for ', name
                 threads.append(t)
@@ -92,6 +95,8 @@ if __name__ == '__main__':
 
         for thread in threads: thread.join()
         print 'Joined threads for ', subset
+
+        print '#### Users Remaining #### ', usernames
 
     # i = 0
     # while
