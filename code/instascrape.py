@@ -61,10 +61,10 @@ def scrape_links(username, sleeptime, down_scrolls):
     # write_file(username, bad_links, 'baduserlinks')
     return
 
-def get_src_url(urls):
-    ''' Takes a list of data-reactid items and returns a list of source links
+def get_data_reactids(urls):
+    ''' Takes a list of urls for each image and returns a list of data-reactid items
     '''
-    src_urls = []
+    reactids = []
     has_ovg3g = 0
     for url in urls:
         driver = webdriver.Firefox()
@@ -77,15 +77,15 @@ def get_src_url(urls):
             print 'No _ovg3g ', link
 
         for tag in tags:
-            src_urls.append(tag.get_attribute('data-reactid'))
+            reactids.append(tag.get_attribute('data-reactid'))
 
         driver.close()
-    return src_urls
+        print ( 'Successfully found %s reactids among %s urls' %(has_ovg3g, len(urls)) )
+    return reactids
 
-def reactid_url(url):
+def reactid_to_srcurl(reactids):
     '''
-    =1 --> period
-    =2 --> colon
+    convert reactid strings to img source url strings
     '''
 
     pass
