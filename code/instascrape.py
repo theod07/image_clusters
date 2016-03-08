@@ -1,7 +1,8 @@
 import threading
 import selenium.webdriver as webdriver
 import numpy as np
-import time.strftime as strftime
+from time import strftime
+import time
 import os
 from selenium.common.exceptions import NoSuchElementException
 
@@ -56,7 +57,7 @@ def write_file(name, items, description):
 def scrape_func(username, sleeptime, down_scrolls):
     good_links, bad_links = get_userlinks(username, sleeptime=sleeptime, down_scrolls=down_scrolls)
     write_file(username, good_links, 'gooduserlinks')
-    write_file(username, bad_links, 'baduserlinks')
+    # write_file(username, bad_links, 'baduserlinks')
     return
 
 def find_replace(url):
@@ -68,15 +69,29 @@ def find_replace(url):
     pass
 
 if __name__ == '__main__':
+    print 'looks like the program entered MAIN correctly..'
     usernames = get_usernames('../data/most_popular.txt')
-    for name in usernames:
-        try:
-            os.mkdir('../data/'+name)
-            print strftime('%Y%m%d.%H:%M:%s'), ' Pulling up IG profile for ', name
-            scrape_func(name, sleeptime=1.2, down_scrolls=300)
+    num_threads = 2
+    print 'len(usernames): ', len(usernames)
 
-        except OSError:
-            print strftime('%Y%m%d.%H:%M:%s'), ' directory already exists for',name
+    while len(usernames) > 450:
+        threads = []
+        subset = [usernames.pop() for i in range(num_threads)]
+        print 'len(usernames): ', len(usernames)
+        print 'subset: ', subset
+        for name in subset:
+            try:
+                os.mkdir('../data/'+name)
+                print strftime('%Y%m%d.%H:%M:%s'), ' Pulling up IG profile for ', name
+                t = threading.Thread(target=scrape_func, args=(name, 2, 10,))
+                t.start()
+                print 'Started thread for ', name
+                threads.append(t)
+            except OSError:
+                print strftime('%Y%m%d.%H:%M:%s'), ' directory already exists for',name
+
+        for thread in threads: thread.join()
+        print 'Joined threads for ', subset
 
     # i = 0
     # while
