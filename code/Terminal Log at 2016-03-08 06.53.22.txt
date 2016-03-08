@@ -1,0 +1,164 @@
+wander:code wonder$ python instascrape.py
+directory already exists for healthebay
+Pulling up IG profile for  yellow
+Sorry, this page isnt available:
+Traceback (most recent call last):
+  File "instascrape.py", line 76, in <module>
+    scrape_func(name, sleeptime=1.2, down_scrolls=300)
+  File "instascrape.py", line 57, in scrape_func
+    good_links, bad_links = get_userlinks(username, sleeptime=sleeptime, down_scrolls=down_scrolls)
+  File "instascrape.py", line 29, in get_userlinks
+    print 'Sorry, this page isnt available: ', user
+NameError: global name 'user' is not defined
+wander:code wonder$ atom .
+wander:code wonder$ python instascrape.py
+directory already exists for healthebay
+directory already exists for yellow
+Pulling up IG profile for  netofernandez7
+items written to  netofernandez7_gooduserlinks.txt
+items written to  netofernandez7_baduserlinks.txt
+Pulling up IG profile for  dogfishbeer
+items written to  dogfishbeer_gooduserlinks.txt
+items written to  dogfishbeer_baduserlinks.txt
+Pulling up IG profile for  mobeye_vision
+items written to  mobeye_vision_gooduserlinks.txt
+items written to  mobeye_vision_baduserlinks.txt
+Pulling up IG profile for  hangarang
+items written to  hangarang_gooduserlinks.txt
+items written to  hangarang_baduserlinks.txt
+Pulling up IG profile for  kyliejenner
+items written to  kyliejenner_gooduserlinks.txt
+items written to  kyliejenner_baduserlinks.txt
+Pulling up IG profile for  anitta
+items written to  anitta_gooduserlinks.txt
+items written to  anitta_baduserlinks.txt
+Pulling up IG profile for  nickkristof
+items written to  nickkristof_gooduserlinks.txt
+items written to  nickkristof_baduserlinks.txt
+Pulling up IG profile for  kokoulin
+items written to  kokoulin_gooduserlinks.txt
+items written to  kokoulin_baduserlinks.txt
+Pulling up IG profile for  tonyhawk
+items written to  tonyhawk_gooduserlinks.txt
+items written to  tonyhawk_baduserlinks.txt
+Pulling up IG profile for  negin_mirsalehi
+items written to  negin_mirsalehi_gooduserlinks.txt
+items written to  negin_mirsalehi_baduserlinks.txt
+Pulling up IG profile for  amazing_pretty
+items written to  amazing_pretty_gooduserlinks.txt
+items written to  amazing_pretty_baduserlinks.txt
+Pulling up IG profile for  jeremymcgrath2
+items written to  jeremymcgrath2_gooduserlinks.txt
+items written to  jeremymcgrath2_baduserlinks.txt
+Pulling up IG profile for  danbilzerian
+items written to  danbilzerian_gooduserlinks.txt
+items written to  danbilzerian_baduserlinks.txt
+Pulling up IG profile for  iraqzz
+items written to  iraqzz_gooduserlinks.txt
+items written to  iraqzz_baduserlinks.txt
+Pulling up IG profile for  ivetesangalo
+items written to  ivetesangalo_gooduserlinks.txt
+items written to  ivetesangalo_baduserlinks.txt
+Pulling up IG profile for  oceana
+items written to  oceana_gooduserlinks.txt
+items written to  oceana_baduserlinks.txt
+Pulling up IG profile for  therealbigboi
+items written to  therealbigboi_gooduserlinks.txt
+items written to  therealbigboi_baduserlinks.txt
+Pulling up IG profile for  shlat_ta7shesh
+items written to  shlat_ta7shesh_gooduserlinks.txt
+items written to  shlat_ta7shesh_baduserlinks.txt
+Pulling up IG profile for  princessyahrini
+items written to  princessyahrini_gooduserlinks.txt
+items written to  princessyahrini_baduserlinks.txt
+Pulling up IG profile for  nailsvideos
+items written to  nailsvideos_gooduserlinks.txt
+items written to  nailsvideos_baduserlinks.txt
+Pulling up IG profile for  tvtoos
+Sorry, this page isnt available:  tvtoos
+items written to  tvtoos_gooduserlinks.txt
+items written to  tvtoos_baduserlinks.txt
+Pulling up IG profile for  instagram
+items written to  instagram_gooduserlinks.txt
+items written to  instagram_baduserlinks.txt
+Pulling up IG profile for  mistercap
+items written to  mistercap_gooduserlinks.txt
+items written to  mistercap_baduserlinks.txt
+Pulling up IG profile for  kimkardashian
+items written to  kimkardashian_gooduserlinks.txt
+items written to  kimkardashian_baduserlinks.txt
+Pulling up IG profile for  gizzyboyy
+items written to  gizzyboyy_gooduserlinks.txt
+items written to  gizzyboyy_baduserlinks.txt
+Pulling up IG profile for  thekillertruth
+items written to  thekillertruth_gooduserlinks.txt
+items written to  thekillertruth_baduserlinks.txt
+Pulling up IG profile for  cintageshop
+items written to  cintageshop_gooduserlinks.txt
+items written to  cintageshop_baduserlinks.txt
+Pulling up IG profile for  zalezakaofficial
+items written to  zalezakaofficial_gooduserlinks.txt
+items written to  zalezakaofficial_baduserlinks.txt
+Pulling up IG profile for  jamieoliver
+items written to  jamieoliver_gooduserlinks.txt
+items written to  jamieoliver_baduserlinks.txt
+Pulling up IG profile for  markhoppus
+items written to  markhoppus_gooduserlinks.txt
+items written to  markhoppus_baduserlinks.txt
+Pulling up IG profile for  instagramtop50
+items written to  instagramtop50_gooduserlinks.txt
+items written to  instagramtop50_baduserlinks.txt
+Pulling up IG profile for  miketyson
+items written to  miketyson_gooduserlinks.txt
+items written to  miketyson_baduserlinks.txt
+Pulling up IG profile for  taylorswift
+items written to  taylorswift_gooduserlinks.txt
+items written to  taylorswift_baduserlinks.txt
+Pulling up IG profile for  tatawerneck
+items written to  tatawerneck_gooduserlinks.txt
+items written to  tatawerneck_baduserlinks.txt
+Pulling up IG profile for  nonghairstylist3245
+items written to  nonghairstylist3245_gooduserlinks.txt
+items written to  nonghairstylist3245_baduserlinks.txt
+Pulling up IG profile for  paolatonight
+items written to  paolatonight_gooduserlinks.txt
+items written to  paolatonight_baduserlinks.txt
+Pulling up IG profile for  igtoppicture
+
+items written to  igtoppicture_gooduserlinks.txt
+items written to  igtoppicture_baduserlinks.txt
+Pulling up IG profile for  stressedouthams
+items written to  stressedouthams_gooduserlinks.txt
+items written to  stressedouthams_baduserlinks.txt
+Pulling up IG profile for  bortnikovrussia
+items written to  bortnikovrussia_gooduserlinks.txt
+items written to  bortnikovrussia_baduserlinks.txt
+Pulling up IG profile for  aceofspaceskingz
+Sorry, this page isnt available:  aceofspaceskingz
+items written to  aceofspaceskingz_gooduserlinks.txt
+items written to  aceofspaceskingz_baduserlinks.txt
+Pulling up IG profile for  tobsangson0865355999
+items written to  tobsangson0865355999_gooduserlinks.txt
+items written to  tobsangson0865355999_baduserlinks.txt
+Pulling up IG profile for  bergdorfs
+items written to  bergdorfs_gooduserlinks.txt
+items written to  bergdorfs_baduserlinks.txt
+Pulling up IG profile for  lakers
+items written to  lakers_gooduserlinks.txt
+items written to  lakers_baduserlinks.txt
+Pulling up IG profile for  nickster2k
+items written to  nickster2k_gooduserlinks.txt
+items written to  nickster2k_baduserlinks.txt
+Pulling up IG profile for  ddlovato
+items written to  ddlovato_gooduserlinks.txt
+items written to  ddlovato_baduserlinks.txt
+Pulling up IG profile for  kellyslater
+items written to  kellyslater_gooduserlinks.txt
+items written to  kellyslater_baduserlinks.txt
+Pulling up IG profile for  433
+items written to  433_gooduserlinks.txt
+items written to  433_baduserlinks.txt
+Pulling up IG profile for  iloveustyles
+items written to  iloveustyles_gooduserlinks.txt
+items written to  iloveustyles_baduserlinks.txt
+Pulling up IG profile for  adidas
