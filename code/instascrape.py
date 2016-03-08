@@ -1,7 +1,7 @@
 import threading
 import selenium.webdriver as webdriver
 import numpy as np
-import time
+import time.strftime as strftime
 import os
 from selenium.common.exceptions import NoSuchElementException
 
@@ -26,7 +26,7 @@ def get_userlinks(username, sleeptime=1, down_scrolls=200):
     try:
         driver.find_element_by_link_text('LOAD MORE').click()
     except NoSuchElementException:
-        print 'Sorry, this page isnt available: ', username
+        print 'Sorry, this page isnt available: ', username,
 
     for i in xrange(down_scrolls):
         driver.execute_script('window.scrollTo(0, document.body.scrollHeight);')
@@ -50,7 +50,7 @@ def write_file(name, items, description):
     for item in items:
         f.write(item + '\n')
     f.close()
-    print 'items written to ', fname
+    print strftime('%Y%m%d.%H:%M:%s'), ' items written to ', fname
     return
 
 def scrape_func(username, sleeptime, down_scrolls):
@@ -72,11 +72,11 @@ if __name__ == '__main__':
     for name in usernames:
         try:
             os.mkdir('../data/'+name)
-            print 'Pulling up IG profile for ', name
+            print strftime('%Y%m%d.%H:%M:%s'), ' Pulling up IG profile for ', name
             scrape_func(name, sleeptime=1.2, down_scrolls=300)
 
         except OSError:
-            print 'directory already exists for',name
+            print strftime('%Y%m%d.%H:%M:%s'), ' directory already exists for',name
 
     # i = 0
     # while
