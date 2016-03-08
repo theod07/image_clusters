@@ -119,4 +119,4 @@ if __name__ == '__main__':
         for thread in threads: thread.join()
         print strftime('%Y%m%d.%H:%M:%s'), 'Joined threads for ', subset
 
-        print strftime('%Y%m%d.%H:%M:%s'), '#### Users Remaining #### ', usernames
+        print strftime('%Y%m%d.%H:%M:%s'), '#### Users Remaining #### ', len(usernames)
