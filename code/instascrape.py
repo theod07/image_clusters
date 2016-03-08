@@ -87,8 +87,13 @@ def reactid_to_srcurl(reactids):
     '''
     convert reactid strings to img source url strings
     '''
-
-    pass
+    src_urls = []
+    for reactid in reactids:
+        current = reactid.replace('=1','.').replace('=2',':')
+        chop_l = current.split('http')[1]
+        chopped = chop_l.split('.jpg')[0]
+        src_urls.append('http'+chopped+'.jpg')
+    return src_urls
 
 if __name__ == '__main__':
     usernames = get_usernames('../data/most_popular.txt')
