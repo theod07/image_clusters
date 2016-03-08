@@ -1,0 +1,32 @@
+# commands to run once logged into AWS instance
+# make sure to log into root@PUBLIC_DNS
+
+# ssh -i /path/my-key-pair.pem ec2-user@ec2-198-51-100-1.compute-1.amazonaws.com
+
+# update package manager
+sudo yum update
+
+# need php5
+sudo yum install php5-devel
+
+# need redis
+wget http://download.redis.io/redis-stable.tar.gz
+tar xvzf redis-stable.tar.gz
+cd redis-stable
+make
+
+# install php-redis extension
+wget https://github.com/nicolasff/phpredis/archive/master.zip
+unzip master.zip
+cd phpredis-master
+
+phpize
+./configure
+make
+make test
+sudo make install
+
+# need composer. Ensure the Curl dependency is installed (sudo apt-get -y install curl)
+curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+
+#create a directory for project and install Instagram API wrapper for PHP via composer
