@@ -61,7 +61,28 @@ def scrape_links(username, sleeptime, down_scrolls):
     # write_file(username, bad_links, 'baduserlinks')
     return
 
-def find_replace(url):
+def get_src_url(urls):
+    ''' Takes a list of data-reactid items and returns a list of source links
+    '''
+    src_urls = []
+    has_ovg3g = 0
+    for url in urls:
+        driver = webdriver.Firefox()
+        driver.get(url)
+        tags = driver.find_elements_by_class_name('_ovg3g')
+
+        if len(tags) > 0:
+            yes_ovg3g += 1
+        else:
+            print 'No _ovg3g ', link
+
+        for tag in tags:
+            src_urls.append(tag.get_attribute('data-reactid'))
+
+        driver.close()
+    return src_urls
+
+def reactid_url(url):
     '''
     =1 --> period
     =2 --> colon
@@ -70,17 +91,14 @@ def find_replace(url):
     pass
 
 if __name__ == '__main__':
-    print 'looks like the program entered MAIN correctly..'
     usernames = get_usernames('../data/most_popular.txt')
     num_threads = 3
     down_scrolls = 200
     pause = 2
-    print 'len(usernames): ', len(usernames)
 
     while len(usernames) > 0:
         threads = []
         subset = [usernames.pop() for i in range(num_threads)]
-        print 'len(usernames): ', len(usernames)
         print 'subset: ', subset
         for name in subset:
             try:
@@ -88,22 +106,12 @@ if __name__ == '__main__':
                 print strftime('%Y%m%d.%H:%M:%s'), ' Pulling up IG profile for ', name
                 t = threading.Thread(target=scrape_links, args=(name, pause, down_scrolls,))
                 t.start()
-                print 'Started thread for ', name
+                print strftime('%Y%m%d.%H:%M:%s'), 'Started thread for ', name
                 threads.append(t)
             except OSError:
                 print strftime('%Y%m%d.%H:%M:%s'), ' directory already exists for',name
 
         for thread in threads: thread.join()
-        print 'Joined threads for ', subset
+        print strftime('%Y%m%d.%H:%M:%s'), 'Joined threads for ', subset
 
-        print '#### Users Remaining #### ', usernames
-
-    # i = 0
-    # while
-    #     threads = []
-    #     for name in usernames[:10]:
-    #         t = threading.Thread(target=scrape_threaded, args=(name, sleeptime=1, down_scrolls=2))
-    #         threads.append(t)
-    #
-    #     for thread in threads: thread.start()
-    #     for thread in threads: thread.join()
+        print strftime('%Y%m%d.%H:%M:%s'), '#### Users Remaining #### ', usernames
