@@ -103,7 +103,12 @@ if __name__ == '__main__':
 
     while len(usernames) > 0:
         threads = []
-        subset = [usernames.pop() for i in range(num_threads)]
+
+        if len(usernames) >= num_threads:
+            subset = [usernames.pop() for i in range(num_threads)]
+        else:
+            subset = [usernames.pop() for name in usernames]
+            
         print 'subset: ', subset
         for name in subset:
             try:
