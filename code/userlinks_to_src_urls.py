@@ -1,3 +1,7 @@
+import selenium.webdriver as webdriver
+import time
+import os
+from time import strftime
 
 def get_usernames(filename):
     '''
@@ -9,7 +13,7 @@ def get_usernames(filename):
     usernames = [name.split('\n')[0] for name in usernames if not name.startswith('#')]
     return set(usernames)
 
-def get_data_reactids(urls, driver):
+def get_data_reactids(urls, driver, sleeptime=2):
     ''' Takes a list of urls for each image and returns a list of data-reactid items
     '''
     reactids = []
@@ -26,7 +30,10 @@ def get_data_reactids(urls, driver):
         for tag in tags:
             reactids.append(tag.get_attribute('data-reactid'))
 
-    print ( 'Successfully found %s reactids among %s urls' %(yes_ovg3g, len(urls)) )
+        time.sleep(sleeptime*random.random())
+
+    print ( 'Successfully found %s reactids among %s urls'
+                                                    %(yes_ovg3g, len(urls)) )
     return reactids
 
 def reactid_to_srcurl(reactids):
@@ -41,25 +48,73 @@ def reactid_to_srcurl(reactids):
         src_urls.append('http'+chopped+'.jpg')
     return src_urls
 
-def write_file(name, items, description):
+def userlinks_to_src_urls(username):
+    fn_read = '../data/'+name+'/'+name+'_gooduserlinks.txt'
     try:
-        os.mkdir('../data/'+name)
-    except OSError:
-        print 'Directory already exists: ', name
-
-    fname = name+'_'+description+'.txt'
-    f = open( ('../data/'+name+'/'+fname), 'w')
-    for item in items:
-        f.write(item + '\n')
-    f.close()
-    print strftime('%Y%m%d.%H:%M:%s'), ' items written to ', fname
+        userlinks = read_vals(fn_read).split('\n')
+        userlinks = [l.split('\n')[0] for l in userlinks]
+        driver = webdriver.Firefox()
+        reactids = get_data_reactids(userlinks, driver)
+        src_urls = reactid_to_srcurl(reactids)
+        write_file(username, src_urls, 'src_urls')
+    except IOError:
+        print 'No file: ', fn_read
+        return 1
     return
 
-def main():
-    for user in users:
-    pass
+def write_file(username, items, description):
+    try:
+        os.mkdir('../data/'+username)
+    except OSError:
+        print 'Directory already exists: ', username
+
+        fname = username+'_'+description+'.txt'
+        f = open( ('../data/'+username+'/'+fname), 'w')
+        for item in items:
+            f.write(item + '\n')
+            f.close()
+            print strftime('%Y%m%d.%H:%M:%s'), ' items written to ', fname
+            return
+
+def read_vals(fname):
+    with open(fname, 'r') as f:
+        vals = f.readlines()
+        return vals
+
+def thread_get_src_urls(users, num_threads=3, sleeptime=3):
+    inv_users = []
+
+    while len(users) > 0:
+        threads = []
+
+        if len(users) >= num_threads:
+            subset = [usernames.pop() for i in range(num_threads)]
+        else:
+            subset = [usernames.pop() for user in users]
+
+        print 'subset: ', subset
+
+        for name in subset:
+            try:
+                t = threading.Thread(target=userlinks_to_src_urls, args=(name,))
+                t.start()
+                print strftime('%Y%m%d.%H:%M:%s'), 'Started thread for ', name
+                threads.append(t)
+            except:
+                inv_users.append(name)
+                print strftime('%Y%m%d.%H:%M:%s'), ' Problem with ', name
+
+        for thread in threads: thread.join()
+        print strftime('%Y%m%d.%H:%M:%s'), 'Joined threads for ', subset
+
+        print strftime('%Y%m%d.%H:%M:%s'), '#### Users Remaining #### ', len(usernames)
+    return
 
 
 if __name__ == '__main__':
     usernames = get_usernames('../data/most_popular.txt')
-    main()
+    has_dirs = set(os.listdir('../data'))
+    # valid_users = has_dirs.intersection(usernames)
+    valid_users = [usernames.pop() for i in range(4)]
+
+    thread_get_src_urls(valid_users, num_threads=3, sleeptime=4)
