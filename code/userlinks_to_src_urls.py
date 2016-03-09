@@ -1,7 +1,9 @@
+import threading
 import selenium.webdriver as webdriver
+from time import strftime
 import time
 import os
-from time import strftime
+import random
 
 def get_usernames(filename):
     '''
@@ -49,9 +51,11 @@ def reactid_to_srcurl(reactids):
     return src_urls
 
 def userlinks_to_src_urls(username):
-    fn_read = '../data/'+name+'/'+name+'_gooduserlinks.txt'
+    print 'Inside userlinks_to_src_urls', username
+    fn_read = '../data/'+username+'/'+username+'_gooduserlinks.txt'
+
     try:
-        userlinks = read_vals(fn_read).split('\n')
+        userlinks = read_vals(fn_read)
         userlinks = [l.split('\n')[0] for l in userlinks]
         driver = webdriver.Firefox()
         reactids = get_data_reactids(userlinks, driver)
@@ -59,8 +63,6 @@ def userlinks_to_src_urls(username):
         write_file(username, src_urls, 'src_urls')
     except IOError:
         print 'No file: ', fn_read
-        return 1
-    return
 
 def write_file(username, items, description):
     try:
@@ -88,13 +90,17 @@ def thread_get_src_urls(users, num_threads=3, sleeptime=3):
         threads = []
 
         if len(users) >= num_threads:
-            subset = [usernames.pop() for i in range(num_threads)]
+            subset = [users.pop() for i in range(num_threads)]
         else:
-            subset = [usernames.pop() for user in users]
+            subset = [users.pop() for user in users]
 
         print 'subset: ', subset
 
         for name in subset:
+            # check if we've already run through this user
+            fn = name+'_src_urls.txt'
+            if fn in os.listdir('../data/'+name+'/'):
+                continue
             try:
                 t = threading.Thread(target=userlinks_to_src_urls, args=(name,))
                 t.start()
@@ -104,10 +110,11 @@ def thread_get_src_urls(users, num_threads=3, sleeptime=3):
                 inv_users.append(name)
                 print strftime('%Y%m%d.%H:%M:%s'), ' Problem with ', name
 
+        print '### threads: ', threads
         for thread in threads: thread.join()
         print strftime('%Y%m%d.%H:%M:%s'), 'Joined threads for ', subset
 
-        print strftime('%Y%m%d.%H:%M:%s'), '#### Users Remaining #### ', len(usernames)
+        print strftime('%Y%m%d.%H:%M:%s'), '#### Users Remaining #### ', len(users)
     return
 
 
@@ -115,6 +122,7 @@ if __name__ == '__main__':
     usernames = get_usernames('../data/most_popular.txt')
     has_dirs = set(os.listdir('../data'))
     # valid_users = has_dirs.intersection(usernames)
-    valid_users = [usernames.pop() for i in range(4)]
+    valid_users = [usernames.pop() for i in range(250)]
 
-    thread_get_src_urls(valid_users, num_threads=3, sleeptime=4)
+    # thread_get_src_urls(valid_users, num_threads=1, sleeptime=4)
+    userlinks_to_src_urls(valid_users[-1])
