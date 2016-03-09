@@ -2,6 +2,7 @@
 # Top 100 Instagram Users by Followers: https://socialblade.com/instagram/top/100/followers
 # Top 100 Instagram Users by Following: https://socialblade.com/instagram/top/100/following
 # Top 100 Instagram Users by Uploaded Photos: https://socialblade.com/instagram/top/100/media
+# mia's suggestions jenselter, jennajameson, fuckjerry, thefatjewish, daquan
 taylorswift
 badgalriri
 codysimpson
@@ -463,3 +464,9 @@ starmagicphils
 mfj57
 newyork_show
 iraqzz
+jenselter
+jennajameson
+fuckjerry
+thefatjewish
+daquan
+gusbot1.0
