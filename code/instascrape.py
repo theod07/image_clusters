@@ -16,7 +16,7 @@ def get_usernames(filename):
     with open(filename) as f:
         usernames = f.readlines()
     usernames = [name.split('\n')[0] for name in usernames if not name.startswith('#')]
-    return list(set(usernames))
+    return set(usernames)
 
 
 def get_userlinks(username, driver, sleeptime=1, down_scrolls=200):
