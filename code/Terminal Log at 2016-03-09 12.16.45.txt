@@ -1,0 +1,679 @@
+20160308.21:27:1457501276  Pulling up IG profile for  nbcnews
+Started thread for  nbcnews
+20160308.21:27:1457501276  Pulling up IG profile for  fashiontimeig
+Started thread for  fashiontimeig
+20160308.21:27:1457501276  Pulling up IG profile for  travispastrana
+Started thread for  travispastrana
+Sorry, this page isnt available:  fashiontimeig 20160308.21:41:1457502085  items written to  fashiontimeig_gooduserlinks.txt
+20160308.21:55:1457502915  items written to  travispastrana_gooduserlinks.txt
+20160308.21:55:1457502926  items written to  nbcnews_gooduserlinks.txt
+Joined threads for  ['nbcnews', 'fashiontimeig', 'travispastrana']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears', 'makegirlz', 'officialbiebernews', '1d.legendary.updates', 'khaliduk32', 'linecook', 'aol', 'iraqeen', 'hudabeauty', 'bmdc27', 'bobbyfresh', 'elnuevodiariord', 'npr', 'charlesdharapak', 'kuntseva_a', 'jimmyfallon', 'justinbieber', 'gothiphop', 'ayutingting92', 'champagnepapi', 'milwaukeebucks', 'okcthunder', 'alwefaq', 'sanasaeed2u', 'official_1d_updates', 'kidfella', 'julian_wilson', 'shopjeen', 'harajsa', 'beyonce', 'reuters', 'nickiminaj', 'sacramentokings', 'eggsformylegs', 'fashionbeautydisplay', 'corybooker', 'internetpoet', 'rotana.1', 'starbucks', 'facebo08', 'markusprell', 'gandjfurches', 'nickbilton', 'ronaldinhooficial', 'howulivinjpiven', 'efrboy', 'kevinhart4real', 'codysimpson', 'sheiva_h', 'ryanseacrest', 'lucyhale', 'sellsneakershere', 'levisbrasil', 'dwyanewade', 'year', 'zooeydeschanel', 'rapjuggernaut', 'shaym', 'marshanskiy', 'gradient', 'thinkinglikeamillionaire', 'howuseeit', 'miamiheat', 'red']
+len(usernames):  151
+subset:  ['red', 'miamiheat', 'howuseeit']
+20160308.21:55:1457502926  Pulling up IG profile for  red
+Started thread for  red
+20160308.21:55:1457502926  Pulling up IG profile for  miamiheat
+Started thread for  miamiheat
+20160308.21:55:1457502926  Pulling up IG profile for  howuseeit
+Started thread for  howuseeit
+20160308.22:00:1457503253  items written to  howuseeit_gooduserlinks.txt
+20160308.22:01:1457503289  items written to  red_gooduserlinks.txt
+20160308.22:05:1457503553  items written to  miamiheat_gooduserlinks.txt
+Joined threads for  ['red', 'miamiheat', 'howuseeit']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears', 'makegirlz', 'officialbiebernews', '1d.legendary.updates', 'khaliduk32', 'linecook', 'aol', 'iraqeen', 'hudabeauty', 'bmdc27', 'bobbyfresh', 'elnuevodiariord', 'npr', 'charlesdharapak', 'kuntseva_a', 'jimmyfallon', 'justinbieber', 'gothiphop', 'ayutingting92', 'champagnepapi', 'milwaukeebucks', 'okcthunder', 'alwefaq', 'sanasaeed2u', 'official_1d_updates', 'kidfella', 'julian_wilson', 'shopjeen', 'harajsa', 'beyonce', 'reuters', 'nickiminaj', 'sacramentokings', 'eggsformylegs', 'fashionbeautydisplay', 'corybooker', 'internetpoet', 'rotana.1', 'starbucks', 'facebo08', 'markusprell', 'gandjfurches', 'nickbilton', 'ronaldinhooficial', 'howulivinjpiven', 'efrboy', 'kevinhart4real', 'codysimpson', 'sheiva_h', 'ryanseacrest', 'lucyhale', 'sellsneakershere', 'levisbrasil', 'dwyanewade', 'year', 'zooeydeschanel', 'rapjuggernaut', 'shaym', 'marshanskiy', 'gradient', 'thinkinglikeamillionaire']
+len(usernames):  148
+subset:  ['thinkinglikeamillionaire', 'gradient', 'marshanskiy']
+20160308.22:05:1457503553  Pulling up IG profile for  thinkinglikeamillionaire
+Started thread for  thinkinglikeamillionaire
+20160308.22:05:1457503553  Pulling up IG profile for  gradient
+Started thread for  gradient
+20160308.22:05:1457503553  Pulling up IG profile for  marshanskiy
+Started thread for  marshanskiy
+Sorry, this page isnt available:  thinkinglikeamillionaire 20160308.22:09:1457503776  items written to  thinkinglikeamillionaire_gooduserlinks.txt
+20160308.22:10:1457503843  items written to  gradient_gooduserlinks.txt
+20160308.22:11:1457503916  items written to  marshanskiy_gooduserlinks.txt
+Joined threads for  ['thinkinglikeamillionaire', 'gradient', 'marshanskiy']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears', 'makegirlz', 'officialbiebernews', '1d.legendary.updates', 'khaliduk32', 'linecook', 'aol', 'iraqeen', 'hudabeauty', 'bmdc27', 'bobbyfresh', 'elnuevodiariord', 'npr', 'charlesdharapak', 'kuntseva_a', 'jimmyfallon', 'justinbieber', 'gothiphop', 'ayutingting92', 'champagnepapi', 'milwaukeebucks', 'okcthunder', 'alwefaq', 'sanasaeed2u', 'official_1d_updates', 'kidfella', 'julian_wilson', 'shopjeen', 'harajsa', 'beyonce', 'reuters', 'nickiminaj', 'sacramentokings', 'eggsformylegs', 'fashionbeautydisplay', 'corybooker', 'internetpoet', 'rotana.1', 'starbucks', 'facebo08', 'markusprell', 'gandjfurches', 'nickbilton', 'ronaldinhooficial', 'howulivinjpiven', 'efrboy', 'kevinhart4real', 'codysimpson', 'sheiva_h', 'ryanseacrest', 'lucyhale', 'sellsneakershere', 'levisbrasil', 'dwyanewade', 'year', 'zooeydeschanel', 'rapjuggernaut', 'shaym']
+len(usernames):  145
+subset:  ['shaym', 'rapjuggernaut', 'zooeydeschanel']
+20160308.22:11:1457503916  Pulling up IG profile for  shaym
+Started thread for  shaym
+20160308.22:11:1457503916  Pulling up IG profile for  rapjuggernaut
+Started thread for  rapjuggernaut
+20160308.22:11:1457503916  Pulling up IG profile for  zooeydeschanel
+Started thread for  zooeydeschanel
+20160308.22:17:1457504221  items written to  shaym_gooduserlinks.txt
+20160308.22:18:1457504320  items written to  zooeydeschanel_gooduserlinks.txt
+20160308.23:21:1457508066  items written to  rapjuggernaut_gooduserlinks.txt
+Joined threads for  ['shaym', 'rapjuggernaut', 'zooeydeschanel']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears', 'makegirlz', 'officialbiebernews', '1d.legendary.updates', 'khaliduk32', 'linecook', 'aol', 'iraqeen', 'hudabeauty', 'bmdc27', 'bobbyfresh', 'elnuevodiariord', 'npr', 'charlesdharapak', 'kuntseva_a', 'jimmyfallon', 'justinbieber', 'gothiphop', 'ayutingting92', 'champagnepapi', 'milwaukeebucks', 'okcthunder', 'alwefaq', 'sanasaeed2u', 'official_1d_updates', 'kidfella', 'julian_wilson', 'shopjeen', 'harajsa', 'beyonce', 'reuters', 'nickiminaj', 'sacramentokings', 'eggsformylegs', 'fashionbeautydisplay', 'corybooker', 'internetpoet', 'rotana.1', 'starbucks', 'facebo08', 'markusprell', 'gandjfurches', 'nickbilton', 'ronaldinhooficial', 'howulivinjpiven', 'efrboy', 'kevinhart4real', 'codysimpson', 'sheiva_h', 'ryanseacrest', 'lucyhale', 'sellsneakershere', 'levisbrasil', 'dwyanewade', 'year']
+len(usernames):  142
+subset:  ['year', 'dwyanewade', 'levisbrasil']
+20160308.23:21:1457508066  Pulling up IG profile for  year
+Started thread for  year
+20160308.23:21:1457508066  Pulling up IG profile for  dwyanewade
+Started thread for  dwyanewade
+20160308.23:21:1457508066  Pulling up IG profile for  levisbrasil
+Started thread for  levisbrasil
+20160309.00:14:1457511276  items written to  year_gooduserlinks.txt
+20160309.00:31:1457512296  items written to  dwyanewade_gooduserlinks.txt
+20160309.00:31:1457512308  items written to  levisbrasil_gooduserlinks.txt
+Joined threads for  ['year', 'dwyanewade', 'levisbrasil']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears', 'makegirlz', 'officialbiebernews', '1d.legendary.updates', 'khaliduk32', 'linecook', 'aol', 'iraqeen', 'hudabeauty', 'bmdc27', 'bobbyfresh', 'elnuevodiariord', 'npr', 'charlesdharapak', 'kuntseva_a', 'jimmyfallon', 'justinbieber', 'gothiphop', 'ayutingting92', 'champagnepapi', 'milwaukeebucks', 'okcthunder', 'alwefaq', 'sanasaeed2u', 'official_1d_updates', 'kidfella', 'julian_wilson', 'shopjeen', 'harajsa', 'beyonce', 'reuters', 'nickiminaj', 'sacramentokings', 'eggsformylegs', 'fashionbeautydisplay', 'corybooker', 'internetpoet', 'rotana.1', 'starbucks', 'facebo08', 'markusprell', 'gandjfurches', 'nickbilton', 'ronaldinhooficial', 'howulivinjpiven', 'efrboy', 'kevinhart4real', 'codysimpson', 'sheiva_h', 'ryanseacrest', 'lucyhale', 'sellsneakershere']
+len(usernames):  139
+subset:  ['sellsneakershere', 'lucyhale', 'ryanseacrest']
+20160309.00:31:1457512308  Pulling up IG profile for  sellsneakershere
+Started thread for  sellsneakershere
+20160309.00:31:1457512308  Pulling up IG profile for  lucyhale
+Started thread for  lucyhale
+20160309.00:31:1457512308  Pulling up IG profile for  ryanseacrest
+Started thread for  ryanseacrest
+20160309.00:37:1457512627  items written to  sellsneakershere_gooduserlinks.txt
+20160309.00:37:1457512667  items written to  ryanseacrest_gooduserlinks.txt
+20160309.00:37:1457512672  items written to  lucyhale_gooduserlinks.txt
+Joined threads for  ['sellsneakershere', 'lucyhale', 'ryanseacrest']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears', 'makegirlz', 'officialbiebernews', '1d.legendary.updates', 'khaliduk32', 'linecook', 'aol', 'iraqeen', 'hudabeauty', 'bmdc27', 'bobbyfresh', 'elnuevodiariord', 'npr', 'charlesdharapak', 'kuntseva_a', 'jimmyfallon', 'justinbieber', 'gothiphop', 'ayutingting92', 'champagnepapi', 'milwaukeebucks', 'okcthunder', 'alwefaq', 'sanasaeed2u', 'official_1d_updates', 'kidfella', 'julian_wilson', 'shopjeen', 'harajsa', 'beyonce', 'reuters', 'nickiminaj', 'sacramentokings', 'eggsformylegs', 'fashionbeautydisplay', 'corybooker', 'internetpoet', 'rotana.1', 'starbucks', 'facebo08', 'markusprell', 'gandjfurches', 'nickbilton', 'ronaldinhooficial', 'howulivinjpiven', 'efrboy', 'kevinhart4real', 'codysimpson', 'sheiva_h']
+len(usernames):  136
+subset:  ['sheiva_h', 'codysimpson', 'kevinhart4real']
+20160309.00:37:1457512672  Pulling up IG profile for  sheiva_h
+Started thread for  sheiva_h
+20160309.00:37:1457512672  Pulling up IG profile for  codysimpson
+Started thread for  codysimpson
+20160309.00:37:1457512672  Pulling up IG profile for  kevinhart4real
+Started thread for  kevinhart4real
+20160309.00:41:1457512917  items written to  codysimpson_gooduserlinks.txt
+20160309.00:42:1457512969  items written to  kevinhart4real_gooduserlinks.txt
+20160309.00:43:1457513011  items written to  sheiva_h_gooduserlinks.txt
+Joined threads for  ['sheiva_h', 'codysimpson', 'kevinhart4real']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears', 'makegirlz', 'officialbiebernews', '1d.legendary.updates', 'khaliduk32', 'linecook', 'aol', 'iraqeen', 'hudabeauty', 'bmdc27', 'bobbyfresh', 'elnuevodiariord', 'npr', 'charlesdharapak', 'kuntseva_a', 'jimmyfallon', 'justinbieber', 'gothiphop', 'ayutingting92', 'champagnepapi', 'milwaukeebucks', 'okcthunder', 'alwefaq', 'sanasaeed2u', 'official_1d_updates', 'kidfella', 'julian_wilson', 'shopjeen', 'harajsa', 'beyonce', 'reuters', 'nickiminaj', 'sacramentokings', 'eggsformylegs', 'fashionbeautydisplay', 'corybooker', 'internetpoet', 'rotana.1', 'starbucks', 'facebo08', 'markusprell', 'gandjfurches', 'nickbilton', 'ronaldinhooficial', 'howulivinjpiven', 'efrboy']
+len(usernames):  133
+subset:  ['efrboy', 'howulivinjpiven', 'ronaldinhooficial']
+20160309.00:43:1457513011  Pulling up IG profile for  efrboy
+Started thread for  efrboy
+20160309.00:43:1457513011  Pulling up IG profile for  howulivinjpiven
+Started thread for  howulivinjpiven
+20160309.00:43:1457513011  Pulling up IG profile for  ronaldinhooficial
+Started thread for  ronaldinhooficial
+Sorry, this page isnt available:  howulivinjpiven 20160309.00:47:1457513220  items written to  howulivinjpiven_gooduserlinks.txt
+20160309.00:48:1457513302  items written to  ronaldinhooficial_gooduserlinks.txt
+20160309.00:48:1457513310  items written to  efrboy_gooduserlinks.txt
+Joined threads for  ['efrboy', 'howulivinjpiven', 'ronaldinhooficial']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears', 'makegirlz', 'officialbiebernews', '1d.legendary.updates', 'khaliduk32', 'linecook', 'aol', 'iraqeen', 'hudabeauty', 'bmdc27', 'bobbyfresh', 'elnuevodiariord', 'npr', 'charlesdharapak', 'kuntseva_a', 'jimmyfallon', 'justinbieber', 'gothiphop', 'ayutingting92', 'champagnepapi', 'milwaukeebucks', 'okcthunder', 'alwefaq', 'sanasaeed2u', 'official_1d_updates', 'kidfella', 'julian_wilson', 'shopjeen', 'harajsa', 'beyonce', 'reuters', 'nickiminaj', 'sacramentokings', 'eggsformylegs', 'fashionbeautydisplay', 'corybooker', 'internetpoet', 'rotana.1', 'starbucks', 'facebo08', 'markusprell', 'gandjfurches', 'nickbilton']
+len(usernames):  130
+subset:  ['nickbilton', 'gandjfurches', 'markusprell']
+20160309.00:48:1457513310  Pulling up IG profile for  nickbilton
+Started thread for  nickbilton
+20160309.00:48:1457513310  Pulling up IG profile for  gandjfurches
+Started thread for  gandjfurches
+20160309.00:48:1457513311  Pulling up IG profile for  markusprell
+Started thread for  markusprell
+Sorry, this page isnt available:  gandjfurches Sorry, this page isnt available:  markusprell 20160309.00:52:1457513541  items written to  nickbilton_gooduserlinks.txt
+20160309.01:00:1457514029  items written to  gandjfurches_gooduserlinks.txt
+20160309.01:00:1457514047  items written to  markusprell_gooduserlinks.txt
+Joined threads for  ['nickbilton', 'gandjfurches', 'markusprell']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears', 'makegirlz', 'officialbiebernews', '1d.legendary.updates', 'khaliduk32', 'linecook', 'aol', 'iraqeen', 'hudabeauty', 'bmdc27', 'bobbyfresh', 'elnuevodiariord', 'npr', 'charlesdharapak', 'kuntseva_a', 'jimmyfallon', 'justinbieber', 'gothiphop', 'ayutingting92', 'champagnepapi', 'milwaukeebucks', 'okcthunder', 'alwefaq', 'sanasaeed2u', 'official_1d_updates', 'kidfella', 'julian_wilson', 'shopjeen', 'harajsa', 'beyonce', 'reuters', 'nickiminaj', 'sacramentokings', 'eggsformylegs', 'fashionbeautydisplay', 'corybooker', 'internetpoet', 'rotana.1', 'starbucks', 'facebo08']
+len(usernames):  127
+subset:  ['facebo08', 'starbucks', 'rotana.1']
+20160309.01:00:1457514047  Pulling up IG profile for  facebo08
+Started thread for  facebo08
+20160309.01:00:1457514047  Pulling up IG profile for  starbucks
+Started thread for  starbucks
+20160309.01:00:1457514047  Pulling up IG profile for  rotana.1
+Started thread for  rotana.1
+Sorry, this page isnt available:  rotana.1 20160309.01:05:1457514334  items written to  facebo08_gooduserlinks.txt
+20160309.01:06:1457514378  items written to  starbucks_gooduserlinks.txt
+20160309.01:08:1457514492  items written to  rotana.1_gooduserlinks.txt
+Joined threads for  ['facebo08', 'starbucks', 'rotana.1']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears', 'makegirlz', 'officialbiebernews', '1d.legendary.updates', 'khaliduk32', 'linecook', 'aol', 'iraqeen', 'hudabeauty', 'bmdc27', 'bobbyfresh', 'elnuevodiariord', 'npr', 'charlesdharapak', 'kuntseva_a', 'jimmyfallon', 'justinbieber', 'gothiphop', 'ayutingting92', 'champagnepapi', 'milwaukeebucks', 'okcthunder', 'alwefaq', 'sanasaeed2u', 'official_1d_updates', 'kidfella', 'julian_wilson', 'shopjeen', 'harajsa', 'beyonce', 'reuters', 'nickiminaj', 'sacramentokings', 'eggsformylegs', 'fashionbeautydisplay', 'corybooker', 'internetpoet']
+len(usernames):  124
+subset:  ['internetpoet', 'corybooker', 'fashionbeautydisplay']
+20160309.01:08:1457514492  Pulling up IG profile for  internetpoet
+Started thread for  internetpoet
+20160309.01:08:1457514492  Pulling up IG profile for  corybooker
+Started thread for  corybooker
+20160309.01:08:1457514492  Pulling up IG profile for  fashionbeautydisplay
+Started thread for  fashionbeautydisplay
+20160309.01:11:1457514712  items written to  internetpoet_gooduserlinks.txt
+20160309.01:14:1457514848  items written to  corybooker_gooduserlinks.txt
+20160309.01:14:1457514860  items written to  fashionbeautydisplay_gooduserlinks.txt
+Joined threads for  ['internetpoet', 'corybooker', 'fashionbeautydisplay']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears', 'makegirlz', 'officialbiebernews', '1d.legendary.updates', 'khaliduk32', 'linecook', 'aol', 'iraqeen', 'hudabeauty', 'bmdc27', 'bobbyfresh', 'elnuevodiariord', 'npr', 'charlesdharapak', 'kuntseva_a', 'jimmyfallon', 'justinbieber', 'gothiphop', 'ayutingting92', 'champagnepapi', 'milwaukeebucks', 'okcthunder', 'alwefaq', 'sanasaeed2u', 'official_1d_updates', 'kidfella', 'julian_wilson', 'shopjeen', 'harajsa', 'beyonce', 'reuters', 'nickiminaj', 'sacramentokings', 'eggsformylegs']
+len(usernames):  121
+subset:  ['eggsformylegs', 'sacramentokings', 'nickiminaj']
+20160309.01:14:1457514860  Pulling up IG profile for  eggsformylegs
+Started thread for  eggsformylegs
+20160309.01:14:1457514860  Pulling up IG profile for  sacramentokings
+Started thread for  sacramentokings
+20160309.01:14:1457514860  Pulling up IG profile for  nickiminaj
+Started thread for  nickiminaj
+20160309.01:18:1457515082  items written to  sacramentokings_gooduserlinks.txt
+20160309.01:18:1457515136  items written to  eggsformylegs_gooduserlinks.txt
+20160309.01:19:1457515165  items written to  nickiminaj_gooduserlinks.txt
+Joined threads for  ['eggsformylegs', 'sacramentokings', 'nickiminaj']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears', 'makegirlz', 'officialbiebernews', '1d.legendary.updates', 'khaliduk32', 'linecook', 'aol', 'iraqeen', 'hudabeauty', 'bmdc27', 'bobbyfresh', 'elnuevodiariord', 'npr', 'charlesdharapak', 'kuntseva_a', 'jimmyfallon', 'justinbieber', 'gothiphop', 'ayutingting92', 'champagnepapi', 'milwaukeebucks', 'okcthunder', 'alwefaq', 'sanasaeed2u', 'official_1d_updates', 'kidfella', 'julian_wilson', 'shopjeen', 'harajsa', 'beyonce', 'reuters']
+len(usernames):  118
+subset:  ['reuters', 'beyonce', 'harajsa']
+20160309.01:19:1457515165  Pulling up IG profile for  reuters
+Started thread for  reuters
+20160309.01:19:1457515165  Pulling up IG profile for  beyonce
+Started thread for  beyonce
+20160309.01:19:1457515165  Pulling up IG profile for  harajsa
+Started thread for  harajsa
+20160309.01:23:1457515410  items written to  harajsa_gooduserlinks.txt
+20160309.01:24:1457515487  items written to  beyonce_gooduserlinks.txt
+20160309.01:25:1457515504  items written to  reuters_gooduserlinks.txt
+Joined threads for  ['reuters', 'beyonce', 'harajsa']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears', 'makegirlz', 'officialbiebernews', '1d.legendary.updates', 'khaliduk32', 'linecook', 'aol', 'iraqeen', 'hudabeauty', 'bmdc27', 'bobbyfresh', 'elnuevodiariord', 'npr', 'charlesdharapak', 'kuntseva_a', 'jimmyfallon', 'justinbieber', 'gothiphop', 'ayutingting92', 'champagnepapi', 'milwaukeebucks', 'okcthunder', 'alwefaq', 'sanasaeed2u', 'official_1d_updates', 'kidfella', 'julian_wilson', 'shopjeen']
+len(usernames):  115
+subset:  ['shopjeen', 'julian_wilson', 'kidfella']
+20160309.01:25:1457515504  Pulling up IG profile for  shopjeen
+Started thread for  shopjeen
+20160309.01:25:1457515504  Pulling up IG profile for  julian_wilson
+Started thread for  julian_wilson
+20160309.01:25:1457515504  Pulling up IG profile for  kidfella
+Started thread for  kidfella
+20160309.01:29:1457515770  items written to  julian_wilson_gooduserlinks.txt
+20160309.01:31:1457515875  items written to  kidfella_gooduserlinks.txt
+20160309.01:32:1457515950  items written to  shopjeen_gooduserlinks.txt
+Joined threads for  ['shopjeen', 'julian_wilson', 'kidfella']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears', 'makegirlz', 'officialbiebernews', '1d.legendary.updates', 'khaliduk32', 'linecook', 'aol', 'iraqeen', 'hudabeauty', 'bmdc27', 'bobbyfresh', 'elnuevodiariord', 'npr', 'charlesdharapak', 'kuntseva_a', 'jimmyfallon', 'justinbieber', 'gothiphop', 'ayutingting92', 'champagnepapi', 'milwaukeebucks', 'okcthunder', 'alwefaq', 'sanasaeed2u', 'official_1d_updates']
+len(usernames):  112
+subset:  ['official_1d_updates', 'sanasaeed2u', 'alwefaq']
+20160309.01:32:1457515950  Pulling up IG profile for  official_1d_updates
+Started thread for  official_1d_updates
+20160309.01:32:1457515950  Pulling up IG profile for  sanasaeed2u
+Started thread for  sanasaeed2u
+20160309.01:32:1457515950  Pulling up IG profile for  alwefaq
+Started thread for  alwefaq
+Sorry, this page isnt available:  sanasaeed2u Sorry, this page isnt available:  official_1d_updates 20160309.01:36:1457516164  items written to  sanasaeed2u_gooduserlinks.txt
+20160309.01:37:1457516262  items written to  alwefaq_gooduserlinks.txt
+20160309.01:38:1457516308  items written to  official_1d_updates_gooduserlinks.txt
+Joined threads for  ['official_1d_updates', 'sanasaeed2u', 'alwefaq']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears', 'makegirlz', 'officialbiebernews', '1d.legendary.updates', 'khaliduk32', 'linecook', 'aol', 'iraqeen', 'hudabeauty', 'bmdc27', 'bobbyfresh', 'elnuevodiariord', 'npr', 'charlesdharapak', 'kuntseva_a', 'jimmyfallon', 'justinbieber', 'gothiphop', 'ayutingting92', 'champagnepapi', 'milwaukeebucks', 'okcthunder']
+len(usernames):  109
+subset:  ['okcthunder', 'milwaukeebucks', 'champagnepapi']
+20160309.01:38:1457516308  Pulling up IG profile for  okcthunder
+Started thread for  okcthunder
+20160309.01:38:1457516308  Pulling up IG profile for  milwaukeebucks
+Started thread for  milwaukeebucks
+20160309.01:38:1457516308  Pulling up IG profile for  champagnepapi
+Started thread for  champagnepapi
+Sorry, this page isnt available:  milwaukeebucks 20160309.01:43:1457516597  items written to  okcthunder_gooduserlinks.txt
+20160309.01:44:1457516689  items written to  champagnepapi_gooduserlinks.txt
+20160309.01:46:1457516772  items written to  milwaukeebucks_gooduserlinks.txt
+Joined threads for  ['okcthunder', 'milwaukeebucks', 'champagnepapi']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears', 'makegirlz', 'officialbiebernews', '1d.legendary.updates', 'khaliduk32', 'linecook', 'aol', 'iraqeen', 'hudabeauty', 'bmdc27', 'bobbyfresh', 'elnuevodiariord', 'npr', 'charlesdharapak', 'kuntseva_a', 'jimmyfallon', 'justinbieber', 'gothiphop', 'ayutingting92']
+len(usernames):  106
+subset:  ['ayutingting92', 'gothiphop', 'justinbieber']
+20160309.01:46:1457516772  Pulling up IG profile for  ayutingting92
+Started thread for  ayutingting92
+20160309.01:46:1457516772  Pulling up IG profile for  gothiphop
+Started thread for  gothiphop
+20160309.01:46:1457516772  Pulling up IG profile for  justinbieber
+Started thread for  justinbieber
+20160309.01:51:1457517114  items written to  ayutingting92_gooduserlinks.txt
+20160309.01:51:1457517119  items written to  gothiphop_gooduserlinks.txt
+20160309.01:52:1457517122  items written to  justinbieber_gooduserlinks.txt
+Joined threads for  ['ayutingting92', 'gothiphop', 'justinbieber']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears', 'makegirlz', 'officialbiebernews', '1d.legendary.updates', 'khaliduk32', 'linecook', 'aol', 'iraqeen', 'hudabeauty', 'bmdc27', 'bobbyfresh', 'elnuevodiariord', 'npr', 'charlesdharapak', 'kuntseva_a', 'jimmyfallon']
+len(usernames):  103
+subset:  ['jimmyfallon', 'kuntseva_a', 'charlesdharapak']
+20160309.01:52:1457517122  Pulling up IG profile for  jimmyfallon
+Started thread for  jimmyfallon
+20160309.01:52:1457517122  Pulling up IG profile for  kuntseva_a
+Started thread for  kuntseva_a
+20160309.01:52:1457517122  Pulling up IG profile for  charlesdharapak
+Started thread for  charlesdharapak
+20160309.01:57:1457517460  items written to  charlesdharapak_gooduserlinks.txt
+20160309.02:02:1457517742  items written to  jimmyfallon_gooduserlinks.txt
+20160309.02:02:1457517747  items written to  kuntseva_a_gooduserlinks.txt
+Joined threads for  ['jimmyfallon', 'kuntseva_a', 'charlesdharapak']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears', 'makegirlz', 'officialbiebernews', '1d.legendary.updates', 'khaliduk32', 'linecook', 'aol', 'iraqeen', 'hudabeauty', 'bmdc27', 'bobbyfresh', 'elnuevodiariord', 'npr']
+len(usernames):  100
+subset:  ['npr', 'elnuevodiariord', 'bobbyfresh']
+20160309.02:02:1457517747  Pulling up IG profile for  npr
+Started thread for  npr
+20160309.02:02:1457517747  Pulling up IG profile for  elnuevodiariord
+Started thread for  elnuevodiariord
+20160309.02:02:1457517747  Pulling up IG profile for  bobbyfresh
+Started thread for  bobbyfresh
+20160309.02:06:1457518009  items written to  npr_gooduserlinks.txt
+20160309.02:07:1457518062  items written to  elnuevodiariord_gooduserlinks.txt
+20160309.02:08:1457518088  items written to  bobbyfresh_gooduserlinks.txt
+Joined threads for  ['npr', 'elnuevodiariord', 'bobbyfresh']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears', 'makegirlz', 'officialbiebernews', '1d.legendary.updates', 'khaliduk32', 'linecook', 'aol', 'iraqeen', 'hudabeauty', 'bmdc27']
+len(usernames):  97
+subset:  ['bmdc27', 'hudabeauty', 'iraqeen']
+20160309.02:08:1457518088  Pulling up IG profile for  bmdc27
+Started thread for  bmdc27
+20160309.02:08:1457518088  Pulling up IG profile for  hudabeauty
+Started thread for  hudabeauty
+20160309.02:08:1457518088  Pulling up IG profile for  iraqeen
+Started thread for  iraqeen
+Sorry, this page isnt available:  iraqeen 20160309.02:11:1457518306  items written to  bmdc27_gooduserlinks.txt
+20160309.02:13:1457518413  items written to  hudabeauty_gooduserlinks.txt
+20160309.02:15:1457518527  items written to  iraqeen_gooduserlinks.txt
+Joined threads for  ['bmdc27', 'hudabeauty', 'iraqeen']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears', 'makegirlz', 'officialbiebernews', '1d.legendary.updates', 'khaliduk32', 'linecook', 'aol']
+len(usernames):  94
+subset:  ['aol', 'linecook', 'khaliduk32']
+20160309.02:15:1457518527  Pulling up IG profile for  aol
+Started thread for  aol
+20160309.02:15:1457518527  Pulling up IG profile for  linecook
+Started thread for  linecook
+20160309.02:15:1457518527  Pulling up IG profile for  khaliduk32
+Started thread for  khaliduk32
+20160309.02:19:1457518778  items written to  khaliduk32_gooduserlinks.txt
+20160309.02:20:1457518851  items written to  linecook_gooduserlinks.txt
+20160309.02:21:1457518879  items written to  aol_gooduserlinks.txt
+Joined threads for  ['aol', 'linecook', 'khaliduk32']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears', 'makegirlz', 'officialbiebernews', '1d.legendary.updates']
+len(usernames):  91
+subset:  ['1d.legendary.updates', 'officialbiebernews', 'makegirlz']
+20160309.02:21:1457518879  Pulling up IG profile for  1d.legendary.updates
+Started thread for  1d.legendary.updates
+20160309.02:21:1457518879  Pulling up IG profile for  officialbiebernews
+Started thread for  officialbiebernews
+20160309.02:21:1457518879  Pulling up IG profile for  makegirlz
+Started thread for  makegirlz
+20160309.02:26:1457519161  items written to  1d.legendary.updates_gooduserlinks.txt
+20160309.02:26:1457519196  items written to  officialbiebernews_gooduserlinks.txt
+20160309.02:27:1457519245  items written to  makegirlz_gooduserlinks.txt
+Joined threads for  ['1d.legendary.updates', 'officialbiebernews', 'makegirlz']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers', 'marcjacobsintl', 'exopassion', 'gemibears']
+len(usernames):  88
+subset:  ['gemibears', 'exopassion', 'marcjacobsintl']
+20160309.02:27:1457519245  Pulling up IG profile for  gemibears
+Started thread for  gemibears
+20160309.02:27:1457519245  Pulling up IG profile for  exopassion
+Started thread for  exopassion
+20160309.02:27:1457519245  Pulling up IG profile for  marcjacobsintl
+Started thread for  marcjacobsintl
+Sorry, this page isnt available:  marcjacobsintl 20160309.02:31:1457519463  items written to  gemibears_gooduserlinks.txt
+20160309.02:32:1457519523  items written to  exopassion_gooduserlinks.txt
+20160309.02:36:1457519779  items written to  marcjacobsintl_gooduserlinks.txt
+Joined threads for  ['gemibears', 'exopassion', 'marcjacobsintl']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour', 'bahrainstore', 'questlove', '49ers']
+len(usernames):  85
+subset:  ['49ers', 'questlove', 'bahrainstore']
+20160309.02:36:1457519779  Pulling up IG profile for  49ers
+Started thread for  49ers
+20160309.02:36:1457519779  Pulling up IG profile for  questlove
+Started thread for  questlove
+20160309.02:36:1457519779  Pulling up IG profile for  bahrainstore
+Started thread for  bahrainstore
+20160309.02:42:1457520135  items written to  49ers_gooduserlinks.txt
+20160309.02:42:1457520152  items written to  questlove_gooduserlinks.txt
+20160309.02:42:1457520159  items written to  bahrainstore_gooduserlinks.txt
+Joined threads for  ['49ers', 'questlove', 'bahrainstore']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles', 'karaswisher', 'tags.funny', 'warpedtour']
+len(usernames):  82
+subset:  ['warpedtour', 'tags.funny', 'karaswisher']
+20160309.02:42:1457520159  Pulling up IG profile for  warpedtour
+Started thread for  warpedtour
+20160309.02:42:1457520159  Pulling up IG profile for  tags.funny
+Started thread for  tags.funny
+20160309.02:42:1457520159  Pulling up IG profile for  karaswisher
+Started thread for  karaswisher
+Sorry, this page isnt available:  warpedtour 20160309.02:47:1457520438  items written to  karaswisher_gooduserlinks.txt
+20160309.02:49:1457520556  items written to  tags.funny_gooduserlinks.txt
+20160309.02:50:1457520624  items written to  warpedtour_gooduserlinks.txt
+Joined threads for  ['warpedtour', 'tags.funny', 'karaswisher']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey', 'fotogasm', 'snoopdogg', 'philadelphiaeagles']
+len(usernames):  79
+subset:  ['philadelphiaeagles', 'snoopdogg', 'fotogasm']
+20160309.02:50:1457520624  Pulling up IG profile for  philadelphiaeagles
+Started thread for  philadelphiaeagles
+20160309.02:50:1457520624  Pulling up IG profile for  snoopdogg
+Started thread for  snoopdogg
+20160309.02:50:1457520624  Pulling up IG profile for  fotogasm
+Started thread for  fotogasm
+20160309.02:56:1457520966  items written to  philadelphiaeagles_gooduserlinks.txt
+20160309.02:56:1457521006  items written to  fotogasm_gooduserlinks.txt
+20160309.02:56:1457521019  items written to  snoopdogg_gooduserlinks.txt
+Joined threads for  ['philadelphiaeagles', 'snoopdogg', 'fotogasm']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby', 'jennydeluxe', 'highonlifeco', 'oprahwinfrey']
+len(usernames):  76
+subset:  ['oprahwinfrey', 'highonlifeco', 'jennydeluxe']
+20160309.02:56:1457521019  Pulling up IG profile for  oprahwinfrey
+Started thread for  oprahwinfrey
+20160309.02:56:1457521019  Pulling up IG profile for  highonlifeco
+Started thread for  highonlifeco
+20160309.02:56:1457521019  Pulling up IG profile for  jennydeluxe
+Started thread for  jennydeluxe
+Sorry, this page isnt available:  oprahwinfrey 20160309.03:01:1457521319  items written to  jennydeluxe_gooduserlinks.txt
+20160309.03:02:1457521369  items written to  highonlifeco_gooduserlinks.txt
+20160309.03:04:1457521447  items written to  oprahwinfrey_gooduserlinks.txt
+Joined threads for  ['oprahwinfrey', 'highonlifeco', 'jennydeluxe']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd', 'bellathorne', 'arishapiro', 'kazabby']
+len(usernames):  73
+subset:  ['kazabby', 'arishapiro', 'bellathorne']
+20160309.03:04:1457521447  Pulling up IG profile for  kazabby
+Started thread for  kazabby
+20160309.03:04:1457521447  Pulling up IG profile for  arishapiro
+Started thread for  arishapiro
+20160309.03:04:1457521447  Pulling up IG profile for  bellathorne
+Started thread for  bellathorne
+20160309.03:08:1457521687  items written to  bellathorne_gooduserlinks.txt
+20160309.03:08:1457521726  items written to  arishapiro_gooduserlinks.txt
+20160309.03:10:1457521814  items written to  kazabby_gooduserlinks.txt
+Joined threads for  ['kazabby', 'arishapiro', 'bellathorne']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba', 'train', 'benandjerrys', 'tru_chadd']
+len(usernames):  70
+subset:  ['tru_chadd', 'benandjerrys', 'train']
+20160309.03:10:1457521814  Pulling up IG profile for  tru_chadd
+Started thread for  tru_chadd
+20160309.03:10:1457521814  Pulling up IG profile for  benandjerrys
+Started thread for  benandjerrys
+20160309.03:10:1457521814  Pulling up IG profile for  train
+Started thread for  train
+20160309.03:14:1457522048  items written to  benandjerrys_gooduserlinks.txt
+20160309.03:15:1457522109  items written to  train_gooduserlinks.txt
+20160309.03:16:1457522176  items written to  tru_chadd_gooduserlinks.txt
+Joined threads for  ['tru_chadd', 'benandjerrys', 'train']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m', 'paniexx_shop', 'svvaplife', 'jessicaalba']
+len(usernames):  67
+subset:  ['jessicaalba', 'svvaplife', 'paniexx_shop']
+20160309.03:16:1457522176  Pulling up IG profile for  jessicaalba
+Started thread for  jessicaalba
+20160309.03:16:1457522176  Pulling up IG profile for  svvaplife
+Started thread for  svvaplife
+20160309.03:16:1457522176  Pulling up IG profile for  paniexx_shop
+Started thread for  paniexx_shop
+20160309.04:15:1457525707  items written to  svvaplife_gooduserlinks.txt
+20160309.04:23:1457526206  items written to  paniexx_shop_gooduserlinks.txt
+20160309.04:48:1457527686  items written to  jessicaalba_gooduserlinks.txt
+Joined threads for  ['jessicaalba', 'svvaplife', 'paniexx_shop']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga', 'beauty_edit_max', 'giggstage', '0y0m']
+len(usernames):  64
+subset:  ['0y0m', 'giggstage', 'beauty_edit_max']
+20160309.04:48:1457527686  Pulling up IG profile for  0y0m
+Started thread for  0y0m
+20160309.04:48:1457527686  Pulling up IG profile for  giggstage
+Started thread for  giggstage
+20160309.04:48:1457527686  Pulling up IG profile for  beauty_edit_max
+Started thread for  beauty_edit_max
+Sorry, this page isnt available:  0y0m 20160309.05:40:1457530859  items written to  0y0m_gooduserlinks.txt
+20160309.05:55:1457531755  items written to  giggstage_gooduserlinks.txt
+20160309.06:09:1457532595  items written to  beauty_edit_max_gooduserlinks.txt
+Joined threads for  ['0y0m', 'giggstage', 'beauty_edit_max']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell', 'favoritmusic', 'myhusbandtrue', 'ladygaga']
+len(usernames):  61
+subset:  ['ladygaga', 'myhusbandtrue', 'favoritmusic']
+20160309.06:09:1457532595  Pulling up IG profile for  ladygaga
+Started thread for  ladygaga
+20160309.06:09:1457532595  Pulling up IG profile for  myhusbandtrue
+Started thread for  myhusbandtrue
+20160309.06:09:1457532595  Pulling up IG profile for  favoritmusic
+Started thread for  favoritmusic
+20160309.07:04:1457535863  items written to  favoritmusic_gooduserlinks.txt
+20160309.07:18:1457536723  items written to  myhusbandtrue_gooduserlinks.txt
+20160309.08:16:1457540209  items written to  ladygaga_gooduserlinks.txt
+Joined threads for  ['ladygaga', 'myhusbandtrue', 'favoritmusic']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks', 'hlween.online', 'new_brand1', 'norahodonnell']
+len(usernames):  58
+subset:  ['norahodonnell', 'new_brand1', 'hlween.online']
+20160309.08:16:1457540209  Pulling up IG profile for  norahodonnell
+Started thread for  norahodonnell
+20160309.08:16:1457540209  Pulling up IG profile for  new_brand1
+Started thread for  new_brand1
+20160309.08:16:1457540209  Pulling up IG profile for  hlween.online
+Started thread for  hlween.online
+20160309.08:21:1457540512  items written to  new_brand1_gooduserlinks.txt
+20160309.08:22:1457540521  items written to  norahodonnell_gooduserlinks.txt
+20160309.08:22:1457540550  items written to  hlween.online_gooduserlinks.txt
+Joined threads for  ['norahodonnell', 'new_brand1', 'hlween.online']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak', 'patriots', 'newyork_show', 'tyrabanks']
+len(usernames):  55
+subset:  ['tyrabanks', 'newyork_show', 'patriots']
+20160309.08:22:1457540550  Pulling up IG profile for  tyrabanks
+Started thread for  tyrabanks
+20160309.08:22:1457540550  Pulling up IG profile for  newyork_show
+Started thread for  newyork_show
+20160309.08:22:1457540550  Pulling up IG profile for  patriots
+Started thread for  patriots
+20160309.08:25:1457540757  items written to  patriots_gooduserlinks.txt
+20160309.08:25:1457540759  items written to  newyork_show_gooduserlinks.txt
+20160309.08:26:1457540766  items written to  tyrabanks_gooduserlinks.txt
+Joined threads for  ['tyrabanks', 'newyork_show', 'patriots']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik', 'golddigginaccessories', 'mileycyrus', 'ngakakkocak']
+len(usernames):  52
+subset:  ['ngakakkocak', 'mileycyrus', 'golddigginaccessories']
+20160309.08:26:1457540766  Pulling up IG profile for  ngakakkocak
+Started thread for  ngakakkocak
+20160309.08:26:1457540766  Pulling up IG profile for  mileycyrus
+Started thread for  mileycyrus
+20160309.08:26:1457540766  Pulling up IG profile for  golddigginaccessories
+Started thread for  golddigginaccessories
+20160309.08:30:1457541059  items written to  ngakakkocak_gooduserlinks.txt
+20160309.08:36:1457541384  items written to  golddigginaccessories_gooduserlinks.txt
+20160309.08:36:1457541394  items written to  mileycyrus_gooduserlinks.txt
+Joined threads for  ['ngakakkocak', 'mileycyrus', 'golddigginaccessories']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433', 'iloveustyles', 'adidas', 'keysik']
+len(usernames):  49
+subset:  ['keysik', 'adidas', 'iloveustyles']
+20160309.08:36:1457541394  Pulling up IG profile for  keysik
+Started thread for  keysik
+20160309.08:36:1457541394  Pulling up IG profile for  adidas
+Started thread for  adidas
+20160309.08:36:1457541394  Pulling up IG profile for  iloveustyles
+Started thread for  iloveustyles
+Sorry, this page isnt available:  iloveustyles 20160309.08:40:1457541631  items written to  adidas_gooduserlinks.txt
+20160309.08:43:1457541780  items written to  keysik_gooduserlinks.txt
+20160309.08:43:1457541807  items written to  iloveustyles_gooduserlinks.txt
+Joined threads for  ['keysik', 'adidas', 'iloveustyles']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k', 'ddlovato', 'kellyslater', '433']
+len(usernames):  46
+subset:  ['433', 'kellyslater', 'ddlovato']
+20160309.08:43:1457541807  Pulling up IG profile for  433
+Started thread for  433
+20160309.08:43:1457541807  Pulling up IG profile for  kellyslater
+Started thread for  kellyslater
+20160309.08:43:1457541807  Pulling up IG profile for  ddlovato
+Started thread for  ddlovato
+20160309.08:48:1457542086  items written to  433_gooduserlinks.txt
+20160309.08:49:1457542164  items written to  kellyslater_gooduserlinks.txt
+20160309.08:49:1457542170  items written to  ddlovato_gooduserlinks.txt
+Joined threads for  ['433', 'kellyslater', 'ddlovato']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999', 'bergdorfs', 'lakers', 'nickster2k']
+len(usernames):  43
+subset:  ['nickster2k', 'lakers', 'bergdorfs']
+20160309.08:49:1457542170  Pulling up IG profile for  nickster2k
+Started thread for  nickster2k
+20160309.08:49:1457542170  Pulling up IG profile for  lakers
+Started thread for  lakers
+20160309.08:49:1457542170  Pulling up IG profile for  bergdorfs
+Started thread for  bergdorfs
+20160309.08:53:1457542433  items written to  lakers_gooduserlinks.txt
+20160309.08:54:1457542447  items written to  bergdorfs_gooduserlinks.txt
+20160309.08:56:1457542576  items written to  nickster2k_gooduserlinks.txt
+Joined threads for  ['nickster2k', 'lakers', 'bergdorfs']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams', 'bortnikovrussia', 'aceofspaceskingz', 'tobsangson0865355999']
+len(usernames):  40
+subset:  ['tobsangson0865355999', 'aceofspaceskingz', 'bortnikovrussia']
+20160309.08:56:1457542576  Pulling up IG profile for  tobsangson0865355999
+Started thread for  tobsangson0865355999
+20160309.08:56:1457542576  Pulling up IG profile for  aceofspaceskingz
+Started thread for  aceofspaceskingz
+20160309.08:56:1457542576  Pulling up IG profile for  bortnikovrussia
+Started thread for  bortnikovrussia
+Sorry, this page isnt available:  aceofspaceskingz 20160309.08:59:1457542794  items written to  aceofspaceskingz_gooduserlinks.txt
+20160309.09:00:1457542846  items written to  tobsangson0865355999_gooduserlinks.txt
+20160309.09:02:1457542923  items written to  bortnikovrussia_gooduserlinks.txt
+Joined threads for  ['tobsangson0865355999', 'aceofspaceskingz', 'bortnikovrussia']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245', 'paolatonight', 'igtoppicture', 'stressedouthams']
+len(usernames):  37
+subset:  ['stressedouthams', 'igtoppicture', 'paolatonight']
+20160309.09:02:1457542923  Pulling up IG profile for  stressedouthams
+Started thread for  stressedouthams
+20160309.09:02:1457542923  Pulling up IG profile for  igtoppicture
+Started thread for  igtoppicture
+20160309.09:02:1457542923  Pulling up IG profile for  paolatonight
+Started thread for  paolatonight
+20160309.09:05:1457543149  items written to  igtoppicture_gooduserlinks.txt
+20160309.09:46:1457545612  items written to  paolatonight_gooduserlinks.txt
+20160309.10:01:1457546512  items written to  stressedouthams_gooduserlinks.txt
+Joined threads for  ['stressedouthams', 'igtoppicture', 'paolatonight']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson', 'taylorswift', 'tatawerneck', 'nonghairstylist3245']
+len(usernames):  34
+subset:  ['nonghairstylist3245', 'tatawerneck', 'taylorswift']
+20160309.10:01:1457546512  Pulling up IG profile for  nonghairstylist3245
+Started thread for  nonghairstylist3245
+20160309.10:01:1457546512  Pulling up IG profile for  tatawerneck
+Started thread for  tatawerneck
+20160309.10:01:1457546512  Pulling up IG profile for  taylorswift
+Started thread for  taylorswift
+20160309.10:17:1457547427  items written to  taylorswift_gooduserlinks.txt
+20160309.10:17:1457547451  items written to  nonghairstylist3245_gooduserlinks.txt
+20160309.10:17:1457547473  items written to  tatawerneck_gooduserlinks.txt
+Joined threads for  ['nonghairstylist3245', 'tatawerneck', 'taylorswift']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver', 'markhoppus', 'instagramtop50', 'miketyson']
+len(usernames):  31
+subset:  ['miketyson', 'instagramtop50', 'markhoppus']
+20160309.10:17:1457547473  Pulling up IG profile for  miketyson
+Started thread for  miketyson
+20160309.10:17:1457547473  Pulling up IG profile for  instagramtop50
+Started thread for  instagramtop50
+20160309.10:17:1457547473  Pulling up IG profile for  markhoppus
+Started thread for  markhoppus
+20160309.10:21:1457547696  items written to  miketyson_gooduserlinks.txt
+20160309.10:23:1457547809  items written to  markhoppus_gooduserlinks.txt
+20160309.10:24:1457547848  items written to  instagramtop50_gooduserlinks.txt
+Joined threads for  ['miketyson', 'instagramtop50', 'markhoppus']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth', 'cintageshop', 'zalezakaofficial', 'jamieoliver']
+len(usernames):  28
+subset:  ['jamieoliver', 'zalezakaofficial', 'cintageshop']
+20160309.10:24:1457547848  Pulling up IG profile for  jamieoliver
+Started thread for  jamieoliver
+20160309.10:24:1457547848  Pulling up IG profile for  zalezakaofficial
+Started thread for  zalezakaofficial
+20160309.10:24:1457547848  Pulling up IG profile for  cintageshop
+Started thread for  cintageshop
+20160309.10:28:1457548087  items written to  zalezakaofficial_gooduserlinks.txt
+20160309.10:29:1457548165  items written to  jamieoliver_gooduserlinks.txt
+20160309.10:29:1457548192  items written to  cintageshop_gooduserlinks.txt
+Joined threads for  ['jamieoliver', 'zalezakaofficial', 'cintageshop']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap', 'kimkardashian', 'gizzyboyy', 'thekillertruth']
+len(usernames):  25
+subset:  ['thekillertruth', 'gizzyboyy', 'kimkardashian']
+20160309.10:29:1457548192  Pulling up IG profile for  thekillertruth
+Started thread for  thekillertruth
+20160309.10:29:1457548192  Pulling up IG profile for  gizzyboyy
+Started thread for  gizzyboyy
+20160309.10:29:1457548192  Pulling up IG profile for  kimkardashian
+Started thread for  kimkardashian
+20160309.10:34:1457548441  items written to  gizzyboyy_gooduserlinks.txt
+20160309.10:34:1457548453  items written to  thekillertruth_gooduserlinks.txt
+20160309.10:34:1457548484  items written to  kimkardashian_gooduserlinks.txt
+Joined threads for  ['thekillertruth', 'gizzyboyy', 'kimkardashian']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos', 'tvtoos', 'instagram', 'mistercap']
+len(usernames):  22
+subset:  ['mistercap', 'instagram', 'tvtoos']
+20160309.10:34:1457548484  Pulling up IG profile for  mistercap
+Started thread for  mistercap
+20160309.10:34:1457548484  Pulling up IG profile for  instagram
+Started thread for  instagram
+20160309.10:34:1457548484  Pulling up IG profile for  tvtoos
+Started thread for  tvtoos
+Sorry, this page isnt available:  tvtoos 20160309.10:38:1457548697  items written to  mistercap_gooduserlinks.txt
+20160309.10:39:1457548799  items written to  instagram_gooduserlinks.txt
+20160309.10:45:1457549155  items written to  tvtoos_gooduserlinks.txt
+Joined threads for  ['mistercap', 'instagram', 'tvtoos']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi', 'shlat_ta7shesh', 'princessyahrini', 'nailsvideos']
+len(usernames):  19
+subset:  ['nailsvideos', 'princessyahrini', 'shlat_ta7shesh']
+20160309.10:45:1457549155  Pulling up IG profile for  nailsvideos
+Started thread for  nailsvideos
+20160309.10:45:1457549155  Pulling up IG profile for  princessyahrini
+Started thread for  princessyahrini
+20160309.10:45:1457549155  Pulling up IG profile for  shlat_ta7shesh
+Started thread for  shlat_ta7shesh
+20160309.10:50:1457549413  items written to  princessyahrini_gooduserlinks.txt
+20160309.10:51:1457549496  items written to  nailsvideos_gooduserlinks.txt
+20160309.10:56:1457549775  items written to  shlat_ta7shesh_gooduserlinks.txt
+Joined threads for  ['nailsvideos', 'princessyahrini', 'shlat_ta7shesh']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz', 'ivetesangalo', 'oceana', 'therealbigboi']
+len(usernames):  16
+subset:  ['therealbigboi', 'oceana', 'ivetesangalo']
+20160309.10:56:1457549775  Pulling up IG profile for  therealbigboi
+Started thread for  therealbigboi
+20160309.10:56:1457549775  Pulling up IG profile for  oceana
+Started thread for  oceana
+20160309.10:56:1457549775  Pulling up IG profile for  ivetesangalo
+Started thread for  ivetesangalo
+20160309.11:00:1457550024  items written to  oceana_gooduserlinks.txt
+20160309.11:01:1457550091  items written to  ivetesangalo_gooduserlinks.txt
+20160309.11:01:1457550093  items written to  therealbigboi_gooduserlinks.txt
+Joined threads for  ['therealbigboi', 'oceana', 'ivetesangalo']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty', 'jeremymcgrath2', 'danbilzerian', 'iraqzz']
+len(usernames):  13
+subset:  ['iraqzz', 'danbilzerian', 'jeremymcgrath2']
+20160309.11:01:1457550093  Pulling up IG profile for  iraqzz
+Started thread for  iraqzz
+20160309.11:01:1457550093  Pulling up IG profile for  danbilzerian
+Started thread for  danbilzerian
+20160309.11:01:1457550093  Pulling up IG profile for  jeremymcgrath2
+Started thread for  jeremymcgrath2
+20160309.11:05:1457550305  items written to  danbilzerian_gooduserlinks.txt
+20160309.11:05:1457550308  items written to  iraqzz_gooduserlinks.txt
+20160309.11:05:1457550313  items written to  jeremymcgrath2_gooduserlinks.txt
+Joined threads for  ['iraqzz', 'danbilzerian', 'jeremymcgrath2']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin', 'tonyhawk', 'negin_mirsalehi', 'amazing_pretty']
+len(usernames):  10
+subset:  ['amazing_pretty', 'negin_mirsalehi', 'tonyhawk']
+20160309.11:05:1457550313  Pulling up IG profile for  amazing_pretty
+Started thread for  amazing_pretty
+20160309.11:05:1457550313  Pulling up IG profile for  negin_mirsalehi
+Started thread for  negin_mirsalehi
+20160309.11:05:1457550313  Pulling up IG profile for  tonyhawk
+Started thread for  tonyhawk
+20160309.11:10:1457550627  items written to  negin_mirsalehi_gooduserlinks.txt
+20160309.11:10:1457550645  items written to  tonyhawk_gooduserlinks.txt
+20160309.11:11:1457550695  items written to  amazing_pretty_gooduserlinks.txt
+Joined threads for  ['amazing_pretty', 'negin_mirsalehi', 'tonyhawk']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner', 'anitta', 'nickkristof', 'kokoulin']
+len(usernames):  7
+subset:  ['kokoulin', 'nickkristof', 'anitta']
+20160309.11:11:1457550695  Pulling up IG profile for  kokoulin
+Started thread for  kokoulin
+20160309.11:11:1457550695  Pulling up IG profile for  nickkristof
+Started thread for  nickkristof
+20160309.11:11:1457550695  Pulling up IG profile for  anitta
+Started thread for  anitta
+20160309.11:16:1457550962  items written to  anitta_gooduserlinks.txt
+20160309.11:17:1457551048  items written to  nickkristof_gooduserlinks.txt
+20160309.11:17:1457551065  items written to  kokoulin_gooduserlinks.txt
+Joined threads for  ['kokoulin', 'nickkristof', 'anitta']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer', 'mobeye_vision', 'hangarang', 'kyliejenner']
+len(usernames):  4
+subset:  ['kyliejenner', 'hangarang', 'mobeye_vision']
+20160309.11:17:1457551065  Pulling up IG profile for  kyliejenner
+Started thread for  kyliejenner
+20160309.11:17:1457551065  Pulling up IG profile for  hangarang
+Started thread for  hangarang
+20160309.11:17:1457551065  Pulling up IG profile for  mobeye_vision
+Started thread for  mobeye_vision
+20160309.11:21:1457551274  items written to  hangarang_gooduserlinks.txt
+20160309.11:22:1457551373  items written to  kyliejenner_gooduserlinks.txt
+20160309.11:23:1457551439  items written to  mobeye_vision_gooduserlinks.txt
+Joined threads for  ['kyliejenner', 'hangarang', 'mobeye_vision']
+#### Users Remaining ####  ['healthebay', 'yellow', 'netofernandez7', 'dogfishbeer']
+len(usernames):  1
+subset:  ['dogfishbeer', 'netofernandez7', 'yellow']
+20160309.11:23:1457551439  Pulling up IG profile for  dogfishbeer
+Started thread for  dogfishbeer
+20160309.11:23:1457551439  Pulling up IG profile for  netofernandez7
+Started thread for  netofernandez7
+20160309.11:23:1457551439  Pulling up IG profile for  yellow
+Started thread for  yellow
+Sorry, this page isnt available:  yellow 20160309.11:27:1457551651  items written to  yellow_gooduserlinks.txt
+20160309.11:28:1457551735  items written to  dogfishbeer_gooduserlinks.txt
+20160309.11:29:1457551773  items written to  netofernandez7_gooduserlinks.txt
+Joined threads for  ['dogfishbeer', 'netofernandez7', 'yellow']
+#### Users Remaining ####  ['healthebay']
+Traceback (most recent call last):
+  File "instascrape.py", line 82, in <module>
+    reactids.append(tag.get_attribute('data-reactid'))
+IndexError: pop from empty list
+➜  code git:(master) ✗
