@@ -10,7 +10,7 @@ def get_usernames(filename):
     INPUT: file of usernames, separated by newline
     OUTPUT: list of usernames
     '''
-    with open(filename) as f:
+    with open(filename, 'r') as f:
         usernames = f.readlines()
     usernames = [name.split('\n')[0] for name in usernames if not name.startswith('#')]
     return set(usernames)
@@ -51,18 +51,32 @@ def reactid_to_srcurl(reactids):
     return src_urls
 
 def userlinks_to_src_urls(username):
+    batchsize = 3 ####################### low value for testing
     print 'Inside userlinks_to_src_urls', username
     fn_read = '../data/'+username+'/'+username+'_gooduserlinks.txt'
-
+    f = open('../data/'+username+'/'+username+'_src_urls.txt', 'a')
     try:
         userlinks = read_vals(fn_read)
-        userlinks = [l.split('\n')[0] for l in userlinks]
+        userlinks = [l.split('\n')[0] for l in userlinks[:11]] ############## slicing for testing
+        # userlinks = [l.split('\n')[0] for l in userlinks]
         driver = webdriver.Firefox()
-        reactids = get_data_reactids(userlinks, driver)
-        src_urls = reactid_to_srcurl(reactids)
-        write_file(username, src_urls, 'src_urls')
+
+        while len(userlinks) > 0:
+            if len(userlinks) >= batchsize:
+                batch = [userlinks.pop() for i in xrange(batchsize)]
+            else:
+                batch = [userlinks.pop() for i in userlinks]
+            print 'len(batch): ', len(batch)
+            print 'len(userlinks): ', len(userlinks)
+            reactids = get_data_reactids(batch, driver)
+            src_urls = reactid_to_srcurl(reactids)
+
+            [f.write(url+'\n') for url in src_urls]
+            # write_file(username, src_urls, 'src_urls')
     except IOError:
         print 'No file: ', fn_read
+    f.close()
+    driver.close()
 
 def write_file(username, items, description):
     try:
@@ -71,7 +85,7 @@ def write_file(username, items, description):
         print 'Directory already exists: ', username
 
         fname = username+'_'+description+'.txt'
-        f = open( ('../data/'+username+'/'+fname), 'w')
+        f = open( ('../data/'+username+'/'+fname), 'a')
         for item in items:
             f.write(item + '\n')
             f.close()
@@ -98,9 +112,9 @@ def thread_get_src_urls(users, num_threads=3, sleeptime=3):
 
         for name in subset:
             # check if we've already run through this user
-            fn = name+'_src_urls.txt'
-            if fn in os.listdir('../data/'+name+'/'):
-                continue
+            # fn = name+'_src_urls.txt'
+            # if fn in os.listdir('../data/'+name+'/'):
+            #     continue
             try:
                 t = threading.Thread(target=userlinks_to_src_urls, args=(name,))
                 t.start()
@@ -122,7 +136,8 @@ if __name__ == '__main__':
     usernames = get_usernames('../data/most_popular.txt')
     has_dirs = set(os.listdir('../data'))
     # valid_users = has_dirs.intersection(usernames)
-    valid_users = [usernames.pop() for i in range(250)]
+    # valid_users = [usernames.pop() for i in range(250)]
+    valid_users =['scobleizer', 'theonion', 'manchesterunited', 'ourbitches' ]
 
-    # thread_get_src_urls(valid_users, num_threads=1, sleeptime=4)
-    userlinks_to_src_urls(valid_users[-1])
+    thread_get_src_urls(valid_users, num_threads=4, sleeptime=6)
+    # userlinks_to_src_urls(valid_users[-1])
