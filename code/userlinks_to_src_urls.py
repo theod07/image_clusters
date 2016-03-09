@@ -51,13 +51,13 @@ def reactid_to_srcurl(reactids):
     return src_urls
 
 def userlinks_to_src_urls(username):
-    batchsize = 3 ####################### low value for testing
+    batchsize = 25
     print 'Inside userlinks_to_src_urls', username
     fn_read = '../data/'+username+'/'+username+'_gooduserlinks.txt'
     f = open('../data/'+username+'/'+username+'_src_urls.txt', 'a')
     try:
         userlinks = read_vals(fn_read)
-        userlinks = [l.split('\n')[0] for l in userlinks[:11]] ############## slicing for testing
+        userlinks = [l.split('\n')[0] for l in userlinks]
         # userlinks = [l.split('\n')[0] for l in userlinks]
         driver = webdriver.Firefox()
 
@@ -154,4 +154,3 @@ if __name__ == '__main__':
             batch_users = [usernames.pop() for i in usernames]
 
         thread_get_src_urls(batch_users, num_threads=num_threads, sleeptime=sleeptime)
-        # userlinks_to_src_urls(valid_users[-1])
