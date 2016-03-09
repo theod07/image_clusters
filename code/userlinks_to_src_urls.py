@@ -13,7 +13,7 @@ def get_usernames(filename):
     with open(filename, 'r') as f:
         usernames = f.readlines()
     usernames = [name.split('\n')[0] for name in usernames if not name.startswith('#')]
-    return set(usernames)
+    return usernames
 
 def get_data_reactids(urls, driver, sleeptime=2):
     ''' Takes a list of urls for each image and returns a list of data-reactid items
@@ -111,18 +111,15 @@ def thread_get_src_urls(users, num_threads=3, sleeptime=3):
         print 'subset: ', subset
 
         for name in subset:
-            # check if we've already run through this user
-            # fn = name+'_src_urls.txt'
-            # if fn in os.listdir('../data/'+name+'/'):
-            #     continue
-            try:
-                t = threading.Thread(target=userlinks_to_src_urls, args=(name,))
-                t.start()
-                print strftime('%Y%m%d.%H:%M:%s'), 'Started thread for ', name
-                threads.append(t)
-            except:
-                inv_users.append(name)
-                print strftime('%Y%m%d.%H:%M:%s'), ' Problem with ', name
+            if user_is_valid(name):
+                try:
+                    t = threading.Thread(target=userlinks_to_src_urls, args=(name,))
+                    t.start()
+                    print strftime('%Y%m%d.%H:%M:%s'), 'Started thread for ', name
+                    threads.append(t)
+                except:
+                    inv_users.append(name)
+                    print strftime('%Y%m%d.%H:%M:%s'), ' Problem with ', name
 
         print '### threads: ', threads
         for thread in threads: thread.join()
@@ -131,13 +128,30 @@ def thread_get_src_urls(users, num_threads=3, sleeptime=3):
         print strftime('%Y%m%d.%H:%M:%s'), '#### Users Remaining #### ', len(users)
     return
 
+def user_is_valid(username):
+    '''check to see whether a src_url file has already been created for user. users who have a src_url file are not valid
+    '''
+    path = '../data/'
+    if username not in os.listdir(path):
+        return False
+
+    path = '../data/'+username+'/'
+    if 'src_url' in os.listdir(path):
+        return False
+    return True
 
 if __name__ == '__main__':
     usernames = get_usernames('../data/most_popular.txt')
-    has_dirs = set(os.listdir('../data'))
-    # valid_users = has_dirs.intersection(usernames)
-    # valid_users = [usernames.pop() for i in range(250)]
+    usernames = usernames[90:110]
     valid_users =['scobleizer', 'theonion', 'manchesterunited', 'ourbitches' ]
 
-    thread_get_src_urls(valid_users, num_threads=4, sleeptime=6)
-    # userlinks_to_src_urls(valid_users[-1])
+    num_threads = 4
+    sleeptime = num_threads + 3
+    while len(usernames) > 0:
+        if len(usernames) >= num_threads:
+            batch_users = [usernames.pop() for i in range(num_threads)]
+        else:
+            batch_users = [usernames.pop() for i in usernames]
+
+        thread_get_src_urls(batch_users, num_threads=num_threads, sleeptime=sleeptime)
+        # userlinks_to_src_urls(valid_users[-1])
