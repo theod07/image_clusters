@@ -67,6 +67,14 @@ def has_userlinks_file(username):
         print False
     return False
 
+def get_userlinks(username):
+    loc = '../data/'+username+'/'
+    fname = loc + username + '_gooduserlinks.txt'
+    with open(fname, 'r') as f:
+        lines = f.readlines()
+    links = [line.split('\n')[0] for line in lines]
+    return links
+
 if __name__ == '__main__':
     '''
     create a file containing src_urls for given usernames
@@ -78,16 +86,24 @@ if __name__ == '__main__':
 
     driver = webdriver.Firefox()
 
-    try:
-        reactids = get_data_reactids(userlinks, driver, sleeptime=.2)
-        src_urls = reactid_to_srcurl(reactids)
-        write_file('EXAMPLE_instagramtop50', src_urls, 'src_urls')
-        with open('../data/log_get_userlinks.txt', 'a') as f:
-            f.write('Succeed get src_urls for '+username+ '\n')
-        driver.close()
-    except:
-        with open('../data/log_get_userlinks.txt', 'a') as f:
-            f.write('Fail get src_urls for '+username+ '\n')
-        driver.close()
+    if has_userlinks_file(username):
+        try:
+            print 'getting userlinks'
+            userlinks = get_userlinks(username)
+            print 'getting reactids'
+            reactids = get_data_reactids(userlinks, driver, sleeptime=.2)
+            print 'getting src_urls'
+            src_urls = reactid_to_srcurl(reactids)
+            print 'writing to file'
+            write_file('EXAMPLE_instagramtop50', src_urls, 'src_urls')
+            with open('../data/log_get_userlinks.txt', 'a') as f:
+                f.write('Succeed get src_urls for '+username+ '\n')
+            driver.close()
+        except:
+            with open('../data/log_get_userlinks.txt', 'a') as f:
+                f.write('Fail get src_urls for '+username+ '\n')
+            driver.close()
 
-    print 'attempted username: ', username
+        print 'attempted username: ', username
+    else:
+        print 'No userlinks file for ', username
