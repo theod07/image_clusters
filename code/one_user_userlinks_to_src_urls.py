@@ -5,7 +5,8 @@ from time import strftime
 import os
 
 def get_data_reactids(urls, driver, sleeptime=2):
-    ''' Takes a list of urls for each image and returns a list of data-reactid items
+    '''
+    Takes a list of urls for each image and returns a list of data-reactid items
     '''
     reactids = []
     yes_ovg3g = 0
@@ -68,14 +69,25 @@ def has_userlinks_file(username):
 
 if __name__ == '__main__':
     '''
-    create a file containing src_urls for EXAMPLE_instagramtop50
+    create a file containing src_urls for given usernames
     '''
     # with open('../data/EXAMPLE_instagramtop50/EXAMPLE_instagramtop50_gooduserlinks.txt', 'r') as f:
     #     userlinks = f.readlines()
 
-    
+    username = raw_input('Give me a username to go through:  ')
 
     driver = webdriver.Firefox()
-    reactids = get_data_reactids(userlinks, driver, sleeptime=.2)
-    src_urls = reactid_to_srcurl(reactids)
-    write_file('EXAMPLE_instagramtop50', src_urls, 'src_urls')
+
+    try:
+        reactids = get_data_reactids(userlinks, driver, sleeptime=.2)
+        src_urls = reactid_to_srcurl(reactids)
+        write_file('EXAMPLE_instagramtop50', src_urls, 'src_urls')
+        with open('../data/log_get_userlinks.txt', 'a') as f:
+            f.write('Succeed get src_urls for '+username+ '\n')
+        driver.close()
+    except:
+        with open('../data/log_get_userlinks.txt', 'a') as f:
+            f.write('Fail get src_urls for '+username+ '\n')
+        driver.close()
+
+    print 'attempted username: ', username
