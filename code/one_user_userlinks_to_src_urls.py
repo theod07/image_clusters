@@ -1,5 +1,10 @@
+import selenium.webdriver as webdriver
+import time
+import random
+from time import strftime
+import os
 
-def get_data_reactids(username, urls, driver, sleeptime=2):
+def get_data_reactids(urls, driver, sleeptime=2):
     ''' Takes a list of urls for each image and returns a list of data-reactid items
     '''
     reactids = []
@@ -32,7 +37,7 @@ def reactid_to_srcurl(reactids):
                 chop_l = current.split('http')[1]
                 chopped = chop_l.split('.jpg')[0]
                 src_urls.append('http'+chopped+'.jpg')
-            return src_urls
+        return src_urls
 
 def write_file(username, items, description):
     try:
@@ -46,18 +51,31 @@ def write_file(username, items, description):
             f.write(item + '\n')
         f.close()
         print strftime('%Y%m%d.%H:%M:%s'), ' items written to ', fname
-        return
+    return
 
-
+def has_userlinks_file(username):
+    '''
+    check whether a given user already has ***_gooduserlinks.txt file
+    '''
+    loc = '../data/'+username+'/'
+    try:
+        for item in os.listdir(loc):
+            if item.endswith('gooduserlinks.txt'):
+                return True
+    except:
+        print False
+    return False
 
 if __name__ == '__main__':
     '''
-    create a file containing src_urls for EXAMPLE_taylorswift
+    create a file containing src_urls for EXAMPLE_instagramtop50
     '''
-    with open('../data/EXAMPLE_taylorswift/EXAMPLE_taylorswift_gooduserlinks.txt', 'r') as f:
-        userlinks = f.readlines()
+    # with open('../data/EXAMPLE_instagramtop50/EXAMPLE_instagramtop50_gooduserlinks.txt', 'r') as f:
+    #     userlinks = f.readlines()
+
+    
 
     driver = webdriver.Firefox()
-    reactids = get_data_reactids(userlinks, driver, sleeptime=1.5)
+    reactids = get_data_reactids(userlinks, driver, sleeptime=.2)
     src_urls = reactid_to_srcurl(reactids)
-    write_file('EXAMPLE_taylorswift', src_urls, 'src_urls')
+    write_file('EXAMPLE_instagramtop50', src_urls, 'src_urls')
