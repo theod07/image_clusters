@@ -95,7 +95,7 @@ if __name__ == '__main__':
             print 'getting src_urls'
             src_urls = reactid_to_srcurl(reactids)
             print 'writing to file'
-            write_file('EXAMPLE_instagramtop50', src_urls, 'src_urls')
+            write_file(username, src_urls, 'src_urls')
             with open('../data/log_get_userlinks.txt', 'a') as f:
                 f.write('Succeed get src_urls for '+username+ '\n')
             driver.close()
