@@ -7,14 +7,15 @@ from lasagne.layers import DropoutLayer
 from lasagne.layers import Pool2DLayer as PoolLayer
 from lasagne.layers.dnn import Conv2DDNNLayer as ConvLayer
 from lasagne.nonlinearities import softmax
+from lasagne.utils import floatX
 import pickle
 import vgg16
 import urllib
 import io
 import skimage.transform
 import matplotlib.pyplot as plt
-import matplotlib
-matplotlib.use('agg')
+# import matplotlib
+# matplotlib.use('agg')
 
 model = pickle.load(open('vgg16.pkl'))
 CLASSES = model['synset words']
