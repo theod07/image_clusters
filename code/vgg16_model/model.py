@@ -18,7 +18,7 @@ matplotlib.use('agg')
 
 model = pickle.load(open('vgg16.pkl'))
 CLASSES = model['synset words']
-MEAN_IMAGE = model['mean value']
+MEAN_IMAGE = model['mean value'][:, np.newaxis, np.newaxis] # necessary to match dimensions of incoming images
 
 nnet = vgg16.build_model()
 
