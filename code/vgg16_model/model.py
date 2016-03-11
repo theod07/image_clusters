@@ -61,13 +61,15 @@ for url in image_urls:
         prob = np.array(lasagne.layers.get_output(nnet['prob'], im, deterministic=True).eval())
         print 'got probs..'
         top5 = np.argsort(prob[0])[-1:-6:-1]
-        print 'preparing to plot'
-        plt.figure()
-        plt.imshow(rawim.astype('uint8'))
-        plt.axis('off')
-        print 'successfully plotted'
+        # print 'preparing to plot'
+        # plt.figure()
+        # plt.imshow(rawim.astype('uint8'))
+        # plt.axis('off')
+        # print 'successfully plotted'
+
         for n, label in enumerate(top5):
-            plt.text(250, 70 + n * 20, '{}. {}'.format(n+1, CLASSES[label]), fontsize=14)
+            # plt.text(250, 70 + n * 20, '{}. {}'.format(n+1, CLASSES[label]), fontsize=14)
+            print 'n+1: {}.  Class: {}.  url: {}'.format(n+1, CLASSES[label], url)
         print 'finish "try" code'
     except IOError:
         print('bad url: ' + url)
