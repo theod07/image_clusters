@@ -1,0 +1,81 @@
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  youngthegiant
+getting userlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/9JriNgtGDC/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/83s21oNGEg/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/8ltOHptGD1/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/8Tqu2vNGLx/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/7_W8TRtGEd/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/2q7T2FNGDp/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/1vlnkkNGE3/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/1ULjmqNGPT/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/0DyZX7tGHm/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/z5LefPNGKS/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/vqo1mbNGHK/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/vjcDDbNGBy/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/t89y0OtGJa/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/tgR1iJNGAD/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/tV07IZNGDw/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/tHGDa9NGBL/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/tA4lHDNGKH/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/ssuc9vtGOh/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/sfvuq-tGAT/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/rU2JmatGP4/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/qZg5t3NGEi/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/qXENWhNGKL/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/qSPKU6tGPP/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/n31BG-tGKi/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/mDZsPStGNQ/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/lieKoetGJJ/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/kKv6m9tGNs/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/jchtqzNGB1/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/jUWC-MtGLd/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/jE_s00tGLd/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/i4W5zVNGP-/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/i2njmzNGGQ/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/ihj51ZNGO6/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/hrS9c-NGBJ/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/heQ07iNGHf/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/glXJ5MtGA6/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/f-7pzFtGBN/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/eswBJAtGHW/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/d45URotGLe/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/d0QkhttGP6/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/diDVJANGKD/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/dA4iwwNGMb/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/c2L8VHtGGg/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/c0HGzJNGLz/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/csInw5NGBF/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/cIZ_rGtGJG/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/cFuhYwtGDl/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/a9fAwktGIE/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/K5rqLntGAf/?taken-by=youngthegiant
+No _ovg3g  https://www.instagram.com/p/IvcDxutGPR/?taken-by=youngthegiant
+Successfully found 820 reactids among 870 urls
+getting src_urls
+writing to file
+Directory already exists:  youngthegiant
+20160310.08:50:1457628600  items written to  youngthegiant_src_urls.txt
+attempted username:  youngthegiant
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  yellow
+getting userlinks
+getting reactids
+Successfully found 0 reactids among 0 urls
+getting src_urls
+writing to file
+Directory already exists:  yellow
+20160310.09:26:1457630816  items written to  yellow_src_urls.txt
+attempted username:  yellow
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  year
+getting userlinks
+getting reactids
+Successfully found 32 reactids among 32 urls
+getting src_urls
+writing to file
+Directory already exists:  year
+20160310.09:29:1457630997  items written to  year_src_urls.txt
+attempted username:  year
+➜  code git:(master) ✗

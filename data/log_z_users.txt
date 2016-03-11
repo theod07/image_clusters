@@ -1,0 +1,451 @@
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  zendaya
+getting userlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BCdhncIpmPV/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/BCQlym9pmOO/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/BCQSosDJmGc/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/BCLSKn7pmCW/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/BCJ9sQqpmGJ/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/BCJawv7pmA1/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/BCJFVdwJmLY/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/BCIk_NCpmKZ/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/BCHMiFDJmHB/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/BCCAJ3dpmDF/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/BBvyLkjpmH1/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/BBoB91dpmN6/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/BBlGGrlpmMS/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/BBTMD1bJmLk/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/BBRLbM7pmFO/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/BBDr-LJJmJE/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/BA335gkpmPA/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/BAzwY4kpmHC/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/-BALZ6pmJ9/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/92HMiTJmHy/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/9fiUnQJmDX/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/81iIjXJmNK/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/81NDizpmI1/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/8PQ4kWpmN3/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/738iHcpmHB/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/7eBbW9pmD6/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/7WJp6NpmMt/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/7RPFlWJmAX/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/7OinWTpmN7/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/7BTJxnpmLW/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/6-54-upmPJ/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/6u9nSMpmNm/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/6dIxPcJmAi/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/6Vn5nvpmBH/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/5yI9_cpmBG/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/5oGXZUpmFH/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/5Po6ykpmEy/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/5PnrPEJmCE/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/5DJLR6pmN9/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/4nCRDSJmAD/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/4iZ8NoJmFe/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/4V27mpJmDz/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/4P8JXTpmC0/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/4PP-w3JmKm/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/4BDJ8cpmBc/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/3sB7k9pmOe/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/3iH9CtJmBl/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/3fC3VWJmF8/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/3exiNUpmFn/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/3NsM0NJmB4/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/3MuCvTJmGf/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/248EueJmFG/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/2ppwBGpmKl/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/2WwbzUpmPQ/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/1vYsaAJmJC/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/1s7fIgpmIu/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/1J1axapmI0/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/1JkxmupmN0/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/06eY4YJmJq/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/0y9VW0pmNZ/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/0PWms-pmMN/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/0JkhezpmDw/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/zJHRJpJmK8/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/zGx_A-JmJa/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/zGWvuiJmDU/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/zDWAr3pmNs/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/y3GpxZpmE3/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/ys_KEZJmK_/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/ys5FkDpmB0/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/yQf18ypmHK/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/yN_NpJpmGm/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/yM3ajKJmH0/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/yIndaWpmCm/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/yC9InmJmPp/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/x7C6iMJmFs/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/x0eA6nJmFY/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/x0dc6SpmEr/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/xJOlm2JmNm/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/w5FzO0JmLo/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/w4rHgNJmMX/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/wzp5TbJmN8/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/wxzw7xpmPy/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/wqHCU9pmDw/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/wp0n7XJmB-/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/wc8rsJpmK9/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/wb6NIcJmGW/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/wX5ixlpmHi/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/wVcZwEpmLn/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/wR81-UJmMS/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/wIjuZJpmNf/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/wBCUdnpmHM/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/wAFMm2JmNl/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/v7V-WlJmAj/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/vu33vFJmKS/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/vWqoKCJmBU/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/vU9ZyYpmHW/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/vQ-r_rJmMb/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/vCElvlJmJ9/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/u4juUkJmGO/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/u2BQvupmHN/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/uzP2ITJmAF/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/uuG2tfJmP9/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/ujdOvKJmP5/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/uEzL0VJmH0/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/t9kNnrJmOW/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/t9XxyWJmDc/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/t3J4FQJmAl/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/tnzAK1JmL2/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/tjHseIJmJ6/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/taSnVCpmC4/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/tMd-olJmG1/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/s9Joh2pmMt/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/sh7m7HJmOh/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/saO0MJJmGl/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/saOb7VJmF5/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/sYtgsypmEp/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/sUq22MpmEZ/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/sJHVtdJmNH/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/sFdI0fJmFT/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/r5E8XhJmEU/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/r5DA1bpmAd/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/r5CY5kJmPi/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/rtUDKSpmD2/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/rf2BEVpmFz/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/q9xU9DJmFA/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/q7a0P_pmPc/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/qpr0QCpmMm/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/qnLqSppmPT/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/qnLgJdJmPF/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/qnLLA4JmOd/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/qBO9KgpmEA/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/ppuTSzpmPg/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/pM037VJmMI/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/oz9ngapmLl/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/osBKokJmEo/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/odH8aEJmNF/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/oPjwWopmPP/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/oJbdkwJmBs/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/njoZMHpmGh/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/nOVALTpmG4/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/m3uHwVpmDT/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/mnqptrJmGS/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/mZxK4uJmHe/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/l_lLw9JmBy/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/l85L6FpmMN/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/l06ZcWJmMR/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/lxpspkpmNU/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/lT6i8OJmEe/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/lGBhAjpmKs/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/kqk7T1pmPl/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/kay9GtJmBb/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/kXsaSrJmHw/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/j7BR-kpmLk/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/jh-D7RJmPg/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/jfc_V-pmG5/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/jIqI_0pmG_/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/jAsjDnpmKM/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/innNC4pmA-/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/iYDPbEpmDV/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/iSZmuTJmBQ/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/iIRdH-JmGW/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/iILNSiJmNv/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/iIGaFKpmF5/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/iF48IUpmC7/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/h5BgL1pmKc/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/htzep0pmCB/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/hpuHPWpmI1/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/hovDD6pmFS/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/hkJ2LSpmJ6/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/hh4dSOpmLB/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/hXXpZopmOC/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/hTEVVeJmNM/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/hO94GkJmGd/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/g1J9pTJmFr/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/gzKZFtJmJG/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/gqu9wVJmJk/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/gqtBjtpmGn/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/gqPw1KpmCp/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/gjknlLJmE6/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/gez1_epmBj/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/gZ2jp9JmNk/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/gZC4lOpmPl/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/gHQMG2JmEy/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/gE_zFxpmFW/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/f4aIH_JmO9/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/ftfJR4JmFq/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/fiFTHkJmFT/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/ffd1UVJmFr/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/fafe6apmES/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/fSbrWIJmE2/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/fQZjQ9pmNY/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/fOY3bdpmGy/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/fOPoQqpmKs/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/fMEx3JpmIA/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/fMBbTkJmCu/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/fI6UmaJmPD/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/fESnCsJmCL/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/fD3seAJmDK/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/e901GlJmIq/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/e53Wq8pmNN/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/e5xC51JmDy/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/eypKaTJmNK/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/eqR-CUJmOa/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/efVHVjJmET/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/eYlCwPJmHk/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/eOX72lJmD4/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/eLydq4pmMh/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/dvME5vJmNw/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/ddMRtjpmG7/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/aXPWZNpmII/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/XlmSgRpmEw/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/VIr_lQJmJO/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/UC1wubpmHY/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/TMONKZJmPW/?taken-by=zendaya
+No _ovg3g  https://www.instagram.com/p/TH2nfupmOI/?taken-by=zendaya
+Successfully found 1417 reactids among 1632 urls
+getting src_urls
+writing to file
+Directory already exists:  zendaya
+20160310.09:09:1457629741  items written to  zendaya_src_urls.txt
+attempted username:  zendaya
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  zefron
+getting userlinks
+getting reactids
+Successfully found 0 reactids among 0 urls
+getting src_urls
+writing to file
+Directory already exists:  zefron
+20160310.09:26:1457630810  items written to  zefron_src_urls.txt
+attempted username:  zefron
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  zara
+getting userlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BCiMgeYC_Td/?taken-by=zara
+No _ovg3g  https://www.instagram.com/p/BCfp8XIC_Y7/?taken-by=zara
+No _ovg3g  https://www.instagram.com/p/BCdB6XEC_cS/?taken-by=zara
+No _ovg3g  https://www.instagram.com/p/BCaeMfGi_Rq/?taken-by=zara
+No _ovg3g  https://www.instagram.com/p/BBvS6W9i_YG/?taken-by=zara
+No _ovg3g  https://www.instagram.com/p/BBszBaiC_T9/?taken-by=zara
+No _ovg3g  https://www.instagram.com/p/9gHdLli_dr/?taken-by=zara
+No _ovg3g  https://www.instagram.com/p/9QVMkkC_eo/?taken-by=zara
+Successfully found 148 reactids among 156 urls
+getting src_urls
+writing to file
+Directory already exists:  zara
+20160310.09:32:1457631124  items written to  zara_src_urls.txt
+attempted username:  zara
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  zalezakaofficial
+getting userlinks
+getting reactids
+Successfully found 378 reactids among 378 urls
+getting src_urls
+writing to file
+Directory already exists:  zalezakaofficial
+20160310.09:48:1457632120  items written to  zalezakaofficial_src_urls.txt
+attempted username:  zalezakaofficial
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  zachking
+getting userlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BCp_eOGByS4/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/BCXrvSuByWv/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/BCQJqbOhyWL/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/BCAmtvahydu/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/BB5OrzMBybL/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/BBxThJCByVw/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/BBqAVv7ByUq/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/BBiGq4sByVK/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/BBf4TplByet/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/BBLPCWWByQn/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/BBFeyYCBybT/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/BA4w3WEhyda/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/BAuSS8Whyfy/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/BAmqinUBycy/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/BAcIgmjByQu/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/BAVFAsGByYJ/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/BAPR2o4hySO/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/BAKCbyvhyRU/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/_-5oqzhyS1/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/_7bqh1BySd/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/_wvjArhyb1/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/_qxw_QhyRg/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/_kIOIEByRU/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/_b_TbJhySd/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/_X6SXiByZg/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/_MfZPThyb9/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/_HS73dhydk/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/_EutNUhyaV/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/-_kzpChyeT/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/-wGyMmhyZE/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/-Y7qtihyXB/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/-QeEmAhyeD/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/-MFT6KByQv/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/-EVTcOhyUI/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/98oAxlByXr/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/93cU5hhyc4/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/9tczC2hyR-/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/9q0C4FBySt/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/9hVUkyhyYx/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/9gp9zihyU2/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/9dlRavByZh/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/9bPv0qhyXF/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/9Ww3ZkBybd/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/9L0RyShyUU/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/9GpD39hyRo/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/9EE78qhyYb/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/8-zdxnhyTB/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/8xNTt4ByQf/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/8qNDILByb5/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/8lAygfByU4/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/8icewGByS2/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/8bJ2WFByel/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/8QQygxByR8/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/8L0hTjhydy/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/8Gfp0rhybW/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/8BRH5qhyQP/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/7_JtGahyZJ/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/77uYchhyf3/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/7kmTfyhyTv/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/7aLxrRhydd/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/7QIDyehyTF/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/7K2xwqhyT5/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/7Futf5ByWb/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/6221dfBybv/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/6z4QschyS7/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/6lwxqbhyeP/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/6fB6AUByf8/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/6VD02UhyUd/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/5810VahyVp/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/5pWA1IByQK/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/5m4Q4ZByfV/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/5cu4CehyZX/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/5PxJM9hyZ-/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/47FpIvBya1/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/4o1Movhye-/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/4g6jJ4ByUy/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/4e_tOSByeJ/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/4Ude4NByTN/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/4J9OzdhyRw/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/4HKPq_Bya5/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/4DwyNIByfP/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/3_jlwlhyRb/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/33sRYkhyTc/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/3jMnP8ByRZ/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/3YorT8BySy/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/3WOeRPBydn/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/3QOteGByeA/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/3Ol3i7hya4/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/28bE4cBySa/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/21ZrZ7hyTx/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/2lhV-WBySm/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/2bA7DihyZC/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/2VHiS1hydI/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/2UQT_SByUB/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/2Qn0qNhyXV/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/2HfpxWhyfP/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/15po70Bybb/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/1yIkaWByQC/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/1npSVfByVY/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/1bHetuhyWc/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/1a3V9mByW6/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/1S231MByeW/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/1DXCRvBydV/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/1A0vBnhyZc/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/053AncByUJ/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/01zk9IByQG/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/0uzhfBByUe/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/0iUNPzhyaB/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/0IcWBHByWM/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/0DWryhByf6/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/z-V0a5hycE/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/z2azCrBycM/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/zwOUnHhyTW/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/zqDFWYByec/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/zko7SLByWz/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/zfTQ2GByXm/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/zbN40Uhyc6/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/zZKTAPhycj/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/zP_iRehySQ/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/zFSePWhyZq/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/zBZahuhyV2/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/y9qFRzhyeY/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/yhPKh_ByTR/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/yPfFaQBycB/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/yNHytghyTa/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/yGZo0XhyRO/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/x8NP5wBybR/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/x3CauKByQV/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/xzwfhmhyat/?taken-by=zachking
+No _ovg3g  https://www.instagram.com/p/xqfS4UhyW6/?taken-by=zachking
+Successfully found 26 reactids among 156 urls
+getting src_urls
+writing to file
+Directory already exists:  zachking
+20160310.09:55:1457632531  items written to  zachking_src_urls.txt
+attempted username:  zachking
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  zacefron
+getting userlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BB_Ezy1G87Q/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/BBg9NX4G86T/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/BAz5FpDm80N/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/BAyE9-9G81i/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/BAvab2bG84X/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/BAscdQlm8zB/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/9bbg_pG824/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/8PYkerm88F/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/8L0tudm8y0/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/66PaZhm815/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/6wYkMtm8xo/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/6rCS5xm85u/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/6c8KFtm8w3/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/5hlyXvG8xT/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/4AdghAm82L/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/37TSqTG80A/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/3uFUUlG82H/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/3SL1hCm8zm/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/23b0YsG83r/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/21LtXVG8-h/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/xLMN9kG82c/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/xAVP-XG88k/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/utBWr0m8-6/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/uGu7Q6m87b/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/tts32Ym83W/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/s-pjb0m88u/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/sgL56DG8yD/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/r7s_sRm85S/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/r5aKWfG81d/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/qssJt1m80u/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/oCg70uG803/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/h7fCtFm8-d/?taken-by=zacefron
+Successfully found 199 reactids among 231 urls
+getting src_urls
+writing to file
+Directory already exists:  zacefron
+20160310.10:11:1457633508  items written to  zacefron_src_urls.txt
+attempted username:  zacefron
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  ^CTraceback (most recent call last):
+  File "one_user_userlinks_to_src_urls.py", line 85, in <module>
+    username = raw_input('Give me a username to go through:  ')
+KeyboardInterrupt
+➜  code git:(master) ✗
