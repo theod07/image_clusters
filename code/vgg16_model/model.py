@@ -57,14 +57,17 @@ def prep_image(url):
 for url in image_urls:
     try:
         rawim, im = prep_image(url)
-
-        prob = np.array(lasagne.layers.get_output(output_layer, im, deterministic=True).eval())
+        print 'calculating probs..'
+        prob = np.array(lasagne.layers.get_output(nnet['prob'], im, deterministic=True).eval())
+        print 'got probs..'
         top5 = np.argsort(prob[0])[-1:-6:-1]
-
+        print 'preparing to plot'
         plt.figure()
         plt.imshow(rawim.astype('uint8'))
         plt.axis('off')
+        print 'successfully plotted'
         for n, label in enumerate(top5):
             plt.text(250, 70 + n * 20, '{}. {}'.format(n+1, CLASSES[label]), fontsize=14)
+        print 'finish "try" code'
     except IOError:
         print('bad url: ' + url)
