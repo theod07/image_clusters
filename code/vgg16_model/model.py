@@ -19,7 +19,7 @@ MEAN_IMAGE = model['mean value']
 
 nnet = vgg16.build_model()
 
-lasagne.layers.set_all_param_values(output_layer, model['param values'])
+lasagne.layers.set_all_param_values(nnet['prob'], model['param values'])
 
 
 index = urllib.urlopen('http://www.image-net.org/challenges/LSVRC/2012/ori_urls/indexval.html').read()
@@ -44,7 +44,7 @@ def prep_image(url):
     im = im[h//2-112:h//2+112, w//2-112:w//2+112]
 
     rawim = np.copy(im).astype('uint8')
-    
+
     # Shuffle axes to c01
     im = np.swapaxes(np.swapaxes(im, 1, 2), 0, 1)
 
