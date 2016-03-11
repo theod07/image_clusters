@@ -12,6 +12,9 @@ import vgg16
 import urllib
 import io
 import skimage.transform
+import matplotlib.pyplot as plt
+import matplotlib
+matplotlib.use('agg')
 
 model = pickle.load(open('vgg16.pkl'))
 CLASSES = model['synset words']
