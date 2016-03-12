@@ -75,16 +75,10 @@ def get_userlinks(username):
     links = [line.split('\n')[0] for line in lines]
     return links
 
-if __name__ == '__main__':
+def main(username, driver):
     '''
-    create a file containing src_urls for given usernames
+    create a file containing src_urls for given username
     '''
-    # with open('../data/EXAMPLE_instagramtop50/EXAMPLE_instagramtop50_gooduserlinks.txt', 'r') as f:
-    #     userlinks = f.readlines()
-
-    username = raw_input('Give me a username to go through:  ')
-
-    driver = webdriver.Firefox()
 
     if has_userlinks_file(username):
         try:
@@ -107,3 +101,15 @@ if __name__ == '__main__':
         print 'attempted username: ', username
     else:
         print 'No userlinks file for ', username
+
+
+if __name__ == '__main__':
+
+    # with open('../data/EXAMPLE_instagramtop50/EXAMPLE_instagramtop50_gooduserlinks.txt', 'r') as f:
+    #     userlinks = f.readlines()
+
+    username = raw_input('Give me a username to go through:  ')
+
+    driver = webdriver.Firefox()
+
+    main(username, driver)
