@@ -67,7 +67,7 @@ def has_userlinks_file(username):
         print False
     return False
 
-def get_userlinks(username):
+def get_gooduserlinks(username):
     loc = '../data/'+username+'/'
     fname = loc + username + '_gooduserlinks.txt'
     with open(fname, 'r') as f:
@@ -80,27 +80,25 @@ def main(username, driver):
     create a file containing src_urls for given username
     '''
 
-    if has_userlinks_file(username):
+    if has_gooduserlinks_file(username):
         try:
-            print 'getting userlinks'
-            userlinks = get_userlinks(username)
+            print 'getting gooduserlinks'
+            gooduserlinks = get_gooduserlinks(username)
             print 'getting reactids'
-            reactids = get_data_reactids(userlinks, driver, sleeptime=.2)
+            reactids = get_data_reactids(gooduserlinks, driver, sleeptime=.2)
             print 'getting src_urls'
             src_urls = reactid_to_srcurl(reactids)
             print 'writing to file'
             write_file(username, src_urls, 'src_urls')
             with open('../data/log_get_userlinks.txt', 'a') as f:
                 f.write('Succeed get src_urls for '+username+ '\n')
-            driver.close()
         except:
             with open('../data/log_get_userlinks.txt', 'a') as f:
                 f.write('Fail get src_urls for '+username+ '\n')
-            driver.close()
 
         print 'attempted username: ', username
     else:
-        print 'No userlinks file for ', username
+        print 'No gooduserlinks file for ', username
 
 
 if __name__ == '__main__':
@@ -112,3 +110,5 @@ if __name__ == '__main__':
     driver = webdriver.Firefox()
 
     main(username, driver)
+
+    drive.close()
