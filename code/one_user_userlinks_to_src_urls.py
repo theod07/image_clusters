@@ -109,7 +109,6 @@ if __name__ == '__main__':
     #     userlinks = f.readlines()
 
     username = raw_input('Give me a username to go through:  ')
-
     driver = webdriver.Firefox()
 
     main(username, driver)

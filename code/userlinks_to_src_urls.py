@@ -1,21 +1,21 @@
-import threading
 import selenium.webdriver as webdriver
-from time import strftime
 import time
-import os
 import random
+from time import strftime
+import os
+import threading
 
-def get_usernames(filename):
+def get_users(filename):
     '''
-    INPUT: file of usernames, separated by newline
-    OUTPUT: list of usernames
+    INPUT: file of users, separated by newline
+    OUTPUT: list of users
     '''
     with open(filename, 'r') as f:
-        usernames = f.readlines()
-    usernames = [name.split('\n')[0] for name in usernames if not name.startswith('#')]
-    return usernames
+        users = f.readlines()
+    users = [name.split('\n')[0] for name in users if not name.startswith('#')]
+    return users
 
-def get_data_reactids(urls, driver, sleeptime=2):
+def get_data_reactids(user, urls, driver, sleeptime=2):
     ''' Takes a list of urls for each image and returns a list of data-reactid items
     '''
     reactids = []
@@ -50,11 +50,11 @@ def reactid_to_srcurl(reactids):
         src_urls.append('http'+chopped+'.jpg')
     return src_urls
 
-def userlinks_to_src_urls(username):
+def userlinks_to_src_urls(user):
     batchsize = 25
-    print 'Inside userlinks_to_src_urls', username
-    fn_read = '../data/'+username+'/'+username+'_gooduserlinks.txt'
-    f = open('../data/'+username+'/'+username+'_src_urls.txt', 'a')
+    print 'Inside userlinks_to_src_urls', user
+    fn_read = '../data/'+user+'/'+user+'_gooduserlinks.txt'
+    f = open('../data/'+user+'/'+user+'_src_urls.txt', 'a')
     try:
         userlinks = read_vals(fn_read)
         userlinks = [l.split('\n')[0] for l in userlinks]
@@ -72,20 +72,20 @@ def userlinks_to_src_urls(username):
             src_urls = reactid_to_srcurl(reactids)
 
             [f.write(url+'\n') for url in src_urls]
-            # write_file(username, src_urls, 'src_urls')
+            # write_file(user, src_urls, 'src_urls')
     except IOError:
         print 'No file: ', fn_read
     f.close()
     driver.close()
 
-def write_file(username, items, description):
+def write_file(user, items, description):
     try:
-        os.mkdir('../data/'+username)
+        os.mkdir('../data/'+user)
     except OSError:
-        print 'Directory already exists: ', username
+        print 'Directory already exists: ', user
 
-        fname = username+'_'+description+'.txt'
-        f = open( ('../data/'+username+'/'+fname), 'a')
+        fname = user+'_'+description+'.txt'
+        f = open( ('../data/'+user+'/'+fname), 'a')
         for item in items:
             f.write(item + '\n')
             f.close()
@@ -111,7 +111,7 @@ def thread_get_src_urls(users, num_threads=3, sleeptime=3):
         print 'subset: ', subset
 
         for name in subset:
-            if user_is_valid(name):
+            if has_src_url_file(name):
                 try:
                     t = threading.Thread(target=userlinks_to_src_urls, args=(name,))
                     t.start()
@@ -128,29 +128,40 @@ def thread_get_src_urls(users, num_threads=3, sleeptime=3):
         print strftime('%Y%m%d.%H:%M:%s'), '#### Users Remaining #### ', len(users)
     return
 
-def user_is_valid(username):
-    '''check to see whether a src_url file has already been created for user. users who have a src_url file are not valid
+def has_src_url_file(user):
+    '''
+    return True if user already has src_url.txt file
     '''
     path = '../data/'
-    if username not in os.listdir(path):
+    if user not in os.listdir(path):
         return False
 
-    path = '../data/'+username+'/'
+    path = '../data/'+user+'/'
     if 'src_url' in os.listdir(path):
         return False
     return True
 
 if __name__ == '__main__':
-    usernames = get_usernames('../data/most_popular.txt')
-    usernames = usernames[90:110]
-    valid_users =['scobleizer', 'theonion', 'manchesterunited', 'ourbitches' ]
+    num_threads = 3
+    users = sorted(get_users('../data/most_popular.txt'))
 
-    num_threads = 4
-    sleeptime = num_threads + 3
-    while len(usernames) > 0:
-        if len(usernames) >= num_threads:
-            batch_users = [usernames.pop() for i in range(num_threads)]
+    while len(users) > 0:
+        if len(users) > 0:
+            subset = [users.pop() for i in xrange(num_threads)]
         else:
-            batch_users = [usernames.pop() for i in usernames]
+            subset = [users.pop() for user in users]
 
-        thread_get_src_urls(batch_users, num_threads=num_threads, sleeptime=sleeptime)
+        for user in users:
+            if has_src_url_file(user):
+                # skip if user already has src_url.txt file
+                print '{} {} already has src_url.txt file'.format(strftime('%Y%m%d.%H:%M:%s'), user)
+            else:
+
+    # sleeptime = num_threads + 3
+    # while len(users) > 0:
+    #     if len(users) >= num_threads:
+    #         batch_users = [users.pop() for i in range(num_threads)]
+    #     else:
+    #         batch_users = [users.pop() for i in users]
+    #
+    #     thread_get_src_urls(batch_users, num_threads=num_threads, sleeptime=sleeptime)
