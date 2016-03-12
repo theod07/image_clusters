@@ -10,8 +10,45 @@ Release:        14.04
 Codename:       trusty
 ```
 Instructions [here](https://docs.mongodb.org/master/tutorial/install-mongodb-on-ubuntu/)
+1. Import the public key.
+2. Create a list file for MongoDB
+3. Reload local package database.
+4. Install the latest stable version of MongoDB.
+5. ( ** Pin a specific version of MongoDB ** )
+```
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv EA312927
+echo "deb http://repo.mongodb.org/apt/ubuntu trusty/mongodb-org/3.2 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.2.list
+sudo apt-get update
+sudo apt-get install -y mongodb-org
+echo "mongodb-org hold" | sudo dpkg --set-selections
+echo "mongodb-org-server hold" | sudo dpkg --set-selections
+echo "mongodb-org-shell hold" | sudo dpkg --set-selections
+echo "mongodb-org-mongos hold" | sudo dpkg --set-selections
+echo "mongodb-org-tools hold" | sudo dpkg --set-selections
+```
+
 
 <br>
+Run MongoDB Community Edition
+1. Start MongoDB
+
+    sudo service mongod start
+
+2. Verify that MongoDB has started successfully
+
+    [initandlisten] waiting for connections on port <port>
+
+3. Stop MongoDB
+
+    sudo service mongod stop
+
+4. Restart MongoDB
+
+    sudo service mongod restart
+
+
+<br>
+
 ## rendering images on EC2
 AWS ec2 instances don't have capability to render images, which poses a problem while we're trying to load images. The popular/common packages that are used to load images (`PILLOW`, `matplotlib.pyplot`, `skimage.io`) seem to rely on image render-fication.
 Let's see if we can figure out how to configure `matplotlib` to suit our needs..
@@ -21,6 +58,7 @@ renderer 'AGG' seems to be working okay for reading in images.
 `Note`: it's not helpful to add the command into the script. I had to modify the matplotlibrc file to get it to run properly.
 
 <br>
+
 ## scp
 Examples
 
@@ -50,6 +88,7 @@ Copy multiple files from the remote host to your current directory on the local 
 
 
 <br>
+
 ## tmux
 start new:
 
@@ -76,11 +115,13 @@ list sessions:
     tmux kill-session -t myname
 
 <br>
+
 ## Scraping
 open up the site, open up developer tools with `cmd+option+i` and look at the network tab. the request URL for each image should be listed.
 
 
 <br>
+
 ## MongoDB Structure
 Store data for each item in a nested dictionary.
 Dictionary top level is keyed by users.
@@ -114,6 +155,7 @@ Level three is keyed by the information of the img.
 ```
 
 <br>
+
 ## Setting up Lasagne
 
 1.Verify you have Python2.7 or Python3.4
