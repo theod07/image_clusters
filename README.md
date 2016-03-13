@@ -1,5 +1,149 @@
 # image_clusters
-## Setting up MongoDB
+## Test Results for zooeydeschanel
+<img src="https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e15/10729407_1550826631854920_835795974_n.jpg" width="250">
+
+```
+1.  Class: ocarina, sweet potato.
+2.  Class: harmonica, mouth organ, harp, mouth harp.
+3.  Class: sunglasses, dark glasses, shades.
+4.  Class: microphone, mike.
+5.  Class: stage.
+6.  Class: wig.
+7.  Class: cellular telephone, cellular phone, cellphone, cell, mobile phone.
+8.  Class: hair spray.
+9.  Class: miniskirt, mini.
+10.  Class: lipstick, lip rouge.
+11.  Class: bubble.
+12.  Class: sunglass.
+13.  Class: whistle.
+14.  Class: stethoscope.
+15.  Class: jean, blue jean, denim.
+16.  Class: crutch.
+17.  Class: flute, transverse flute.
+18.  Class: brassiere, bra, bandeau.
+19.  Class: pay-phone, pay-station.
+20.  Class: violin, fiddle.
+```
+<img src="https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/12317860_196424194035731_178014184_n.jpg" width="250" >
+
+```
+1.  Class: bottlecap.
+2.  Class: rugby ball.
+3.  Class: volleyball.
+4.  Class: soccer ball.
+5.  Class: football helmet.
+6.  Class: puck, hockey puck.
+7.  Class: crash helmet.
+8.  Class: racket, racquet.
+9.  Class: pick, plectrum, plectron.
+10.  Class: ping-pong ball.
+11.  Class: pop bottle, soda bottle.
+12.  Class: oil filter.
+13.  Class: tennis ball.
+14.  Class: bathing cap, swimming cap.
+15.  Class: shield, buckler.
+16.  Class: basketball.
+17.  Class: punching bag, punch bag, punching ball, punchball.
+18.  Class: croquet ball.
+19.  Class: baseball.
+20.  Class: loupe, jeweler's loupe.
+```
+
+<img src="https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/12784059_1528739680760441_344179689_n.jpg" width="250" >
+
+```
+n+1: 1.  Class: wig.
+n+1: 2.  Class: hair spray.
+n+1: 3.  Class: oboe, hautboy, hautbois.
+n+1: 4.  Class: stethoscope.
+n+1: 5.  Class: Band Aid.
+n+1: 6.  Class: lab coat, laboratory coat.
+n+1: 7.  Class: book jacket, dust cover, dust jacket, dust wrapper.
+n+1: 8.  Class: face powder.
+n+1: 9.  Class: lipstick, lip rouge.
+n+1: 10.  Class: jersey, T-shirt, tee shirt.
+n+1: 11.  Class: bassoon.
+n+1: 12.  Class: web site, website, internet site, site.
+n+1: 13.  Class: lotion.
+n+1: 14.  Class: neck brace.
+n+1: 15.  Class: sunscreen, sunblock, sun blocker.
+n+1: 16.  Class: perfume, essence.
+n+1: 17.  Class: brassiere, bra, bandeau.
+n+1: 18.  Class: maillot.
+n+1: 19.  Class: suit, suit of clothes.
+n+1: 20.  Class: syringe.
+```
+
+<img src="https://scontent-lga3-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/12797842_245709435762417_302545047_n.jpg" width="250">
+
+```
+n+1: 1.  Class: candle, taper, wax light.
+n+1: 2.  Class: restaurant, eating house, eating place, eatery.
+n+1: 3.  Class: dining table, board.
+n+1: 4.  Class: patio, terrace.
+n+1: 5.  Class: grand piano, grand.
+n+1: 6.  Class: altar.
+n+1: 7.  Class: groom, bridegroom.
+n+1: 8.  Class: tub, vat.
+n+1: 9.  Class: mortar.
+n+1: 10.  Class: studio couch, day bed.
+n+1: 11.  Class: paper towel.
+n+1: 12.  Class: pot, flowerpot.
+n+1: 13.  Class: home theater, home theatre.
+n+1: 14.  Class: iron, smoothing iron.
+n+1: 15.  Class: lab coat, laboratory coat.
+n+1: 16.  Class: red wine.
+n+1: 17.  Class: abacus.
+n+1: 18.  Class: scale, weighing machine.
+n+1: 19.  Class: ice lolly, lolly, lollipop, popsicle.
+n+1: 20.  Class: grocery store, grocery, food market, market.
+```
+
+<img src="https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/10631999_1187324901297530_2118958455_n.jpg" width="250" >
+
+```
+n+1: 1.  Class: cellular telephone, cellular phone, cellphone, cell, mobile phone.
+n+1: 2.  Class: grocery store, grocery, food market, market.
+n+1: 3.  Class: shoe shop, shoe-shop, shoe store.
+n+1: 4.  Class: abaya.
+n+1: 5.  Class: butcher shop, meat market.
+n+1: 6.  Class: fur coat.
+n+1: 7.  Class: groom, bridegroom.
+n+1: 8.  Class: ocarina, sweet potato.
+n+1: 9.  Class: restaurant, eating house, eating place, eatery.
+n+1: 10.  Class: hotdog, hot dog, red hot.
+n+1: 11.  Class: pretzel.
+n+1: 12.  Class: wig.
+n+1: 13.  Class: hair spray.
+n+1: 14.  Class: confectionery, confectionary, candy store.
+n+1: 15.  Class: trench coat.
+n+1: 16.  Class: bow tie, bow-tie, bowtie.
+n+1: 17.  Class: cauliflower.
+n+1: 18.  Class: bakery, bakeshop, bakehouse.
+n+1: 19.  Class: miniskirt, mini.
+n+1: 20.  Class: lipstick, lip rouge.
+```
+
+<br>
+## SQLite
+### PostGres
+### psycopg
+
+
+<br>
+## MongoDB
+### Installing MongoDB
+RDBMS	MongoDB
+Database	Database
+Table	Collection
+Tuple/Row	Document
+column	Field
+Table Join	Embedded Documents
+Primary Key	Primary Key (Default key _id provided by mongodb itself)
+Database Server and Client
+Mysqld/Oracle	mongod
+mysql/sqlplus	mongo
+
 Find out the info of your machine. For Ubuntu:
 ```
 $ lsb_release -a
@@ -27,6 +171,13 @@ echo "mongodb-org-mongos hold" | sudo dpkg --set-selections
 echo "mongodb-org-tools hold" | sudo dpkg --set-selections
 ```
 
+### Running MongoDB
+```
+tmux new -s mongod
+sudo mongod
+```
+Be careful: pymongo will let you insert the same row of information multiple times without error.
+If you're trying to modify a row that's already in the table, use `.update_one()` or `.find_one_and_update()`
 
 <br>
 Run MongoDB Community Edition
