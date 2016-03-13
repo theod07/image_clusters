@@ -49,7 +49,80 @@
 20.  Class: loupe, jeweler's loupe.
 ```
 
+<img src="https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/12784059_1528739680760441_344179689_n.jpg" width="250" >
 
+```
+n+1: 1.  Class: wig.
+n+1: 2.  Class: hair spray.
+n+1: 3.  Class: oboe, hautboy, hautbois.
+n+1: 4.  Class: stethoscope.
+n+1: 5.  Class: Band Aid.
+n+1: 6.  Class: lab coat, laboratory coat.
+n+1: 7.  Class: book jacket, dust cover, dust jacket, dust wrapper.
+n+1: 8.  Class: face powder.
+n+1: 9.  Class: lipstick, lip rouge.
+n+1: 10.  Class: jersey, T-shirt, tee shirt.
+n+1: 11.  Class: bassoon.
+n+1: 12.  Class: web site, website, internet site, site.
+n+1: 13.  Class: lotion.
+n+1: 14.  Class: neck brace.
+n+1: 15.  Class: sunscreen, sunblock, sun blocker.
+n+1: 16.  Class: perfume, essence.
+n+1: 17.  Class: brassiere, bra, bandeau.
+n+1: 18.  Class: maillot.
+n+1: 19.  Class: suit, suit of clothes.
+n+1: 20.  Class: syringe.
+```
+
+<img src="https://scontent-lga3-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/12797842_245709435762417_302545047_n.jpg width="250">
+
+```
+n+1: 1.  Class: candle, taper, wax light.
+n+1: 2.  Class: restaurant, eating house, eating place, eatery.
+n+1: 3.  Class: dining table, board.
+n+1: 4.  Class: patio, terrace.
+n+1: 5.  Class: grand piano, grand.
+n+1: 6.  Class: altar.
+n+1: 7.  Class: groom, bridegroom.
+n+1: 8.  Class: tub, vat.
+n+1: 9.  Class: mortar.
+n+1: 10.  Class: studio couch, day bed.
+n+1: 11.  Class: paper towel.
+n+1: 12.  Class: pot, flowerpot.
+n+1: 13.  Class: home theater, home theatre.
+n+1: 14.  Class: iron, smoothing iron.
+n+1: 15.  Class: lab coat, laboratory coat.
+n+1: 16.  Class: red wine.
+n+1: 17.  Class: abacus.
+n+1: 18.  Class: scale, weighing machine.
+n+1: 19.  Class: ice lolly, lolly, lollipop, popsicle.
+n+1: 20.  Class: grocery store, grocery, food market, market.
+```
+
+<img src="https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/10631999_1187324901297530_2118958455_n.jpg" width="250" >
+
+```
+n+1: 1.  Class: cellular telephone, cellular phone, cellphone, cell, mobile phone.
+n+1: 2.  Class: grocery store, grocery, food market, market.
+n+1: 3.  Class: shoe shop, shoe-shop, shoe store.
+n+1: 4.  Class: abaya.
+n+1: 5.  Class: butcher shop, meat market.
+n+1: 6.  Class: fur coat.
+n+1: 7.  Class: groom, bridegroom.
+n+1: 8.  Class: ocarina, sweet potato.
+n+1: 9.  Class: restaurant, eating house, eating place, eatery.
+n+1: 10.  Class: hotdog, hot dog, red hot.
+n+1: 11.  Class: pretzel.
+n+1: 12.  Class: wig.
+n+1: 13.  Class: hair spray.
+n+1: 14.  Class: confectionery, confectionary, candy store.
+n+1: 15.  Class: trench coat.
+n+1: 16.  Class: bow tie, bow-tie, bowtie.
+n+1: 17.  Class: cauliflower.
+n+1: 18.  Class: bakery, bakeshop, bakehouse.
+n+1: 19.  Class: miniskirt, mini.
+n+1: 20.  Class: lipstick, lip rouge.
+```
 
 <br>
 ## SQLite
