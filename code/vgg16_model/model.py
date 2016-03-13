@@ -31,7 +31,7 @@ image_urls = index.split('<br>')
 
 np.random.seed(23)
 np.random.shuffle(image_urls)
-image_urls = image_urls[:5]
+# image_urls = image_urls[:20]
 
 def prep_image(url):
     ext = url.split('.')[-1]
@@ -58,13 +58,21 @@ def prep_image(url):
     im = im - MEAN_IMAGE
     return rawim, floatX(im[np.newaxis])
 
-for url in image_urls:
+
+with open('../../data/zooeydeschanel/zooeydeschanel_src_urls.txt', 'r') as f:
+    lines = f.readlines()
+    image_urls = [line.split('\n')[0] for line in lines]
+
+
+probs = []
+for url in image_urls[:5]:
     try:
         rawim, im = prep_image(url)
         print 'calculating probs..'
         prob = np.array(lasagne.layers.get_output(nnet['prob'], im, deterministic=True).eval())
+        probs.append(prob)
         print 'got probs..'
-        top5 = np.argsort(prob[0])[-1:-6:-1]
+        top20 = np.argsort(prob[0])[-1:-21:-1]
         # print 'preparing to plot'
         # plt.figure()
         # plt.imshow(rawim.astype('uint8'))
@@ -72,9 +80,11 @@ for url in image_urls:
         # print 'successfully plotted'
 
         print "url: {}".format(url)
-        for n, label in enumerate(top5):
+        for n, label in enumerate(top20):
             # plt.text(250, 70 + n * 20, '{}. {}'.format(n+1, CLASSES[label]), fontsize=14)
-            print 'n+1: {}.  Class: {}.  url: {}'.format(n+1, CLASSES[label])
-        print 'finish "try" code'
-    except IOError:
+            print 'n+1: {}.  Class: {}.'.format(n+1, CLASSES[label])
+
+    # except IOError:
+    except:
         print('bad url: ' + url)
+        probs.append('bad url')
