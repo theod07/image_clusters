@@ -3,6 +3,18 @@ import time
 import random
 from time import strftime
 import os
+from string import ascii_lowercase as alphabet
+import threading
+
+def get_users(filename):
+    '''
+    INPUT: file of users, separated by newline
+    OUTPUT: list of users
+    '''
+    with open(filename, 'r') as f:
+        users = f.readlines()
+    users = [name.split('\n')[0] for name in users if not name.startswith('#')]
+    return users
 
 def get_data_reactids(urls, driver, sleeptime=2):
     '''
@@ -54,7 +66,7 @@ def write_file(username, items, description):
         print strftime('%Y%m%d.%H:%M:%s'), ' items written to ', fname
     return
 
-def has_userlinks_file(username):
+def has_gooduserlinks_file(username):
     '''
     check whether a given user already has ***_gooduserlinks.txt file
     '''
@@ -67,6 +79,21 @@ def has_userlinks_file(username):
         print False
     return False
 
+def has_src_url_file(user):
+    '''
+    return True if user already has src_url.txt file
+    '''
+    path = '../data/'
+    if user not in os.listdir(path):
+        return False
+
+    path = '../data/'+user+'/'
+    for file in os.listdir(path):
+        if 'src_url' in file:
+            return True
+    return False
+
+
 def get_gooduserlinks(username):
     loc = '../data/'+username+'/'
     fname = loc + username + '_gooduserlinks.txt'
@@ -75,10 +102,13 @@ def get_gooduserlinks(username):
     links = [line.split('\n')[0] for line in lines]
     return links
 
-def main(username, driver):
+def get_src_urls(username, driver):
     '''
     create a file containing src_urls for given username
     '''
+    if has_src_url_file(username):
+        print '{} already has src_urls.txt file'.format(username)
+        return
 
     if has_gooduserlinks_file(username):
         try:
@@ -101,14 +131,50 @@ def main(username, driver):
         print 'No gooduserlinks file for ', username
 
 
+def thread_get_src_urls(users, num_threads=3):
+    print 'Threading get_src_urls for {}'.format(users)
+    failed = []
+
+    while len(users) > 0:
+        threads = []
+
+        if len(users) >= num_threads:
+            subset = [users.pop() for i in range(num_threads)]
+        else:
+            subset = [users.pop() for user in users]
+
+        for user in subset:
+            try:
+                print 'enter try statement'
+                driver = webdriver.Firefox()
+                print 'attempting thread for user {}'.format(user)
+                t = threading.Thread(target=get_src_urls, args=(username, driver,))
+                print 'thread created for user {}'.format(user)
+                t.start()
+                print strftime('%Y%m%d.%H:%M:%s'), 'Started thread get_src_urls({})'.format(user)
+                threads.append(t)
+                print 'thread appended to list for user {}'.format(user)
+                driver.close()
+            except:
+                driver.close()
+                failed.append(user)
+                print strftime('%Y%m%d.%H:%M:%s'), ' Failed for {}'.format(user)
+        for thread in threads: thread.join()
+
+    print 'failed users: {}'.format(failed)
+    print strftime('%Y%m%d.%H:%M:%s'), 'Joined threads for {}'.format(subset)
+
 if __name__ == '__main__':
 
-    # with open('../data/EXAMPLE_instagramtop50/EXAMPLE_instagramtop50_gooduserlinks.txt', 'r') as f:
-    #     userlinks = f.readlines()
+    # username = raw_input('Give me a username to go through:  ')
+    # driver = webdriver.Firefox()
+    # get_src_urls(username, driver)
+    # driver.close()
 
-    username = raw_input('Give me a username to go through:  ')
+    all_users = get_users('../data/most_popular.txt')
+    letter = raw_input('give me a letter: ')
+    users = [user for user in all_users if user.lower().startswith(letter)]
     driver = webdriver.Firefox()
-
-    main(username, driver)
-
-    drive.close()
+    for user in users:
+        get_src_urls(user, driver)
+    driver.close()
