@@ -1,5 +1,76 @@
 # image_clusters
-## Setting up MongoDB
+## Test Results for zooeydeschanel
+<img src="https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e15/10729407_1550826631854920_835795974_n.jpg" width="250">
+
+```
+1.  Class: ocarina, sweet potato.
+2.  Class: harmonica, mouth organ, harp, mouth harp.
+3.  Class: sunglasses, dark glasses, shades.
+4.  Class: microphone, mike.
+5.  Class: stage.
+6.  Class: wig.
+7.  Class: cellular telephone, cellular phone, cellphone, cell, mobile phone.
+8.  Class: hair spray.
+9.  Class: miniskirt, mini.
+10.  Class: lipstick, lip rouge.
+11.  Class: bubble.
+12.  Class: sunglass.
+13.  Class: whistle.
+14.  Class: stethoscope.
+15.  Class: jean, blue jean, denim.
+16.  Class: crutch.
+17.  Class: flute, transverse flute.
+18.  Class: brassiere, bra, bandeau.
+19.  Class: pay-phone, pay-station.
+20.  Class: violin, fiddle.
+```
+<img src="https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/12317860_196424194035731_178014184_n.jpg" width="250" >
+
+```
+1.  Class: bottlecap.
+2.  Class: rugby ball.
+3.  Class: volleyball.
+4.  Class: soccer ball.
+5.  Class: football helmet.
+6.  Class: puck, hockey puck.
+7.  Class: crash helmet.
+8.  Class: racket, racquet.
+9.  Class: pick, plectrum, plectron.
+10.  Class: ping-pong ball.
+11.  Class: pop bottle, soda bottle.
+12.  Class: oil filter.
+13.  Class: tennis ball.
+14.  Class: bathing cap, swimming cap.
+15.  Class: shield, buckler.
+16.  Class: basketball.
+17.  Class: punching bag, punch bag, punching ball, punchball.
+18.  Class: croquet ball.
+19.  Class: baseball.
+20.  Class: loupe, jeweler's loupe.
+```
+
+
+
+<br>
+## SQLite
+### PostGres
+### psycopg
+
+
+<br>
+## MongoDB
+### Installing MongoDB
+RDBMS	MongoDB
+Database	Database
+Table	Collection
+Tuple/Row	Document
+column	Field
+Table Join	Embedded Documents
+Primary Key	Primary Key (Default key _id provided by mongodb itself)
+Database Server and Client
+Mysqld/Oracle	mongod
+mysql/sqlplus	mongo
+
 Find out the info of your machine. For Ubuntu:
 ```
 $ lsb_release -a
@@ -27,6 +98,13 @@ echo "mongodb-org-mongos hold" | sudo dpkg --set-selections
 echo "mongodb-org-tools hold" | sudo dpkg --set-selections
 ```
 
+### Running MongoDB
+```
+tmux new -s mongod
+sudo mongod
+```
+Be careful: pymongo will let you insert the same row of information multiple times without error.
+If you're trying to modify a row that's already in the table, use `.update_one()` or `.find_one_and_update()`
 
 <br>
 Run MongoDB Community Edition
