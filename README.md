@@ -1,4 +1,128 @@
 # image_clusters
+## Test Results for taylorswift
+<img src="https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/12783439_227038377646495_165023836_n.jpg" width="250">
+
+```
+1.  Class: bolo tie, bolo, bola tie, bola.
+2.  Class: buckle.
+3.  Class: shield, buckler.
+4.  Class: necklace.
+5.  Class: purse.
+6.  Class: hook, claw.
+7.  Class: thimble.
+8.  Class: wallet, billfold, notecase, pocketbook.
+9.  Class: pick, plectrum, plectron.
+10.  Class: hair slide.
+11.  Class: padlock.
+12.  Class: brass, memorial tablet, plaque.
+13.  Class: lighter, light, igniter, ignitor.
+14.  Class: breastplate, aegis, egis.
+15.  Class: mailbag, postbag.
+16.  Class: holster.
+17.  Class: scabbard.
+18.  Class: safety pin.
+19.  Class: switch, electric switch, electrical switch.
+20.  Class: chain.
+```
+<img src="https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/p480x480/12822517_207939649567337_1477831037_n.jpg" width="250">
+
+```
+1.  Class: poncho.
+2.  Class: stole.
+3.  Class: abaya.
+4.  Class: sweatshirt.
+5.  Class: pajama, pyjama, pj's, jammies.
+6.  Class: miniskirt, mini.
+7.  Class: hair spray.
+8.  Class: cloak.
+9.  Class: cardigan.
+10.  Class: hand blower, blow dryer, blow drier, hair dryer, hair drier.
+11.  Class: wig.
+12.  Class: vestment.
+13.  Class: chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour.
+14.  Class: feather boa, boa.
+15.  Class: wool, woolen, woollen.
+16.  Class: shower curtain.
+17.  Class: ski mask.
+18.  Class: jersey, T-shirt, tee shirt.
+19.  Class: mortarboard.
+20.  Class: plunger, plumber's helper.
+```
+<img src="https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/12747622_2170634363077265_1965558059_n.jpg" width="250" >
+
+```
+1.  Class: traffic light, traffic signal, stoplight.
+2.  Class: punching bag, punch bag, punching ball, punchball.
+3.  Class: loudspeaker, speaker, speaker unit, loudspeaker system, speaker system.
+4.  Class: mouse, computer mouse.
+5.  Class: book jacket, dust cover, dust jacket, dust wrapper.
+6.  Class: brassiere, bra, bandeau.
+7.  Class: dumbbell.
+8.  Class: abacus.
+9.  Class: joystick.
+10.  Class: clog, geta, patten, sabot.
+11.  Class: sock.
+12.  Class: cowboy hat, ten-gallon hat.
+13.  Class: bathing cap, swimming cap.
+14.  Class: maraca.
+15.  Class: microphone, mike.
+16.  Class: sunglasses, dark glasses, shades.
+17.  Class: ladle.
+18.  Class: knee pad.
+19.  Class: maillot, tank suit.
+20.  Class: pick, plectrum, plectron.
+```
+<img src="https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/p480x480/11371996_1990507964506737_1940515606_n.jpg" width="250" >
+
+```
+1.  Class: suit, suit of clothes.
+2.  Class: bow tie, bow-tie, bowtie.
+3.  Class: stole.
+4.  Class: velvet.
+5.  Class: Windsor tie.
+6.  Class: gown.
+7.  Class: miniskirt, mini.
+8.  Class: jean, blue jean, denim.
+9.  Class: maillot.
+10.  Class: cardigan.
+11.  Class: maillot, tank suit.
+12.  Class: overskirt.
+13.  Class: academic gown, academic robe, judge's robe.
+14.  Class: cloak.
+15.  Class: mortarboard.
+16.  Class: sunglasses, dark glasses, shades.
+17.  Class: wool, woolen, woollen.
+18.  Class: bulletproof vest.
+19.  Class: sunglass.
+20.  Class: trench coat.
+```
+
+<img src="https://scontent-lga3-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/12728514_1688943401393583_1138769393_n.jpg" width="250" >
+
+```
+1.  Class: bow tie, bow-tie, bowtie.
+2.  Class: suit, suit of clothes.
+3.  Class: gown.
+4.  Class: groom, bridegroom.
+5.  Class: limousine, limo.
+6.  Class: Windsor tie.
+7.  Class: theater curtain, theatre curtain.
+8.  Class: abaya.
+9.  Class: jean, blue jean, denim.
+10.  Class: overskirt.
+11.  Class: wig.
+12.  Class: cloak.
+13.  Class: miniskirt, mini.
+14.  Class: mortarboard.
+15.  Class: hoopskirt, crinoline.
+16.  Class: stage.
+17.  Class: Loafer.
+18.  Class: neck brace.
+19.  Class: grand piano, grand.
+20.  Class: academic gown, academic robe, judge's robe.
+```
+<br>
+
 ## Test Results for zooeydeschanel
 <img src="https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e15/10729407_1550826631854920_835795974_n.jpg" width="250">
 
