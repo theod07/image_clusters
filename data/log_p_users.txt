@@ -1,0 +1,60 @@
+Last login: Sat Mar 12 16:50:55 on ttys001
+➜  ~ cd theo/image_clusters/code
+➜  code git:(master) python one_user_userlinks_to_src_urls.py
+give me a letter: p
+philadelphiaeagles already has src_urls.txt file
+getting gooduserlinks
+getting reactids
+Successfully found 24 reactids among 24 urls
+getting src_urls
+writing to file
+Directory already exists:  patriots
+20160312.16:53:1457830385  items written to  patriots_src_urls.txt
+attempted username:  patriots
+puma already has src_urls.txt file
+popeater already has src_urls.txt file
+getting gooduserlinks
+getting reactids
+Successfully found 1 reactids among 1 urls
+getting src_urls
+writing to file
+Directory already exists:  parislemon
+20160312.16:53:1457830388  items written to  parislemon_src_urls.txt
+attempted username:  parislemon
+photojojo already has src_urls.txt file
+postagram already has src_urls.txt file
+princessyahrini already has src_urls.txt file
+photogeekdom already has src_urls.txt file
+getting gooduserlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/s9TZ2CpUbw/?taken-by=paolatonight
+No _ovg3g  https://www.instagram.com/p/sXT2_2JUZT/?taken-by=paolatonight
+Successfully found 55 reactids among 57 urls
+getting src_urls
+writing to file
+Directory already exists:  paolatonight
+20160312.16:55:1457830515  items written to  paolatonight_src_urls.txt
+attempted username:  paolatonight
+getting gooduserlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/3pIBqfrVFr/?taken-by=patricknorton
+No _ovg3g  https://www.instagram.com/p/xu1t43LVJu/?taken-by=patricknorton
+Successfully found 140 reactids among 142 urls
+getting src_urls
+writing to file
+Directory already exists:  patricknorton
+20160312.17:00:1457830832  items written to  patricknorton_src_urls.txt
+attempted username:  patricknorton
+phenom already has src_urls.txt file
+promoteshop5bath already has src_urls.txt file
+getting gooduserlinks
+getting reactids
+Successfully found 648 reactids among 648 urls
+getting src_urls
+writing to file
+Directory already exists:  paniexx_shop
+20160312.17:23:1457832222  items written to  paniexx_shop_src_urls.txt
+attempted username:  paniexx_shop
+platinaline already has src_urls.txt file
+proud_3ra8ii already has src_urls.txt file
+➜  code git:(master) ✗
