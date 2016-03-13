@@ -59,7 +59,7 @@ def prep_image(url):
     return rawim, floatX(im[np.newaxis])
 
 
-with open('../../data/zooeydeschanel/zooeydeschanel_src_urls.txt', 'r') as f:
+with open('../../data/EXAMPLE_taylorswift/EXAMPLE_taylorswift_src_urls.txt', 'r') as f:
     lines = f.readlines()
     image_urls = [line.split('\n')[0] for line in lines]
 
@@ -82,7 +82,7 @@ for url in image_urls[:5]:
         print "url: {}".format(url)
         for n, label in enumerate(top20):
             # plt.text(250, 70 + n * 20, '{}. {}'.format(n+1, CLASSES[label]), fontsize=14)
-            print 'n+1: {}.  Class: {}.'.format(n+1, CLASSES[label])
+            print '{}.  Class: {}.'.format(n+1, CLASSES[label])
 
     # except IOError:
     except:
