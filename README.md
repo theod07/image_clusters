@@ -1,5 +1,126 @@
 # image_clusters
 ## Test Results for ImageNet test set
+<img src="http://farm1.static.flickr.com/8/11912062_a1dda4fa83.jpg" width="250">
+
+```
+1.  Class: malinois.
+2.  Class: German shepherd, German shepherd dog, German police dog, alsatian.
+3.  Class: Norwegian elkhound, elkhound.
+4.  Class: Irish terrier.
+5.  Class: Border terrier.
+6.  Class: Leonberg.
+7.  Class: Rhodesian ridgeback.
+8.  Class: chow, chow chow.
+9.  Class: bull mastiff.
+10.  Class: redbone.
+11.  Class: bloodhound, sleuthhound.
+12.  Class: Rottweiler.
+13.  Class: dingo, warrigal, warragal, Canis dingo.
+14.  Class: Tibetan mastiff.
+15.  Class: Irish wolfhound.
+16.  Class: kelpie.
+17.  Class: Chesapeake Bay retriever.
+18.  Class: American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier.
+19.  Class: soft-coated wheaten terrier.
+20.  Class: Staffordshire bullterrier, Staffordshire bull terrier.
+```
+<img src="http://farm4.static.flickr.com/3649/3320711239_0663522aca.jpg" width="250">
+
+```
+1.  Class: shovel.
+2.  Class: barrow, garden cart, lawn cart, wheelbarrow.
+3.  Class: hatchet.
+4.  Class: padlock.
+5.  Class: bucket, pail.
+6.  Class: milk can.
+7.  Class: ladle.
+8.  Class: plunger, plumber's helper.
+9.  Class: clog, geta, patten, sabot.
+10.  Class: picket fence, paling.
+11.  Class: nail.
+12.  Class: plow, plough.
+13.  Class: hammer.
+14.  Class: worm fence, snake fence, snake-rail fence, Virginia fence.
+15.  Class: broom.
+16.  Class: hook, claw.
+17.  Class: ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin.
+18.  Class: barrel, cask.
+19.  Class: switch, electric switch, electrical switch.
+20.  Class: mortar.
+```
+<img src="http://farm4.static.flickr.com/3057/2975067450_98bec812af.jpg" width="250">
+
+```
+1.  Class: wild boar, boar, Sus scrofa.
+2.  Class: hog, pig, grunter, squealer, Sus scrofa.
+3.  Class: warthog.
+4.  Class: hyena, hyaena.
+5.  Class: brown bear, bruin, Ursus arctos.
+6.  Class: African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus.
+7.  Class: American black bear, black bear, Ursus americanus, Euarctos americanus.
+8.  Class: baboon.
+9.  Class: timber wolf, grey wolf, gray wolf, Canis lupus.
+10.  Class: bison.
+11.  Class: ibex, Capra ibex.
+12.  Class: armadillo.
+13.  Class: echidna, spiny anteater, anteater.
+14.  Class: wombat.
+15.  Class: sloth bear, Melursus ursinus, Ursus ursinus.
+16.  Class: beaver.
+17.  Class: kit fox, Vulpes macrotis.
+18.  Class: dhole, Cuon alpinus.
+19.  Class: water buffalo, water ox, Asiatic buffalo, Bubalus bubalis.
+20.  Class: porcupine, hedgehog.
+```
+<img src="http://farm3.static.flickr.com/2452/3932323110_833174f459.jpg" width="250">
+
+```
+1.  Class: hair slide.
+2.  Class: piggy bank, penny bank.
+3.  Class: necklace.
+4.  Class: chest.
+5.  Class: pillow.
+6.  Class: perfume, essence.
+7.  Class: mask.
+8.  Class: teapot.
+9.  Class: altar.
+10.  Class: vase.
+11.  Class: clog, geta, patten, sabot.
+12.  Class: china cabinet, china closet.
+13.  Class: pitcher, ewer.
+14.  Class: buckle.
+15.  Class: mailbag, postbag.
+16.  Class: sandal.
+17.  Class: brassiere, bra, bandeau.
+18.  Class: teddy, teddy bear.
+19.  Class: purse.
+20.  Class: thimble.
+```
+<img src="http://www.tmk.com/tiger/6F5S5684-l.jpg" width="250">
+
+```
+1.  Class: Persian cat.
+2.  Class: tabby, tabby cat.
+3.  Class: lynx, catamount.
+4.  Class: washbasin, handbasin, washbowl, lavabo, wash-hand basin.
+5.  Class: plastic bag.
+6.  Class: tiger cat.
+7.  Class: Egyptian cat.
+8.  Class: paper towel.
+9.  Class: refrigerator, icebox.
+10.  Class: tub, vat.
+11.  Class: toilet seat.
+12.  Class: ping-pong ball.
+13.  Class: washer, automatic washer, washing machine.
+14.  Class: carton.
+15.  Class: toilet tissue, toilet paper, bathroom tissue.
+16.  Class: dishwasher, dish washer, dishwashing machine.
+17.  Class: bathtub, bathing tub, bath, tub.
+18.  Class: bucket, pail.
+19.  Class: radiator.
+20.  Class: printer.
+```
+
 <img src="http://farm1.static.flickr.com/36/97763609_649f72b6f0.jpg" width="250" >
 
 ```
