@@ -1,4 +1,78 @@
 # image_clusters
+## Test Results for ImageNet test set
+<img src="http://farm1.static.flickr.com/36/97763609_649f72b6f0.jpg" width="250" >
+
+```
+1.  Class: picket fence, paling.
+2.  Class: worm fence, snake fence, snake-rail fence, Virginia fence.
+3.  Class: radiator.
+4.  Class: bannister, banister, balustrade, balusters, handrail.
+5.  Class: mailbox, letter box.
+6.  Class: breakwater, groin, groyne, mole, bulwark, seawall, jetty.
+7.  Class: stone wall.
+8.  Class: park bench.
+9.  Class: swab, swob, mop.
+10.  Class: sliding door.
+11.  Class: chainlink fence.
+12.  Class: pier.
+13.  Class: prison, prison house.
+14.  Class: daisy.
+15.  Class: ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin.
+16.  Class: barn.
+17.  Class: broom.
+18.  Class: barrel, cask.
+19.  Class: folding chair.
+20.  Class: coral fungus.
+```
+<img src="http://farm4.static.flickr.com/3196/2621289202_2ac494f086.jpg" width="250">
+
+```
+1.  Class: racer, race car, racing car.
+2.  Class: police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria.
+3.  Class: sports car, sport car.
+4.  Class: passenger car, coach, carriage.
+5.  Class: ambulance.
+6.  Class: car wheel.
+7.  Class: cab, hack, taxi, taxicab.
+8.  Class: minibus.
+9.  Class: minivan.
+10.  Class: beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon.
+11.  Class: convertible.
+12.  Class: moving van.
+13.  Class: crash helmet.
+14.  Class: grille, radiator grille.
+15.  Class: pickup, pickup truck.
+16.  Class: tow truck, tow car, wrecker.
+17.  Class: limousine, limo.
+18.  Class: jeep, landrover.
+19.  Class: snowmobile.
+20.  Class: go-kart.
+```
+<img src="http://farm2.static.flickr.com/1247/1311166209_2334f85bd2.jpg" width="250">
+
+```
+1.  Class: whippet.
+2.  Class: Saluki, gazelle hound.
+3.  Class: Italian greyhound.
+4.  Class: Ibizan hound, Ibizan Podenco.
+5.  Class: basenji.
+6.  Class: muzzle.
+7.  Class: borzoi, Russian wolfhound.
+8.  Class: Great Dane.
+9.  Class: Scottish deerhound, deerhound.
+10.  Class: Irish wolfhound.
+11.  Class: American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier.
+12.  Class: wallaby, brush kangaroo.
+13.  Class: boxer.
+14.  Class: malinois.
+15.  Class: gazelle.
+16.  Class: impala, Aepyceros melampus.
+17.  Class: Weimaraner.
+18.  Class: African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus.
+19.  Class: Rhodesian ridgeback.
+20.  Class: bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis.
+```
+
 ## Test Results for taylorswift
 <img src="https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/12783439_227038377646495_165023836_n.jpg" width="250">
 
@@ -249,12 +323,26 @@ n+1: 20.  Class: lipstick, lip rouge.
 ```
 
 <br>
-## SQLite
-### PostGres
+
+## PostGres
+walk through the tutorial on ubuntu [here](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-14-04)
+```
+sudo apt-get update
+sudo apt-get install postgresql postgresql-contrib
+sudo -i -u postgres
+psql
+
+psql -d postgres    # specify which db to connect to (postgres)
+\conninfo
+```
+
+<br>
+
 ### psycopg
 
 
 <br>
+
 ## MongoDB
 ### Installing MongoDB
 RDBMS	MongoDB
@@ -300,8 +388,8 @@ echo "mongodb-org-tools hold" | sudo dpkg --set-selections
 tmux new -s mongod
 sudo mongod
 ```
-Be careful: pymongo will let you insert the same row of information multiple times without error.
-If you're trying to modify a row that's already in the table, use `.update_one()` or `.find_one_and_update()`
+Be careful: pymongo will let you insert the same document of information multiple times without error.
+If you're trying to modify a document that's already in the table, use `.update_one()` or `.find_one_and_update()`
 
 <br>
 Run MongoDB Community Edition
