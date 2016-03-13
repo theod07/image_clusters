@@ -74,7 +74,7 @@ n+1: 19.  Class: suit, suit of clothes.
 n+1: 20.  Class: syringe.
 ```
 
-<img src="https://scontent-lga3-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/12797842_245709435762417_302545047_n.jpg width="250">
+<img src="https://scontent-lga3-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/12797842_245709435762417_302545047_n.jpg" width="250">
 
 ```
 n+1: 1.  Class: candle, taper, wax light.
