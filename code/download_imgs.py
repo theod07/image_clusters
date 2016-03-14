@@ -67,6 +67,7 @@ def s3_save(username, url, bucket):
     k = Key(bucket)
     k.name = fname
     info = k.set_contents_from_string(response.read(), {'Content-Type' : response.info().gettype()})
+    print 'saved to s3 {}'.format(fname)
     return info
 
 
