@@ -10,7 +10,7 @@ from vgg16_model import model as nn
 
 if __name__ == '__main__':
     # keypath = '/Users/wonder/rootkey.json'
-    keypath = '/home/ubuntu/rootkey.json'
+    keypath = '/home/ubuntu/.rootkey.json'
 
     conn = dl.connect_s3(keypath)
     bucket = conn.get_bucket('ig_image_clusters')
