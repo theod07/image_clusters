@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 # import matplotlib
 # matplotlib.use('agg')
 
-model = pickle.load(open('./vgg16_model/vgg16.pkl'))
+model = pickle.load(open('./vgg_model/vgg16.pkl'))
 CLASSES = model['synset words']
 MEAN_IMAGE = model['mean value'][:, np.newaxis, np.newaxis] # necessary to match dimensions of incoming images
 
@@ -58,19 +58,11 @@ def prep_image(url):
     im = im - MEAN_IMAGE
     return rawim, floatX(im[np.newaxis])
 
-
-with open('../../data/zooeydeschanel/zooeydeschanel_src_urls.txt', 'r') as f:
-    lines = f.readlines()
-    image_urls = [line.split('\n')[0] for line in lines]
-
-
-probs = []
-for url in image_urls[:5]:
+def predict(url):
     try:
         rawim, im = prep_image(url)
         print 'calculating probs..'
         prob = np.array(lasagne.layers.get_output(nnet['prob'], im, deterministic=True).eval())
-        probs.append(prob)
         print 'got probs..'
         top20 = np.argsort(prob[0])[-1:-21:-1]
         # print 'preparing to plot'
@@ -82,9 +74,22 @@ for url in image_urls[:5]:
         print "url: {}".format(url)
         for n, label in enumerate(top20):
             # plt.text(250, 70 + n * 20, '{}. {}'.format(n+1, CLASSES[label]), fontsize=14)
-            print 'n+1: {}.  Class: {}.'.format(n+1, CLASSES[label])
-
+            print '{}.  Class: {}.'.format(n+1, CLASSES[label])
     # except IOError:
     except:
         print('bad url: ' + url)
-        probs.append('bad url')
+        return np.zeros(1000)
+    return prob
+
+if __name__ == '__main__':
+
+    sample_size = 2
+
+    with open('../../data/EXAMPLE_taylorswift/EXAMPLE_taylorswift_src_urls.txt', 'r') as f:
+        lines = f.readlines()
+        image_urls = [line.split('\n')[0] for line in lines]
+
+    urls = image_urls[:sample_size]
+    probs = []
+    while len(urls) > 0:
+        probs.append(predict(urls.pop()))
