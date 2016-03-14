@@ -9,11 +9,12 @@ def vec_to_str(vec):
     output = "{" + ', '.join(strs) + "}"
     return output
 
-def insert_prediction(url, pred_str, cursor):
+def insert_prediction(url, pred_str, connection):
     query = '''INSERT INTO predictions (src_url, prediction) values ('{}', '{}' );'''.format(url, pred_str)
     # c.execute('''insert into test_table (src_url, prediction) values ('aa', {});'''.format(v1))
-    cursor.execute(query)
-    conn.commit()
+    c = connection.cursor()
+    c.execute(query)
+    connection.commit()
     return
 
 if __name__ == '__main__':
@@ -44,7 +45,7 @@ if __name__ == '__main__':
         print 'type(pred): ', type(pred)
         print
         pred_str = vec_to_str(pred)
-        insert_prediction(url, pred_str, c)
+        insert_prediction(url, pred_str, conn)
 
     c.execute('select * from predictions;')
     c.fetchall()
