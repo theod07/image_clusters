@@ -446,15 +446,61 @@ n+1: 20.  Class: lipstick, lip rouge.
 <br>
 
 ## PostGres
-walk through the tutorial on ubuntu [here](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-14-04)
+walk through the ubuntu installation tutorial [here](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-14-04)
+
+guide to playing around with tables [here](https://www.digitalocean.com/community/tutorials/how-to-create-remove-manage-tables-in-postgresql-on-a-cloud-server)
+
+There was some trouble with authentication for python/psycopg2 to connect to my postgres server. still trying piece it together myself, but I had to `ALTER USER` "postgres" and provide a password. then I modified the configuration file `pg_hba.conf` to use MD5 authentication for user "postgres" and restart the server. [check this out](https://help.ubuntu.com/stable/serverguide/postgresql.html)
+
 ```
 sudo apt-get update
 sudo apt-get install postgresql postgresql-contrib
+sudo apt-get install python-psycopg2
+sudo apt-get install libpq-dev
 sudo -i -u postgres
 psql
 
 psql -d postgres    # specify which db to connect to (postgres)
 \conninfo
+
+CREATE TABLE predictions (
+hash text PRIMARY KEY,
+src_url text,
+prediction numeric(30,25) []);
+
+postgres=# \d
+            List of relations
+ Schema |    Name     | Type  |  Owner
+--------+-------------+-------+----------
+ public | predictions | table | postgres
+
+ postgres=# \d predictions
+  src_url    | text          | not null
+  prediction | numeric(30,25) |
+
+postgres=# ALTER TABLE predictions ADD COLUMN hash text;
+  ALTER TABLE
+postgres=# \d
+   public | predictions | table | postgres
+
+postgres=# \d predictions
+   src_url    | text          | not null
+   prediction | numeric(30,25) |
+   hash       | text          |
+
+
+postgres=# CREATE DATABASE image_clusters;
+CREATE DATABASE
+
+postgres=# \c image_clusters;
+You are now connected to database "image_clusters" as user "postgres".
+image_clusters=# CREATE TABLE predictions (
+image_clusters(# hash text,
+image_clusters(# src_url text,
+image_clusters(# prediction numeric(30, 25) []);
+
+image_clusters=# insert into predictions (hash, src_url, prediction) values ('a', 'a', '{100.2222222, 1000.111111111111111111, 0.55555555555555555555555, .99999999999999999999999}');
+
 ```
 
 <br>
