@@ -1,5 +1,5 @@
 import download_imgs as dl
-from database import has_src_url_file
+from dl import has_src_url_file
 from database import read_src_urls
 from database import vec_to_str
 from database import insert_prediction
