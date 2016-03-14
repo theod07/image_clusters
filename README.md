@@ -501,6 +501,7 @@ image_clusters(# prediction numeric(30, 25) []);
 
 image_clusters=# insert into predictions (hash, src_url, prediction) values ('a', 'a', '{100.2222222, 1000.111111111111111111, 0.55555555555555555555555, .99999999999999999999999}');
 
+=# show data_directory; # shows where the data directory is
 ```
 
 <br>
