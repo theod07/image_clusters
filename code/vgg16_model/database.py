@@ -10,7 +10,7 @@ def vec_to_str(vec):
     return output
 
 def insert_prediction(url, pred_str):
-    query = '''INSERT INTO test_table (src_url, prediction) values ('{}', '{}' );'''.format(url, pred_str)
+    query = '''INSERT INTO predictions (src_url, prediction) values ('{}', '{}' );'''.format(url, pred_str)
     # c.execute('''insert into test_table (src_url, prediction) values ('aa', {});'''.format(v1))
     c.execute(query)
     conn.commit()
