@@ -16,7 +16,7 @@ if __name__ == '__main__':
     username = raw_input('give me a username: ')
 
     while has_src_url_file(username):
-        src_urls = read_src_urls(username):
+        src_urls = read_src_urls(username)
 
         for url in src_urls:
             s3_save(username, url, bucket)
