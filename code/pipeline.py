@@ -5,6 +5,7 @@ import database as db
 # from database import vec_to_str
 # from database import insert_prediction
 from vgg16_model import model as nn
+import psycopg2 as pg2
 
 
 
