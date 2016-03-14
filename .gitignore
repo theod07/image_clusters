@@ -1,3 +1,8 @@
+# pickled models #
+##################
+*.pkl
+*.pyc
+
 # Compiled source #
 ###################
 *.com
