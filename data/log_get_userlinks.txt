@@ -175,3 +175,7 @@ Succeed get src_urls for kaka
 Succeed get src_urls for nancyloo
 Succeed get src_urls for jamieoliver
 Succeed get src_urls for nickkristof
+Succeed get src_urls for kellyslater
+Succeed get src_urls for kcchiefs
+Succeed get src_urls for marinaruybarbosa
+Succeed get src_urls for norahodonnell
