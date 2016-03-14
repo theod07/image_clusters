@@ -13,8 +13,11 @@ if __name__ == '__main__':
     # keypath = '/Users/wonder/rootkey.json'
     keypath = '/home/ubuntu/.rootkey.json'
 
-    conn = dl.connect_s3(keypath)
-    bucket = conn.get_bucket('ig_image_clusters')
+    s3_conn = dl.connect_s3(keypath)
+    bucket = s3_conn.get_bucket('ig_image_clusters')
+
+    pg_conn = pg2.connect(user='postgres', password='admin', dbname='image_clusters')
+    pg_cursor = pg_conn.cursor()
 
     username = raw_input('give me a username: ')
 
@@ -25,6 +28,6 @@ if __name__ == '__main__':
             dl.s3_save(username, url, bucket)
             pred = nn.predict(url)[0]
             pred_str = db.vec_to_str(pred)
-            db.insert_prediction(url, pred_str)
+            db.insert_prediction(url, pred_str, pg_cursor)
 
-    conn.close()
+    s3_conn.close()
