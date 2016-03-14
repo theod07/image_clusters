@@ -1,5 +1,5 @@
 import psycopg2 as pg2
-# import model
+import vgg16_model.model
 
 def vec_to_str(vec):
     '''
