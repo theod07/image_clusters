@@ -1,4 +1,22 @@
 # image_clusters
+## Narrowing down the stethoscope
+on a g2.8xlarge ec2, vgg16 is taking about 4sec/photo on lasagne, which comes out to about 21,000 photos in a day. that's far too slow, especially considering our code gets frozen in 7 days. keep in mind that i haven't even gotten to the clustering step of this project. so to be able to get some preliminary results, we'll have to strategize which users to analyze. the celebrity profiles so far are just noise -- tswizzle and miss zooeyd.
+
+What I can do is pick a few users who are already thematic and find clusters for those photos.
+Here are the themes on my mind right now:
+1. dogs
+2. cats
+3. food
+4. nature
+5. sports
+6. fashion / style
+
+any other suggestions?
+
+
+
+<br>
+
 ## Test Results for ImageNet test set
 <img src="http://farm1.static.flickr.com/8/11912062_a1dda4fa83.jpg" width="250">
 
