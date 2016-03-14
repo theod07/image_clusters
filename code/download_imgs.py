@@ -62,12 +62,14 @@ def s3_save(username, url, bucket):
     response = urllib2.urlopen(request)
 
     title= url.split('/')[-1]
-    fname = '{}_{}.jpg'.format(username, title)
-    
+    fname = '{}_{}'.format(username, title)
+
     k = Key(bucket)
     k.name = fname
     info = k.set_contents_from_string(response.read(), {'Content-Type' : response.info().gettype()})
     return info
+
+
 
 if __name__ == '__main__':
     '''
@@ -87,9 +89,9 @@ if __name__ == '__main__':
     while has_src_url_file(username):
         src_urls = read_src_urls(username)
 
-        for url in src_urls[:50]:
+        for url in src_urls:
             # download_file_local(url, save_path)
-            print 'url: {}'.format(url)
+            # print 'url: {}'.format(url)
             s3_save(username, url, bucket)
 
     conn.close()
