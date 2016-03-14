@@ -3,7 +3,7 @@ from download_imgs import has_src_url_file
 from download_imgs import read_src_urls
 from database import vec_to_str
 from database import insert_prediction
-from vgg_16_model import model as nn
+from vgg16_model import model as nn
 
 
 
