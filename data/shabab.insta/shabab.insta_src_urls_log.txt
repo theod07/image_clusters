@@ -1,0 +1,43 @@
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  shabab.insta
+getting userlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BCqvRl3IVdx/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCqgUdZIVdN/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCqKmXuIVeR/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCoNsGTIVfm/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCntf0doVaR/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCmuzrzoVdJ/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BClncSRoVak/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BClls0BIVWw/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCliu-3oVQU/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BClMSF0oVZN/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCk2p9WoVf2/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCkyZ76IVVD/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCkQBU2IVRi/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCjLdrioVT-/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCjEMliIVU2/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCjDIn1IVSu/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCi1N-3oVXH/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCizeVtIVTY/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCiBbHCIVYQ/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCg79BKIVRj/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCg7IjcoVQI/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCdF98cIVT8/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCdFL2VoVSc/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCcR-LnoVYR/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCbRJW5IVUC/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCaxKXQoVQ_/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCahB04oVfI/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCXsQceoVfT/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCVprJUoVbo/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCVpF5wIVZs/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCVoCRSoVWL/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCVm1gYoVSf/?taken-by=shabab.insta
+No _ovg3g  https://www.instagram.com/p/BCTfkR1oVQL/?taken-by=shabab.insta
+Successfully found 447 reactids among 480 urls
+getting src_urls
+writing to file
+Directory already exists:  shabab.insta
+20160311.14:32:1457735524  items written to  shabab.insta_src_urls.txt
+attempted username:  shabab.insta

@@ -1,0 +1,6 @@
+philadelphiaeagles already has src_urls.txt file
+getting gooduserlinks
+getting reactids
+Successfully found 24 reactids among 24 urls
+getting src_urls
+writing to file

@@ -14,6 +14,7 @@ import urllib
 import io
 import skimage.transform
 import matplotlib.pyplot as plt
+import time
 # import matplotlib
 # matplotlib.use('agg')
 
@@ -60,19 +61,22 @@ def prep_image(url):
 
 def predict(url):
     try:
+        tic = time.clock()
         rawim, im = prep_image(url)
         print 'calculating probs..'
         prob = np.array(lasagne.layers.get_output(nnet['prob'], im, deterministic=True).eval())
         print 'got probs..'
-        top20 = np.argsort(prob[0])[-1:-21:-1]
+        top = np.argsort(prob[0])[-1:-4:-1]
         # print 'preparing to plot'
         # plt.figure()
         # plt.imshow(rawim.astype('uint8'))
         # plt.axis('off')
         # print 'successfully plotted'
-
+        toc = time.clock()
+        
         print "url: {}".format(url)
-        for n, label in enumerate(top20):
+        print "predict time: {}".format(toc-tic)
+        for n, label in enumerate(top):
             # plt.text(250, 70 + n * 20, '{}. {}'.format(n+1, CLASSES[label]), fontsize=14)
             print '{}.  Class: {}.'.format(n+1, CLASSES[label])
     # except IOError:

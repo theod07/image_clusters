@@ -1,0 +1,85 @@
+
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  shakira
+getting userlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BCiXeJOIjkx/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/BCYNinWIjo7/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/BCOAyNBojmn/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/BA-DXn-ojok/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/BA2ZNazojiE/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/BAk4P_UojoC/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/BAaK-3KIjvv/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/BASB3zsojhD/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/_10IrxIjsz/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/-TpCyOojgA/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/-JgUvTIjuD/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/9Euz2AIjpa/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/9EhwrdIjhg/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/9BtVicojg_/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/87_hNUojpJ/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/83TYH9Ijgb/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/824h3Lojt9/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/8vT36uIjm_/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/8s1XooIjin/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/8eTXFyojoc/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/8WDKY-ojpd/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/8EuD_zojt1/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/8Egwg-ojoE/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/5uha82ojna/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/5TGL3ZojtC/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/4FZurJIjtN/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/36lK7aIjrq/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/3UuFXXIjo4/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/3UuB-nIjow/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/3CxrJDIjq_/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/2bz_BPIjrw/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/2YWbG6ojj4/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/0I9PHzIjnw/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/zLVGkRojuS/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/zDSYtmojot/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/y-Fcfjojpj/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/y5oGi1Ijn-/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/yxIzGyIjoQ/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/yshMKBojvc/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/ysDzleIjhh/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/ye41rYojn4/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/ySvsl-Iji3/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/yNTQdLojqV/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/yGIXXoojhm/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/xRkZBOojos/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/tqiYG7ojjX/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/tfmlHHIjtZ/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/tadSZzIjp5/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/r5C8bQojlu/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/qxG9-Eojvd/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/ql_iiJojhF/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/ql_DFtojgm/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/qRsQvYojuL/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/pHjn0hojh7/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/og2WTpojs5/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/nLRMZQIjg9/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/mTBzIwIjvN/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/mF2IKfojgV/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/l_RJ4VIjhC/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/l0twT0IjuX/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/lhy4lgojtZ/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/lhrSfsIji9/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/lZz5emojux/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/lYKHkrojrk/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/lX7VWiojkB/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/jmKtkxIji2/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/fnRi14ojs6/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/fVhadsojoR/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/fRFh4Xojut/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/fQZx9aIjoM/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/esL1xZIjpA/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/epLQ79ojjU/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/dkB-qQIjl6/?taken-by=shakira
+No _ovg3g  https://www.instagram.com/p/dkAiyBIjjw/?taken-by=shakira
+Successfully found 417 reactids among 491 urls
+getting src_urls
+writing to file
+Directory already exists:  shakira
+20160311.14:18:1457734703  items written to  shakira_src_urls.txt
+attempted username:  shakira

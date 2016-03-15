@@ -1,0 +1,59 @@
+
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  shaym
+getting userlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BCL9g4wwryQ/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/BBqiXFSwr5f/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/BBf1JmyQr8P/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/BBQKecKwr5L/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/BA_d3UeQr99/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/BAi9p1Hwr8H/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/BAf0rwFwr5l/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/BASa8A9wr2L/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/BAG9KPcwr0i/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/_cN6l7wrz5/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/_Z5JJpwr5H/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/_YlLgXwr4p/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/_X_M05wry7/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/_XQ1bAwrxk/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/_VfcUDQr16/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/_VeaCuQr0I/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/_VIhlJwrw7/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/_Ig7Uewr4v/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/-Wq1o9wryM/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/-K47PsQr1Q/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/99MnZzwrzX/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/9r1P_8wrxG/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/9HWav0Qr_A/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/89zbZ_QrzJ/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/8wPpCHwr8M/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/8Bwpq_wr1n/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/7Oq-2FQr_3/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/7ElzNOwr29/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/599R8Hwr6w/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/50QfCkwr_M/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/5zc9FKQr16/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/5yNw8cQr4p/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/5xueceQr-L/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/5vdAi9Qr_-/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/5ufYnXQr7-/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/5slmaKQr0b/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/5sSVbjwr8h/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/5oJqvPQrxF/?taken-by=shaym
+`^[No _ovg3g  https://www.instagram.com/p/5OhIcrQr-B/?taken-by=shaym
+     No _ovg3g  https://www.instagram.com/p/5D2l5iQrzX/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/4um4O9Qr1R/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/4AiU8wQr19/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/3uuXJUwr3p/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/3t3_Y2wr0w/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/3sEQKpQr0Q/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/3r9T40Qr4e/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/3rcAD8Qr06/?taken-by=shaym
+No _ovg3g  https://www.instagram.com/p/3qDBLSwr-W/?taken-by=shaym
+Successfully found 708 reactids among 756 urls
+getting src_urls
+writing to file
+Directory already exists:  shaym
+20160311.13:37:1457732240  items written to  shaym_src_urls.txt
+attempted username:  shaym

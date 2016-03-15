@@ -6,7 +6,7 @@ import database as db
 # from database import insert_prediction
 from vgg16_model import model as nn
 import psycopg2 as pg2
-
+import random
 
 
 
@@ -21,14 +21,16 @@ if __name__ == '__main__':
     pg_cursor = pg_conn.cursor()
 
     # username = raw_input('give me a username: ')
-    # 'year'
-    usernames = ['oceana', 'paolatonight', 'patricknorton']
+    # 'year', 'oceana',
+    usernames = ['patricknorton', 'paolatonight']
 
     for username in usernames:
         while dl.has_src_url_file(username):
             shortcodes = dl.get_shortcodes(username)
             src_urls = dl.get_src_urls(username)
-
+            # rand_ind = random.sample(range(len(shortcodes)), 300)
+            # shortcodes = shortcodes[rand_ind]
+            # src_urls = src_urls[rand_ind]
 
             for (code,url) in zip(shortcodes, src_urls):
                 dl.s3_save(username, url, bucket)
