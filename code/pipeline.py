@@ -29,6 +29,6 @@ if __name__ == '__main__':
             dl.s3_save(username, url, bucket)
             pred = nn.predict(url)[0]
             pred_str = db.vec_to_str(pred)
-            db.insert_prediction(url, pred_str, pg_conn)
+            db.insert_prediction(username, url, pred_str, pg_conn)
 
     s3_conn.close()
