@@ -1,4 +1,41 @@
 # image_clusters
+## Damnit postgres..
+Postgres may be too slow to access, so I'm switching gears to storing predictions in a dataframe.
+Now, how to figure out the right algorithm to save predictions?
+```python
+deltas = []
+for i in xrange(5000):
+    tic = time.clock()
+    preds = []
+    for i in xrange(1000):
+        #simulate a prediction
+        prediction = np.random.rand(1000)
+        preds.append(prediction)
+    toc = time.clock()
+    # print 'delta: {}'.format(toc-tic)
+    deltas.append(toc-tic)
+print 'mean delta (list): {}'.format(np.mean(deltas))
+
+deltas = []
+for i in xrange(5000):
+    tic = time.clock()
+    preds = np.zeros([1000,1000])
+    for i in xrange(1000):
+        #simulate a prediction
+        prediction = np.random.rand(1000)
+        preds[i,:] = prediction
+    toc = time.clock()
+    deltas.append(toc-tic)
+print 'mean delta (numpy): {}'.format(np.mean(deltas))
+
+# mean delta (list): 0.01443885
+# mean delta (numpy): 0.0182667424
+# not a drastic difference, but i'll go with the list implementation anyway.
+```
+
+
+<br>
+
 ## Narrowing down the scope
 on a g2.8xlarge ec2, vgg16 is taking about 4sec/photo on lasagne, which comes out to about 21,000 photos in a day. that's far too slow, especially considering our code gets frozen in 7 days. keep in mind that i haven't even gotten to the clustering step of this project. so to be able to get some preliminary results, we'll have to strategize which users to analyze. the celebrity profiles so far are just noise -- tswizzle and miss zooeyd.
 
@@ -27,7 +64,7 @@ Here are some themes we may be able to use and the users who could belong to eac
 21. spiritual (nonghairstylist3245)
 22. animals (oceana, paolatonight)
 23. news (wired, reuters, npr, nbcnews, todayshow)
-24. celebrity (zooeydeschanel, vindiesel, vanessahudgens, tyrabanks, treysongz, tonyhawk, therock, theellenshow, taylorswift, shakira, shawnjohnson, selenagomez, ryanseacrest, robertdobbsarmy, kimkardashian, taylorswift, zooeydeschanel, ronaldinhooficial, )
+24. celebrity (zooeydeschanel, vindiesel, vanessahudgens, tyrabanks, treysongz, tonyhawk, therock, theellenshow, taylorswift, shakira, shawnjohnson, selenagomez, ryanseacrest, robertdobbsarmy, kimkardashian, ronaldinhooficial, )
 25. tattoos (skinart_mag, thekatvond)
 26. bands (theroxy, theshins, )
 
