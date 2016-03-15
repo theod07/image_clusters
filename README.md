@@ -1,4 +1,37 @@
 # image_clusters
+## Narrowing down the stethoscope
+on a g2.8xlarge ec2, vgg16 is taking about 4sec/photo on lasagne, which comes out to about 21,000 photos in a day. that's far too slow, especially considering our code gets frozen in 7 days. keep in mind that i haven't even gotten to the clustering step of this project. so to be able to get some preliminary results, we'll have to strategize which users to analyze. the celebrity profiles so far are just noise -- tswizzle and miss zooeyd.
+
+What I can do is pick a few users who are already thematic and find clusters for those photos.
+Here are some themes we may be able to use and the users who could belong to each:
+1. dogs
+2. cats
+3. food ( foodzie, love_food, benandjerrys, dunkindonuts)
+4. nature (beauty_edit_max, convergence, dudubarina)
+5. sports (futbolsport, garethbale11, 433 soccer, but many vids)
+6. fashion / style (burberry, GAP, amazing_pretty, bergdorfs, bonobos, chanelofficial, cintageshop, dress_varietyii, forever21, freedom_clothes, gigihadid)
+7. fitness (adidas, fitness_elites)
+8. science / technology (nasagoddard, cultofmac, generalelectric)
+9. babies / nature (alukoyanov)
+10. hairstyle (barbershopconnect)
+11. architecture (barcelonacitizen, beautifulworldgroup, darenta.ru)
+12. selfies (bellathorne, caiocastro, camerondallas, caradelevigne)
+13. shoes (bigfeetsneaks, adidasoriginals, converse)
+14. artistic (charlesdharapak, eyemediaa, fotogasm, giftbuddy)
+15. beer (dogfishbeer)
+16. makeup / accessories (fashion_creative_love, fashionbeautydisplay, fashionchurch)
+
+
+
+
+
+
+any other suggestions?
+
+
+
+<br>
+
 ## Test Results for ImageNet test set
 <img src="http://farm1.static.flickr.com/8/11912062_a1dda4fa83.jpg" width="250">
 
