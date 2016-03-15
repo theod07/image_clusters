@@ -23,7 +23,7 @@ if __name__ == '__main__':
     # username = raw_input('give me a username: ')
     usernames = ['year', 'oceana', 'paolatonight', 'patricknorton']
 
-    for user in usernames:
+    for username in usernames:
         while dl.has_src_url_file(username):
             shortcodes = dl.get_shortcodes(username)
             src_urls = dl.get_src_urls(username)
