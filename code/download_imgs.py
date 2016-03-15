@@ -34,7 +34,7 @@ def has_src_url_file(username):
     print 'No src_urls.txt file for user {}'.format(username)
     return False
 
-def read_src_urls(username):
+def get_src_urls(username):
     '''
     check whether user has src_url.txt file
 
@@ -45,6 +45,15 @@ def read_src_urls(username):
         lines = f.readlines()
     urls = [l.split('\n')[0] for l in lines]
     return urls
+
+def get_shortcodes(username):
+    user_path = '../data/{}/'.format(username)
+    fname = '{}{}_gooduserlinks.txt'.format(user_path, username)
+    with open(fname, 'r') as f:
+        lines = f.readlines()
+
+    shortcodes = [line.split('/?taken-by')[0].split('.com/p/')[1] for line in lines]
+    return shortcodes
 
 def local_save(url, save_path):
     fname = url.split('/')[-1]
@@ -88,7 +97,7 @@ if __name__ == '__main__':
 
     username = raw_input('give me a username: ')
     while has_src_url_file(username):
-        src_urls = read_src_urls(username)
+        src_urls = get_src_urls(username)
 
         for url in src_urls:
             # download_file_local(url, save_path)

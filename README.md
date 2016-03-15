@@ -7,7 +7,7 @@ Here are some themes we may be able to use and the users who could belong to eac
 1. dogs (igtoppicture, postagram)
 2. cats
 3. food (jamieoliver, foodzie, love_food, matthewjennings, benandjerrys, dunkindonuts)
-4. nature (solar, beauty_edit_max, convergence, dudubarina, gopro, indotravellers.co, instagrambrasil, mexicotravel)
+4. nature (natgeo, solar, beauty_edit_max, convergence, dudubarina, gopro, indotravellers.co, instagrambrasil, mexicotravel)
 5. sports (trey5, sacramentokings, redbull, realmadrid, philadelphiaeagles, patriots, okcthunder, nyknicks, nyrangers, futbolsport, garethbale11, manchesterunited, lakers, miamiheat, nba, nhl,  433 soccer-but-many-vids, jamesrodriguez10)
 6. fashion / style (worthwhilestyle, urbanoutfitters, trendiest, sweetyberryz, rainyseasonshop, nylonmag, burberry, GAP, amazing_pretty, bergdorfs, bonobos, chanelofficial, cintageshop, dress_varietyii, forever21, freedom_clothes, gradient, hm, ideal, louisvuitton, manrepeller, mercihouse, paniexx_shop)
 7. fitness (toppeopleworld, adidas, fitness_elites, nike)

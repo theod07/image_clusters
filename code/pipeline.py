@@ -1,6 +1,6 @@
 import download_imgs as dl
 # from download_imgs import has_src_url_file
-# from download_imgs import read_src_urls
+# from download_imgs import get_src_urls
 import database as db
 # from database import vec_to_str
 # from database import insert_prediction
@@ -21,14 +21,17 @@ if __name__ == '__main__':
     pg_cursor = pg_conn.cursor()
 
     username = raw_input('give me a username: ')
+    # year, oceana, paolatonight, patricknorton
 
     while dl.has_src_url_file(username):
-        src_urls = dl.read_src_urls(username)
+        shortcodes = dl.get_shortcodes(username)
+        src_urls = dl.get_src_urls(username)
 
-        for url in src_urls:
+
+        for (code,url) in zip(shortcodes, src_urls):
             dl.s3_save(username, url, bucket)
             pred = nn.predict(url)[0]
             pred_str = db.vec_to_str(pred)
-            db.insert_prediction(username, url, pred_str, pg_conn)
+            db.insert_prediction(username, code, url, pred_str, pg_conn)
 
     s3_conn.close()
