@@ -5,7 +5,7 @@ import download_imgs as dl
 import random
 import os
 from time import strftime
-# from vgg16_model import model as nn
+from vgg16_model import model as nn
 
 def rand_samp(items, k=100):
     if len(items) <= k:
@@ -19,6 +19,7 @@ def has_predictions_pkl(user):
         return True
     return False
 
+
 if __name__ == '__main__':
 
     users = ['year', 'oceana', 'paolatonight', 'patricknorton']
@@ -30,8 +31,8 @@ if __name__ == '__main__':
 
         for url in src_urls_samp:
             #simulate a prediction
-            pred = np.random.rand(1000)
-            # pred = nn.predict(url)[0]
+            # pred = np.random.rand(1000)
+            pred = nn.predict(url)[0]
             preds.append(pred)
 
         df = pd.DataFrame(zip(src_urls_samp, preds), columns=['src_url','prediction'])
