@@ -21,7 +21,8 @@ if __name__ == '__main__':
     pg_cursor = pg_conn.cursor()
 
     # username = raw_input('give me a username: ')
-    usernames = ['year', 'oceana', 'paolatonight', 'patricknorton']
+    # 'year'
+    usernames = ['oceana', 'paolatonight', 'patricknorton']
 
     for username in usernames:
         while dl.has_src_url_file(username):
