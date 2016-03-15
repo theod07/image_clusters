@@ -1,0 +1,8 @@
+getting gooduserlinks
+getting reactids
+Successfully found 648 reactids among 648 urls
+getting src_urls
+writing to file
+Directory already exists:  paniexx_shop
+20160312.17:23:1457832222  items written to  paniexx_shop_src_urls.txt
+attempted username:  paniexx_shop

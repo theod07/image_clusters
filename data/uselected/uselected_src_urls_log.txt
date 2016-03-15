@@ -1,0 +1,28 @@
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  uselected
+getting userlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/Zk-ao0EsA7/?taken-by=uselected
+No _ovg3g  https://www.instagram.com/p/Zk-ZnCEsA5/?taken-by=uselected
+No _ovg3g  https://www.instagram.com/p/Zi4E4mEsIA/?taken-by=uselected
+No _ovg3g  https://www.instagram.com/p/ZaN4DUEsEk/?taken-by=uselected
+No _ovg3g  https://www.instagram.com/p/ZaN29qksEj/?taken-by=uselected
+No _ovg3g  https://www.instagram.com/p/ZXYrG9ksAn/?taken-by=uselected
+No _ovg3g  https://www.instagram.com/p/ZXYqWYksAm/?taken-by=uselected
+No _ovg3g  https://www.instagram.com/p/ZWIUPHEsJJ/?taken-by=uselected
+No _ovg3g  https://www.instagram.com/p/ZWITMcksJI/?taken-by=uselected
+No _ovg3g  https://www.instagram.com/p/ZU8NgxksJw/?taken-by=uselected
+No _ovg3g  https://www.instagram.com/p/YtHjptksOe/?taken-by=uselected
+No _ovg3g  https://www.instagram.com/p/YtHii-ksOa/?taken-by=uselected
+No _ovg3g  https://www.instagram.com/p/YtHhGHksOZ/?taken-by=uselected
+No _ovg3g  https://www.instagram.com/p/Yo3_IVksN3/?taken-by=uselected
+No _ovg3g  https://www.instagram.com/p/YjyWcnksLn/?taken-by=uselected
+No _ovg3g  https://www.instagram.com/p/YjxXT7ksLD/?taken-by=uselected
+No _ovg3g  https://www.instagram.com/p/YhmxIpksLd/?taken-by=uselected
+No _ovg3g  https://www.instagram.com/p/YhXR1JksC7/?taken-by=uselected
+Successfully found 357 reactids among 375 urls
+getting src_urls
+writing to file
+Directory already exists:  uselected
+20160310.10:31:1457634717  items written to  uselected_src_urls.txt
+attempted username:  uselected

@@ -1,0 +1,72 @@
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  walaad
+getting userlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BCphLMXMLgi/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BCpejTDsLtM/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BCpecUhsLs_/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BCpeVPDsLs3/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BCpePDlsLsv/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BCpd-ETsLse/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BCkd2hrMLuH/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BCkdvGNMLt1/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BCkcU45sLrj/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BCNAitUsLsR/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BCM_aF5MLrL/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BCM29rPsLhv/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BCM22QosLho/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BCM2atnMLhP/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BCM2T3MsLhJ/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BCM2OfzsLhF/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BCM0YWisLvV/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BCHDQk7sLsX/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BCC146bMLoi/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBxBUS0MLn_/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBw-W7_sLhD/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBw-RCrsLgv/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBrDGdkMLhF/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBhee9dMLv7/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBheWAHsLvl/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBheK8PsLvU/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBhcgJOsLr4/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBhcNJ2MLrS/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBhcBwdMLq7/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBb7ieBMLrT/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBb7ao3sLrI/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBb7QfuMLq4/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBb7LlaMLqy/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBb7IIgsLqr/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBb7C7_sLqh/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBZTIecMLhY/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBUjsWCsLju/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBUjhtCMLjc/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBUjY3rMLjN/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBUjTvXsLjH/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBTaaI0sLj0/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBTVqCesLrP/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBTSx4esLmT/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBTSs1ysLmI/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBSC0ZYsLsO/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBO82FQsLgD/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBM4chYsLmV/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBMvTA5sLml/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBMuNdLMLkS/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBJ6EtLMLvC/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBDxFJRsLtP/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBDwUhWsLrw/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBCeu5LsLlv/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBCeqAcsLlm/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBCejVvMLli/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBAHv-7MLlB/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBAGAphsLiF/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BBAFnkysLhR/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BAwGBaSsLuc/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BAvxo_3sLlg/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BAvlE3qMLg8/?taken-by=walaad
+No _ovg3g  https://www.instagram.com/p/BAvafrHsLvD/?taken-by=walaad
+Successfully found 370 reactids among 432 urls
+getting src_urls
+writing to file
+Directory already exists:  walaad
+20160310.13:14:1457644497  items written to  walaad_src_urls.txt
+attempted username:  walaad

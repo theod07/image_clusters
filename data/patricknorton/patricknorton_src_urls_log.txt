@@ -1,0 +1,10 @@
+getting gooduserlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/3pIBqfrVFr/?taken-by=patricknorton
+No _ovg3g  https://www.instagram.com/p/xu1t43LVJu/?taken-by=patricknorton
+Successfully found 140 reactids among 142 urls
+getting src_urls
+writing to file
+Directory already exists:  patricknorton
+20160312.17:00:1457830832  items written to  patricknorton_src_urls.txt
+attempted username:  patricknorton

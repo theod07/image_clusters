@@ -1,0 +1,56 @@
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  sanasaeed2u
+getting userlinks
+getting reactids
+Successfully found 0 reactids among 0 urls
+getting src_urls
+writing to file
+Directory already exists:  sanasaeed2u
+20160312.09:17:1457803078  items written to  sanasaeed2u_src_urls.txt
+attempted username:  sanasaeed2u
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  sacramentokings
+getting userlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BCrLxmfyy9T/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BCowayZyy1N/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BCmEpN1yy_u/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BChWq4cyy08/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BChIJe4yyyu/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BCeU1Lgyy4y/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BCeSNWkSyz8/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BCZoFBNyy0G/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BCR-znaSy3k/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BCM0ST0yyyn/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BCMxzljyywH/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BCMqyrISy30/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BCMk495yywO/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BCJ_NXnSyxm/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BCG8blESyyB/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BB_8VM_yy0v/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BB8tnyWyy5v/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BB5rJu_Sy_f/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BB0c_dUyy9s/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BByXD6RSyzL/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BBx_fQzSy49/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BBv8HivSyyA/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BBoTUDZSy1o/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BBi4HWySy2m/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BBgG8h3Sy5u/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BBbEbkPSy15/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BBLtIZKyy-C/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BBJLDz0yy3F/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BBGjbgkyywU/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BA_RpLMyyyz/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BA6avY7Sy4A/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BAyZHzhyy7x/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BAsNBaZyywo/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BAoI9aeyy4U/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BAjAjBGSy4R/?taken-by=sacramentokings
+No _ovg3g  https://www.instagram.com/p/BAi2_UuSy7d/?taken-by=sacramentokings
+Successfully found 360 reactids among 396 urls
+getting src_urls
+writing to file
+Directory already exists:  sacramentokings
+20160312.09:36:1457804169  items written to  sacramentokings_src_urls.txt
+attempted username:  sacramentokings
