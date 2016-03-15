@@ -73,7 +73,7 @@ def predict(url):
         # plt.axis('off')
         # print 'successfully plotted'
         toc = time.clock()
-
+        
         print "url: {}".format(url)
         print "predict time: {}".format(toc-tic)
         for n, label in enumerate(top):
