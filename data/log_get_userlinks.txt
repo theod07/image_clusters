@@ -191,3 +191,17 @@ Succeed get src_urls for ladygaga
 Succeed get src_urls for newtgingrich
 Succeed get src_urls for katespadeny
 Succeed get src_urls for letthelordbewithyou
+Succeed get src_urls for nasagoddard
+Succeed get src_urls for justinbieber
+Succeed get src_urls for jlo
+Succeed get src_urls for karaswisher
+Succeed get src_urls for lucyhale
+Succeed get src_urls for justintimberlake
+Succeed get src_urls for luissuarez9
+Succeed get src_urls for manchesterunited
+Succeed get src_urls for nickiminaj
+Succeed get src_urls for keepsy
+Succeed get src_urls for jamesrodriguez10
+Succeed get src_urls for mistercap
+Succeed get src_urls for kyliejenner
+Succeed get src_urls for louisvuitton
