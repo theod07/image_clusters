@@ -4,24 +4,40 @@ on a g2.8xlarge ec2, vgg16 is taking about 4sec/photo on lasagne, which comes ou
 
 What I can do is pick a few users who are already thematic and find clusters for those photos.
 Here are some themes we may be able to use and the users who could belong to each:
-1. dogs
+1. dogs (igtoppicture, postagram)
 2. cats
-3. food ( foodzie, love_food, benandjerrys, dunkindonuts)
-4. nature (beauty_edit_max, convergence, dudubarina)
-5. sports (futbolsport, garethbale11, 433 soccer, but many vids)
-6. fashion / style (burberry, GAP, amazing_pretty, bergdorfs, bonobos, chanelofficial, cintageshop, dress_varietyii, forever21, freedom_clothes, gigihadid)
-7. fitness (adidas, fitness_elites)
-8. science / technology (nasagoddard, cultofmac, generalelectric)
+3. food (jamieoliver, foodzie, love_food, matthewjennings, benandjerrys, dunkindonuts)
+4. nature (solar, beauty_edit_max, convergence, dudubarina, gopro, indotravellers.co, instagrambrasil, mexicotravel)
+5. sports (trey5, sacramentokings, redbull, realmadrid, philadelphiaeagles, patriots, okcthunder, nyknicks, nyrangers, futbolsport, garethbale11, manchesterunited, lakers, miamiheat, nba, nhl,  433 soccer-but-many-vids, jamesrodriguez10)
+6. fashion / style (worthwhilestyle, urbanoutfitters, trendiest, sweetyberryz, rainyseasonshop, nylonmag, burberry, GAP, amazing_pretty, bergdorfs, bonobos, chanelofficial, cintageshop, dress_varietyii, forever21, freedom_clothes, gradient, hm, ideal, louisvuitton, manrepeller, mercihouse, paniexx_shop)
+7. fitness (toppeopleworld, adidas, fitness_elites, nike)
+8. science / technology (nasagoddard, cultofmac, generalelectric, nasa)
 9. babies / nature (alukoyanov)
 10. hairstyle (barbershopconnect)
-11. architecture (barcelonacitizen, beautifulworldgroup, darenta.ru)
-12. selfies (bellathorne, caiocastro, camerondallas, caradelevigne)
-13. shoes (bigfeetsneaks, adidasoriginals, converse)
-14. artistic (charlesdharapak, eyemediaa, fotogasm, giftbuddy)
-15. beer (dogfishbeer)
-16. makeup / accessories (fashion_creative_love, fashionbeautydisplay, fashionchurch)
+11. architecture / urban (nycmayorsoffice, nickbilton, barcelonacitizen, beautifulworldgroup, darenta.ru, hangarang, highlinenyc, keepsy)
+12. selfies (bellathorne, caiocastro, camerondallas, caradelevigne, jessicaalba, jlo, justinbieber)
+13. shoes (toms, sellkixcity, sellsneakershere, puma, nikefootball, bigfeetsneaks, adidasoriginals, converse, gucci, i_queens, kicks4sale)
+14. artistic (walaad, photogeekdom, photojojo, charlesdharapak, eyemediaa, fotogasm, giftbuddy, uselected,  harrystyles, instagram, instahaiku, livepainter, nationalpost, netofernandez7)
+15. drinks (starbucks, stumptowncoffee, dogfishbeer
+16. makeup / accessories (warbyparker, wakeupandmakeup, fashion_creative_love, fashionbeautydisplay, fashionchurch, glamherous, hudabeauty, katespadeny, makegirlz, nailsvideos, )
+17. cars (theultimateclub, girlscar, internetpoet, scobleizer, smsaruae)
+18. models (victoriassecret, shaym, gigihadid, instagramtop50, marinaruybarbosa, modelisy, negin_mirsalehi)
+19. motox, snowboarding (jeremymcgrath2, jimmiejohnson)
+20. surfing (julian_wilson)
+21. spiritual (nonghairstylist3245)
+22. animals (oceana, paolatonight)
+23. news (wired, reuters, npr, nbcnews, todayshow)
+24. celebrity (zooeydeschanel, vindiesel, vanessahudgens, tyrabanks, treysongz, tonyhawk, therock, theellenshow, taylorswift, shakira, shawnjohnson, selenagomez, ryanseacrest, robertdobbsarmy, kimkardashian, taylorswift, zooeydeschanel, ronaldinhooficial, )
+25. tattoos (skinart_mag, thekatvond)
+26. bands (theroxy, theshins, )
 
-
+food/nature/architecture twheat, ivmikspb, karaswisher, keysik, kokoulin, niksidorkin, phenom, repostapp, rrharisov.life,
+animals/style/architecture izdato_eng, marshanskiy, myhusbandtrue, patricknorton
+flowers/feminine (laurenconrad)
+cars/menstyle/selfies (letthelordbewithyou)
+nickster2k
+nickkristof
+year
 
 
 
