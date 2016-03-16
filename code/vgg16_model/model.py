@@ -34,9 +34,14 @@ np.random.seed(23)
 np.random.shuffle(image_urls)
 # image_urls = image_urls[:20]
 
-def prep_image(url):
-    ext = url.split('.')[-1]
-    im = plt.imread(io.BytesIO(urllib.urlopen(url).read()), ext)
+def prep_image(img_path, local_img=True):
+    ext = img_path.split('.')[-1]
+
+    if local_img:
+        im = plt.imread(img_path)
+    else:
+        im = plt.imread(io.BytesIO(urllib.urlopen(img_path).read()), ext)
+
     # Resize so smallest dim = 256, preserving aspect ratio
     h, w, _ = im.shape
     if h < w:
@@ -73,7 +78,7 @@ def predict(url):
         # plt.axis('off')
         # print 'successfully plotted'
         toc = time.clock()
-        
+
         print "url: {}".format(url)
         print "predict time: {}".format(toc-tic)
         for n, label in enumerate(top):
