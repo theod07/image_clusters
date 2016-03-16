@@ -8,3 +8,12 @@ Succeed get src_urls for hm
 Succeed get src_urls for gopro
 Succeed get src_urls for hudabeauty
 Succeed get src_urls for hangarang
+Succeed get src_urls for nba
+Succeed get src_urls for mercihouse
+Fail get src_urls for mbiaggi
+Fail get src_urls for mansour_mall
+Fail get src_urls for moriderisa
+Fail get src_urls for mfj57
+Succeed get src_urls for krisjenner
+Succeed get src_urls for karimbenzema
+Succeed get src_urls for kuntseva_a
