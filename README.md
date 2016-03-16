@@ -32,7 +32,16 @@ print 'mean delta (numpy): {}'.format(np.mean(deltas))
 # mean delta (numpy): 0.0182667424
 # not a drastic difference, but i'll go with the list implementation anyway.
 ```
+Francesco gave me the heads up to use these commands to pull my psql table into a pandas dataframe:
 
+```python
+import pandas.io.sql as pdsql
+import psycopg2 as pg2
+
+conn = pg2.connect(database='Fra', user='Fra')
+cur = conn.cursor()
+table_df = pdsql.read_sql("SELECT * FROM {};".format(tablename), conn)
+```
 
 <br>
 

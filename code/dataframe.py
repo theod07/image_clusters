@@ -19,6 +19,15 @@ def has_predictions_pkl(user):
         return True
     return False
 
+def load_pkl(user):
+    fname = '../pickles/{}/{}_predictions.pkl'.format(user, user)
+    df = cPickle.load(open(fname, 'rb'))
+    desired_cols = set(['username', 'shortcode', 'src_url', 'prediction'])
+    cur_cols = set(df.columns)
+    new_cols = desired_cols - cur_cols
+    while new_cols:
+        df['{}'.format(new_cols.pop())] = 'null'
+    return df
 
 if __name__ == '__main__':
 
