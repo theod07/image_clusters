@@ -22,7 +22,8 @@ def has_predictions_pkl(user):
 
 if __name__ == '__main__':
 
-    users = ['year', 'oceana', 'paolatonight', 'patricknorton']
+    # users = ['year', 'oceana', 'paolatonight', 'patricknorton']
+    users = ['jamieoliver', 'solar', 'trey5', 'worthwhilestyle', 'toppeopleworld', 'nycmayorsoffice', 'jessicaalba', 'toms', 'walaad', 'starbucks', 'warbyparker', 'theultimateclub', 'victoriassecret', 'jeremymcgrath2', 'julian_wilson', 'wired', 'taylorswift', 'skinart_mag', 'theroxy', 'twheat', 'laurenconrad', 'letthelordbewithyou', 'nickkristof']
 
     for user in users:
         src_urls = dl.get_src_urls(user)

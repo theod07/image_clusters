@@ -48,11 +48,10 @@ Here are some themes we may be able to use and the users who could belong to eac
 5. sports (trey5, sacramentokings, redbull, realmadrid, philadelphiaeagles, patriots, okcthunder, nyknicks, nyrangers, futbolsport, garethbale11, manchesterunited, lakers, miamiheat, nba, nhl,  433 soccer-but-many-vids, jamesrodriguez10)
 6. fashion / style (worthwhilestyle, urbanoutfitters, trendiest, sweetyberryz, rainyseasonshop, nylonmag, burberry, GAP, amazing_pretty, bergdorfs, bonobos, chanelofficial, cintageshop, dress_varietyii, forever21, freedom_clothes, gradient, hm, ideal, louisvuitton, manrepeller, mercihouse, paniexx_shop)
 7. fitness (toppeopleworld, adidas, fitness_elites, nike)
-8. science / technology (nasagoddard, cultofmac, generalelectric, nasa)
+8. science / technology (nasa, cultofmac, nasagoddard, generalelectric, )
 9. babies / nature (alukoyanov)
-10. hairstyle (barbershopconnect)
 11. architecture / urban (nycmayorsoffice, nickbilton, barcelonacitizen, beautifulworldgroup, darenta.ru, hangarang, highlinenyc, keepsy)
-12. selfies (bellathorne, caiocastro, camerondallas, caradelevigne, jessicaalba, jlo, justinbieber)
+12. selfies (jessicaalba, jlo, justinbieber, bellathorne, caiocastro, camerondallas, caradelevigne,)
 13. shoes (toms, sellkixcity, sellsneakershere, puma, nikefootball, bigfeetsneaks, adidasoriginals, converse, gucci, i_queens, kicks4sale)
 14. artistic (walaad, photogeekdom, photojojo, charlesdharapak, eyemediaa, fotogasm, giftbuddy, uselected,  harrystyles, instagram, instahaiku, livepainter, nationalpost, netofernandez7)
 15. drinks (starbucks, stumptowncoffee, dogfishbeer
@@ -64,17 +63,17 @@ Here are some themes we may be able to use and the users who could belong to eac
 21. spiritual (nonghairstylist3245)
 22. animals (oceana, paolatonight)
 23. news (wired, reuters, npr, nbcnews, todayshow)
-24. celebrity (zooeydeschanel, vindiesel, vanessahudgens, tyrabanks, treysongz, tonyhawk, therock, theellenshow, taylorswift, shakira, shawnjohnson, selenagomez, ryanseacrest, robertdobbsarmy, kimkardashian, ronaldinhooficial, )
+24. celebrity (taylorswift, zooeydeschanel, vindiesel, vanessahudgens, tyrabanks, treysongz, tonyhawk, therock, theellenshow, shakira, shawnjohnson, selenagomez, ryanseacrest, robertdobbsarmy, kimkardashian, ronaldinhooficial, )
 25. tattoos (skinart_mag, thekatvond)
 26. bands (theroxy, theshins, )
+10. hairstyle (barbershopconnect)
 
 food/nature/architecture twheat, ivmikspb, karaswisher, keysik, kokoulin, niksidorkin, phenom, repostapp, rrharisov.life,
-animals/style/architecture izdato_eng, marshanskiy, myhusbandtrue, patricknorton
+animals/style/architecture patricknorton, marshanskiy, myhusbandtrue,  izdato_eng,
 flowers/feminine (laurenconrad)
 cars/menstyle/selfies (letthelordbewithyou)
-nickster2k
-nickkristof
-year
+year, nickkristof, nickster2k
+
 
 
 Based on above categories, here are the users i'm going to start working on:
