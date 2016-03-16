@@ -1,0 +1,42 @@
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  zacefron
+getting userlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BB_Ezy1G87Q/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/BBg9NX4G86T/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/BAz5FpDm80N/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/BAyE9-9G81i/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/BAvab2bG84X/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/BAscdQlm8zB/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/9bbg_pG824/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/8PYkerm88F/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/8L0tudm8y0/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/66PaZhm815/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/6wYkMtm8xo/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/6rCS5xm85u/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/6c8KFtm8w3/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/5hlyXvG8xT/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/4AdghAm82L/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/37TSqTG80A/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/3uFUUlG82H/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/3SL1hCm8zm/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/23b0YsG83r/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/21LtXVG8-h/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/xLMN9kG82c/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/xAVP-XG88k/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/utBWr0m8-6/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/uGu7Q6m87b/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/tts32Ym83W/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/s-pjb0m88u/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/sgL56DG8yD/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/r7s_sRm85S/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/r5aKWfG81d/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/qssJt1m80u/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/oCg70uG803/?taken-by=zacefron
+No _ovg3g  https://www.instagram.com/p/h7fCtFm8-d/?taken-by=zacefron
+Successfully found 199 reactids among 231 urls
+getting src_urls
+writing to file
+Directory already exists:  zacefron
+20160310.10:11:1457633508  items written to  zacefron_src_urls.txt
+attempted username:  zacefron

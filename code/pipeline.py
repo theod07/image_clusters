@@ -1,12 +1,12 @@
 import download_imgs as dl
 # from download_imgs import has_src_url_file
-# from download_imgs import read_src_urls
+# from download_imgs import get_src_urls
 import database as db
 # from database import vec_to_str
 # from database import insert_prediction
 from vgg16_model import model as nn
 import psycopg2 as pg2
-
+import random
 
 
 
@@ -20,15 +20,22 @@ if __name__ == '__main__':
     pg_conn = pg2.connect(user='postgres', password='admin', dbname='image_clusters')
     pg_cursor = pg_conn.cursor()
 
-    username = raw_input('give me a username: ')
+    # username = raw_input('give me a username: ')
+    # 'year', 'oceana',
+    usernames = ['patricknorton', 'paolatonight']
 
-    while dl.has_src_url_file(username):
-        src_urls = dl.read_src_urls(username)
+    for username in usernames:
+        while dl.has_src_url_file(username):
+            shortcodes = dl.get_shortcodes(username)
+            src_urls = dl.get_src_urls(username)
+            # rand_ind = random.sample(range(len(shortcodes)), 300)
+            # shortcodes = shortcodes[rand_ind]
+            # src_urls = src_urls[rand_ind]
 
-        for url in src_urls:
-            dl.s3_save(username, url, bucket)
-            pred = nn.predict(url)[0]
-            pred_str = db.vec_to_str(pred)
-            db.insert_prediction(url, pred_str, pg_conn)
+            for (code,url) in zip(shortcodes, src_urls):
+                dl.s3_save(username, url, bucket)
+                pred = nn.predict(url)[0]
+                pred_str = db.vec_to_str(pred)
+                db.insert_prediction(username, code, url, pred_str, pg_conn)
 
     s3_conn.close()

@@ -1,5 +1,5 @@
 import psycopg2 as pg2
-import vgg16_model.model
+# import vgg16_model.model
 
 def vec_to_str(vec):
     '''
@@ -9,8 +9,8 @@ def vec_to_str(vec):
     output = "{" + ', '.join(strs) + "}"
     return output
 
-def insert_prediction(url, pred_str, connection):
-    query = '''INSERT INTO predictions (src_url, prediction) values ('{}', '{}' );'''.format(url, pred_str)
+def insert_prediction(username, shortcode, url, pred_str, connection):
+    query = '''INSERT INTO predictions (username, shortcode, src_url, prediction) values ('{}', '{}', '{}', '{}' );'''.format(username, shortcode, url, pred_str)
     # c.execute('''insert into test_table (src_url, prediction) values ('aa', {});'''.format(v1))
     c = connection.cursor()
     c.execute(query)

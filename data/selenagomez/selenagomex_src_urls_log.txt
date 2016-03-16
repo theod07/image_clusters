@@ -1,0 +1,124 @@
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  sellkixcity
+getting userlinks
+getting reactids
+Successfully found 24 reactids among 24 urls
+getting src_urls
+writing to file
+Directory already exists:  sellkixcity
+20160311.16:39:1457743180  items written to  sellkixcity_src_urls.txt
+attempted username:  sellkixcity
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  selenagomez
+getting userlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BBnXbEjOjN1/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/_lF_VbujFz/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/_b8oraujMX/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/-__99xujD2/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/-ubfH0OjMc/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/8oS2RtOjMc/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/8TlADtujCR/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/77V5vWOjGM/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/7wZHptOjPe/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/7uhxZ3OjMb/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/7inT2CujAT/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/7a5jKyOjIC/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/7X0cGEOjED/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/656Ko0OjPk/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/6oTSZAujHq/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/57km_OujAs/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/5aVkYXOjAJ/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/5GERXjujKo/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/48QswSujC5/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/4mCqTcujBW/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/4PfqlwOjPR/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/4IUMdMOjBU/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/4INpqKOjHO/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/4Ds6_0ujHK/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/36XE7VOjEk/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/3en1b-ujMs/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/3UztmpujAL/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/2fgwR_OjNi/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/2d7LvHOjFj/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/2McnrZujMD/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/2MWAS2OjNh/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/2BkG3_OjPc/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/1jjKvAujOw/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/1fBPsnOjPG/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/0_x2EiOjBi/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/0vJHI2ujLu/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/0b4zvtujFI/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/0E68n2OjJW/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/ysWBR-OjHK/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/ynTMpSOjK9/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/yg9QCgujMu/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/yVE0EdOjNs/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/xvoVPVOjNL/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/xkyGJ4OjIa/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/xkx4wXOjH3/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/xWw6KKOjB3/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/xUe0rsujGf/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/w2ftIvujPR/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/whsD1LOjLs/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/v7nBLeOjM6/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/vt4kimOjKD/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/vpT4kAOjIC/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/vhPKcZujO5/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/vdAFomOjEI/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/vNLZAqOjNH/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/vHRbh8OjI-/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/vEsSxBOjGI/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/vCd2pwujCu/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/uzGrjFujGy/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/uI2OzoujLD/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/tiKYUZujL1/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/tVY683ujG1/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/tT1Yi9OjJe/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/tTAMevOjLT/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/sXySuLujLk/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/sJTt_TOjOd/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/sA00COOjH7/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/rxxFUxujN4/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/rxw7bSOjNo/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/rgomcGOjNv/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/rTkuYaOjGz/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/rK22anujH3/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/rKfkoUOjPu/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/q-s3zvujLH/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/qp6T_wujAT/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/qpPvOgujBy/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/qo9PQ3OjNm/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/qmcaqQOjNo/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/qkqDDPujBR/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/qXF8iLujP3/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/qLW8COujOV/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/pzIq8BOjCn/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/pxFgB4OjIp/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/pZ0u_vOjDC/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/pSC4KZOjDt/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/onM8qeujFE/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/olQqLpOjKr/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/n2g714OjO8/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/nuZ3jrOjN9/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/ntGtprOjCc/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/npJnb4ujGj/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/npJAC9OjGN/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/nbQEgtOjMt/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/nbPqhrOjL5/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/nVx5K0OjP-/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/nTlVidOjCd/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/nTlD_2ujB9/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/nTkit2ujAY/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/nSOUrzujM_/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/nQ2QxuujC1/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/mDggrCOjLk/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/mDZK9PujAU/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/mBWTKRujAa/?taken-by=selenagomez
+No _ovg3g  https://www.instagram.com/p/mAoXxOOjJY/?taken-by=selenagomez
+Successfully found 652 reactids among 756 urls
+getting src_urls
+writing to file
+Directory already exists:  selenagomez
+20160311.17:07:1457744852  items written to  selenagomez_src_urls.txt
+attempted username:  selenagomez

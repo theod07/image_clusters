@@ -1,0 +1,44 @@
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  onedirection_1d_
+getting userlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BCtO_H9uoLd/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BBJSpqDuoON/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BBHLhnauoM5/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BBHLSmqOoMs/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BBHK-_buoML/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BBGbh7qOoEv/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BBF_rnOOoOc/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BBD_VrFuoKs/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BBD32DPOoPn/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BBD2c9WOoNQ/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BBD2ZApuoNE/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BBD2SSnuoM5/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BBD2Hp_OoMm/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BBD11NPOoMJ/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BBBK-QauoMM/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BBBKnh3OoLf/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BBAj2jAuoAK/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BBAjp57OoPv/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BBAjh_VuoPf/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BBAfV1mOoHy/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BA-jgUkOoAW/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BA-jcZSOoAP/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BA-jMrnOoPr/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BA7NnrFuoHE/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BA4MA_mOoEa/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BA4DcT1OoIB/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BA4DVVkuoH6/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BA0Q88AOoFj/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BAutZFXOoEt/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BAmvSKFuoM5/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BAmfrbauoLh/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BAmezahOoJz/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BAmd30IuoH9/?taken-by=onedirection_1d_
+No _ovg3g  https://www.instagram.com/p/BAmZqWAuoPS/?taken-by=onedirection_1d_
+Successfully found 110 reactids among 144 urls
+getting src_urls
+writing to file
+Directory already exists:  onedirection_1d_
+20160312.16:09:1457827759  items written to  onedirection_1d__src_urls.txt
+attempted username:  onedirection_1d_

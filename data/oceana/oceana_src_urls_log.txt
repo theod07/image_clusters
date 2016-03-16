@@ -1,0 +1,43 @@
+No _ovg3g  https://www.instagram.com/p/BCRSd5QuEJA/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/BCRIerUOEH9/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/BBnNLv1uEJT/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/BBlJZ45uENk/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/BBimMtbuEOd/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/BBiG9_ruEM4/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/BApHRcmuEMM/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/BAnN4CpOEJZ/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/-rgKFsOEOB/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/-mldEPOEA5/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/-cCOC4OEL2/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/-MQbhpuEBE/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/9d9AtNOEBc/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/9buXtYOEDf/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/9B0H57uECW/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/88uPWMuEId/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/8NqmDCuEH-/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/7-t_E6OEGs/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/78riijuEDD/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/7dpRT0OEOm/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/7a9NefuEJP/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/65VceTOEG1/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/6ncszAOEPe/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/6is9DWOEKw/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/57cS2xOEG3/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/5sL6nrOEPs/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/5PsfmJuELM/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/5Hzg9guEPk/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/4zIISDuEAN/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/4rcYoGuEAi/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/4mOwyjuEOK/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/4UPGXpuEAF/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/3zXFamOEKu/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/3eNvqJuEFj/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/oFUvMkOEEh/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/mz_tQSuEPY/?taken-by=oceana
+No _ovg3g  https://www.instagram.com/p/h_iu6LuECF/?taken-by=oceana
+Successfully found 839 reactids among 876 urls
+getting src_urls
+writing to file
+Directory already exists:  oceana
+20160312.23:16:1457853397  items written to  oceana_src_urls.txt
+attempted username:  oceana

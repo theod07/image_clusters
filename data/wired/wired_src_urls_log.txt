@@ -1,0 +1,34 @@
+No _ovg3g  https://www.instagram.com/p/Wux_imFWsU/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/WuuMN9FWmm/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/WuqmTOFWh-/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/WuSOQhFWnO/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/WspM-DFWur/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/WsWkfnFWlL/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/WsH-emFWsQ/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/WsDlbcFWkf/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/Wr2JbvlWvp/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/SJ4E4wFWl7/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/SHA0xBFWuo/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/SG9iy4lWr5/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/SGQ8vrlWnt/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/SEQ630lWgh/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/SBu6-2FWgI/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/SBDXzglWr7/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/R_TNbGFWtG/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/R-hBU6FWk7/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/R8pj5tFWhD/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/R4OAp7FWld/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/R1ex1qFWoA/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/R1d4tIlWnY/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/R1EawnlWgO/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/Ry3eLMlWn2/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/RyIjiOlWuQ/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/RgJ3pulWoQ/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/RgAq_DlWud/?taken-by=wired
+No _ovg3g  https://www.instagram.com/p/Rd-j1NlWpK/?taken-by=wired
+Successfully found 1986 reactids among 2112 urls
+getting src_urls
+writing to file
+Directory already exists:  wired
+20160310.10:43:1457635383  items written to  wired_src_urls.txt
+attempted username:  wired
