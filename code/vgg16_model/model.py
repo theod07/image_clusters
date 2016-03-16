@@ -1,4 +1,3 @@
-import numpy as np
 import lasagne
 from lasagne.layers import InputLayer
 from lasagne.layers import DenseLayer
@@ -8,6 +7,7 @@ from lasagne.layers import Pool2DLayer as PoolLayer
 from lasagne.layers.dnn import Conv2DDNNLayer as ConvLayer
 from lasagne.nonlinearities import softmax
 from lasagne.utils import floatX
+import numpy as np
 import pickle
 import vgg16
 import urllib
@@ -64,10 +64,10 @@ def prep_image(img_path, local_img=True):
     im = im - MEAN_IMAGE
     return rawim, floatX(im[np.newaxis])
 
-def predict(url, local_img=True):
+def predict(img_path, local_img=True):
     try:
         tic = time.clock()
-        rawim, im = prep_image(url, local_img)
+        rawim, im = prep_image(img_path, local_img)
         print 'calculating probs..'
         prob = np.array(lasagne.layers.get_output(nnet['prob'], im, deterministic=True).eval())
         print 'got probs..'
@@ -79,14 +79,14 @@ def predict(url, local_img=True):
         # print 'successfully plotted'
         toc = time.clock()
 
-        print "url: {}".format(url)
+        print "img_path: {}".format(img_path)
         print "predict time: {}".format(toc-tic)
         for n, label in enumerate(top):
             # plt.text(250, 70 + n * 20, '{}. {}'.format(n+1, CLASSES[label]), fontsize=14)
             print '{}.  Class: {}.'.format(n+1, CLASSES[label])
     # except IOError:
     except:
-        print('bad url: ' + url)
+        print('bad img_path: ' + img_path)
         return np.zeros(1000)
     return prob
 
