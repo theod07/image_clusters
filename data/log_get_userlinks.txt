@@ -1,0 +1,4 @@
+Succeed get src_urls for hm
+Succeed get src_urls for gopro
+Succeed get src_urls for hudabeauty
+Succeed get src_urls for hangarang
