@@ -203,7 +203,7 @@ if __name__ == '__main__':
  # 'harrystyles',
  # 'highlinenyc',
 
- 
+
     users = ['highonlifeco',
  'hlween.online',
  'hm',
@@ -508,7 +508,7 @@ if __name__ == '__main__':
                 f.write('{} dataframe saved to {}\n'.format(strftime('%Y%m%d.%H:%M:%s'), fname))
             print '{} dataframe saved to {}\n'.format(strftime('%Y%m%d.%H:%M:%s'), fname)
 
-            time.sleep(10 + 3*random.random())
+            time.sleep(20 + 3*random.random())
 
         except:
             with open('../logs/log_dataframe.txt', 'ab') as f:
