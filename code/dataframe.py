@@ -21,7 +21,7 @@ def has_predictions_pkl(user):
 
 def load_pkl(user):
     fname = '../pickles/{}_predictions.pkl'.format(user)
-    df = cPickle.load(open(fname, 'rb'))
+    df = pd.read_pickle(fname)
     print 'columns in df for {}: {}'.format(user, df.columns)
     # desired_cols = set(['username', 'shortcode', 'src_url', 'prediction'])
     # cur_cols = set(df.columns)
