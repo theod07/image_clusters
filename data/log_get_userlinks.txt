@@ -16,3 +16,5 @@ Succeed get src_urls for harajsa
 Succeed get src_urls for hoodnews
 Succeed get src_urls for gucci
 Succeed get src_urls for fcbarcelona
+Succeed get src_urls for generalelectric
+Succeed get src_urls for garethbale11
