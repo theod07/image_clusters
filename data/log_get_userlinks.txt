@@ -225,3 +225,6 @@ Fail get src_urls for iraqzz
 Fail get src_urls for foofighters
 Succeed get src_urls for highlinenyc
 Succeed get src_urls for harrystyles
+Succeed get src_urls for gymclassheroes
+Succeed get src_urls for floydmayweather
+Succeed get src_urls for foodzie
