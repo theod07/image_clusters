@@ -64,10 +64,10 @@ def prep_image(img_path, local_img=True):
     im = im - MEAN_IMAGE
     return rawim, floatX(im[np.newaxis])
 
-def predict(url):
+def predict(url, local_img=True):
     try:
         tic = time.clock()
-        rawim, im = prep_image(url)
+        rawim, im = prep_image(url, local_img)
         print 'calculating probs..'
         prob = np.array(lasagne.layers.get_output(nnet['prob'], im, deterministic=True).eval())
         print 'got probs..'
