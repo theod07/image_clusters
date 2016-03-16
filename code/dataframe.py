@@ -504,6 +504,8 @@ if __name__ == '__main__':
             with open('../logs/log_dataframe.txt', 'ab') as f:
                 f.write('{} dataframe saved to {}\n'.format(strftime('%Y%m%d.%H:%M:%s'), fname))
             print '{} dataframe saved to {}\n'.format(strftime('%Y%m%d.%H:%M:%s'), fname)
+
         except:
             with open('../logs/log_dataframe.txt', 'ab') as f:
-                f.write('Failed for user {}'.format(user))
+                f.write('{} {} Failed'.format(strftime('%Y%m%d.%H:%M:%s'),user))
+            print '{} {} Failed'.format(strftime('%Y%m%d.%H:%M:%s'), user)
