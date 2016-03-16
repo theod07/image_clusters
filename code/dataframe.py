@@ -500,6 +500,7 @@ if __name__ == '__main__':
                 # pred = np.random.rand(1000)
                 pred = nn.predict(url)[0]
                 preds.append(pred)
+                time.sleep(20 + 3*random.random())
 
             df = pd.DataFrame(zip(src_urls_samp, preds), columns=['src_url','prediction'])
             fname = '../pickles/{}_predictions.pkl'.format(user)
@@ -508,7 +509,6 @@ if __name__ == '__main__':
                 f.write('{} dataframe saved to {}\n'.format(strftime('%Y%m%d.%H:%M:%s'), fname))
             print '{} dataframe saved to {}\n'.format(strftime('%Y%m%d.%H:%M:%s'), fname)
 
-            time.sleep(20 + 3*random.random())
 
         except:
             with open('../logs/log_dataframe.txt', 'ab') as f:
