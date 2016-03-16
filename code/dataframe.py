@@ -5,7 +5,7 @@ import download_imgs as dl
 import random
 import os
 from time import strftime
-from vgg16_model import model as nn
+# from vgg16_model import model as nn
 import time
 
 def rand_samp(items, k=100):
