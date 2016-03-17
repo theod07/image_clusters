@@ -1,5 +1,4 @@
-# pickled models #
-##################
+*.jpg
 *.pkl
 *.pyc
 
