@@ -225,3 +225,9 @@ Fail get src_urls for iraqzz
 Fail get src_urls for foofighters
 Succeed get src_urls for highlinenyc
 Succeed get src_urls for harrystyles
+Succeed get src_urls for badgalriri
+Succeed get src_urls for boniver
+Succeed get src_urls for aliciakeys
+Succeed get src_urls for bowerswilkins
+Succeed get src_urls for bmdc27
+Succeed get src_urls for ASOS
