@@ -1,0 +1,37 @@
+No _ovg3g  https://www.instagram.com/p/BAyJnY0rpw9/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/BAZuF3pLp82/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/_9miCTrpxb/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/_5VzhErpx0/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/_1bdbsLp0D/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/_rdgOErp6q/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/_Ezr_JLp31/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/-ZBSDdrp99/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/8lFsHLLpyI/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/8emSUgLp8J/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/8dMoJ7Lp7Y/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/8LKqzZrpzn/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/7l-lQoLp5G/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/7kll-pLp6_/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/6lmhZxLp2x/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/6gc0QrrpzX/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/58aVjsLp_w/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/54VdP1Lpxg/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/5vlmYOLp8o/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/5ZQdqNLp3A/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/5TAZjrLp8X/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/5O76avLp4t/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/5Nhc_ELpzQ/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/5MTEhorp6f/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/5GasyBrp8j/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/5E_7N8rp6k/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/5CEd4hrpy4/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/4_udWaLp3Y/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/4vVh8-rp38/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/4eLoHmrp_K/?taken-by=repostapp
+No _ovg3g  https://www.instagram.com/p/4bwxbhLp2D/?taken-by=repostapp
+Successfully found 264 reactids among 300 urls
+getting src_urls
+writing to file
+Directory already exists:  repostapp
+20160310.17:55:1457661307  items written to  repostapp_src_urls.txt
+attempted username:  repostapp

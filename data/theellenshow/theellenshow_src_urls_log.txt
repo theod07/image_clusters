@@ -1,0 +1,40 @@
+No _ovg3g  https://www.instagram.com/p/yNsyzNtjHK/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/yKkZS4NjHw/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/yGK2xfNjCd/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/yFxTx9NjKP/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/xfOX4TNjIi/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/whWOt2NjAB/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/wclfxwNjOY/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/wRqXS1NjIh/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/wPiRzHtjET/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/wIBfyptjEf/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/vrBorqtjGx/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/vjnod2tjCL/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/vUJq3rtjKY/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/vRhUeWNjC6/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/vO8zXVtjNW/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/u_wLKdNjPc/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/u9VgNwNjA3/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/u1XjVhtjC2/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/uyXGE8tjBW/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/ut_ERTNjLq/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/ubbehRNjNk/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/uY7HIXtjNx/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/uO3e8EtjAo/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/uHAux5NjFH/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/t_Jw4rNjPk/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/t50KJbNjCs/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/t1QgKStjFY/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/t048seNjPz/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/tn2Jm-NjGE/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/ti_qh-tjKl/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/tbSnDHtjDb/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/tVotB3tjHL/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/tTWhD-NjNf/?taken-by=theellenshow
+No _ovg3g  https://www.instagram.com/p/tDyvrLtjIx/?taken-by=theellenshow
+Successfully found 1288 reactids among 1464 urls
+getting src_urls
+writing to file
+Directory already exists:  theellenshow
+20160311.18:15:1457748904  items written to  theellenshow_src_urls.txt
+attempted username:  theellenshow

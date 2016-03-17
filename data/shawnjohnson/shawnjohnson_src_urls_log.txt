@@ -1,0 +1,32 @@
+➜  code git:(master) ✗ `
+bquote>
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  shawnjohnson
+getting userlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BCbfEYeg3sK/?taken-by=shawnjohnson
+No _ovg3g  https://www.instagram.com/p/BCOQXkLg3oj/?taken-by=shawnjohnson
+No _ovg3g  https://www.instagram.com/p/BBoN5IKg3mj/?taken-by=shawnjohnson
+No _ovg3g  https://www.instagram.com/p/BBlZ7W1g3lC/?taken-by=shawnjohnson
+No _ovg3g  https://www.instagram.com/p/BBdPKCig3vg/?taken-by=shawnjohnson
+No _ovg3g  https://www.instagram.com/p/BBJcQqlA3mb/?taken-by=shawnjohnson
+No _ovg3g  https://www.instagram.com/p/BAun7FFA3pC/?taken-by=shawnjohnson
+No _ovg3g  https://www.instagram.com/p/BAunVGPA3n2/?taken-by=shawnjohnson
+No _ovg3g  https://www.instagram.com/p/BAsGH8Kg3gC/?taken-by=shawnjohnson
+No _ovg3g  https://www.instagram.com/p/_r8GCfA3hz/?taken-by=shawnjohnson
+No _ovg3g  https://www.instagram.com/p/_ZhPbdg3tI/?taken-by=shawnjohnson
+No _ovg3g  https://www.instagram.com/p/_ZYBrPA3rt/?taken-by=shawnjohnson
+No _ovg3g  https://www.instagram.com/p/_YYXfhA3pE/?taken-by=shawnjohnson
+No _ovg3g  https://www.instagram.com/p/_HjHAOg3o6/?taken-by=shawnjohnson
+No _ovg3g  https://www.instagram.com/p/_HiSGmg3nT/?taken-by=shawnjohnson
+No _ovg3g  https://www.instagram.com/p/-5BCj5A3o1/?taken-by=shawnjohnson
+No _ovg3g  https://www.instagram.com/p/-xLRoJA3oq/?taken-by=shawnjohnson
+No _ovg3g  https://www.instagram.com/p/-mCXd5A3vR/?taken-by=shawnjohnson
+No _ovg3g  https://www.instagram.com/p/-mB6P7g3uK/?taken-by=shawnjohnson
+No _ovg3g  https://www.instagram.com/p/-kCG-lA3r5/?taken-by=shawnjohnson
+Successfully found 136 reactids among 156 urls
+getting src_urls
+writing to file
+Directory already exists:  shawnjohnson
+20160311.13:58:1457733516  items written to  shawnjohnson_src_urls.txt
+attempted username:  shawnjohnson

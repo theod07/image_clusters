@@ -1,0 +1,43 @@
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  realmadrid
+getting userlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BCm0yxlsoIS/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/BCNK7_fMoJ7/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/BByA_6HMoKR/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/BBsOT7ssoJP/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/BBrqlzBsoH2/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/BBndWWTsoMx/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/BBkjobbsoGl/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/BBaO5b3MoMt/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/BBIjoL2MoC3/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/BA-EFO2MoH5/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/BA2lAshMoLE/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/BAsGf_wMoGS/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/-jnHt9soLg/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/-Ud3u6MoCx/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/-Rq0UgMoD9/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/9YYyGvMoHJ/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/7-M377soDd/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/7ktZ92MoN8/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/7ir_eMsoKl/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/7WNrwSMoAt/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/7VQxN_soGt/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/5uAxHBMoBN/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/5rrpLrsoH4/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/5Ybsm-soAf/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/5Wwhe0MoKS/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/5V8QMnsoPI/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/36l-seMoEt/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/1IQVQLsoHu/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/1G5MaasoIO/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/0fxDWIMoG2/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/yiG5NfsoL5/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/obGZdcMoO1/?taken-by=realmadrid
+No _ovg3g  https://www.instagram.com/p/oVnA9eMoKW/?taken-by=realmadrid
+Successfully found 647 reactids among 680 urls
+getting src_urls
+writing to file
+Directory already exists:  realmadrid
+20160311.10:13:1457720039  items written to  realmadrid_src_urls.txt
+attempted username:  realmadrid

@@ -1,0 +1,10 @@
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  zalezakaofficial
+getting userlinks
+getting reactids
+Successfully found 378 reactids among 378 urls
+getting src_urls
+writing to file
+Directory already exists:  zalezakaofficial
+20160310.09:48:1457632120  items written to  zalezakaofficial_src_urls.txt
+attempted username:  zalezakaofficial

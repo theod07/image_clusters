@@ -1,0 +1,10 @@
+getting gooduserlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/s9TZ2CpUbw/?taken-by=paolatonight
+No _ovg3g  https://www.instagram.com/p/sXT2_2JUZT/?taken-by=paolatonight
+Successfully found 55 reactids among 57 urls
+getting src_urls
+writing to file
+Directory already exists:  paolatonight
+20160312.16:55:1457830515  items written to  paolatonight_src_urls.txt
+attempted username:  paolatonight

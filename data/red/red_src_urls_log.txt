@@ -1,0 +1,80 @@
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  red
+getting userlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BCYP8LftIeK/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/BBsvyMPtIVv/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/BBqKX4ItIXQ/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/BAz00AlNIbf/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/BAu-p8WtIVn/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/BAumQcptIaB/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/BAnqziINIXA/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/BAkrUekNIbx/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/BAhyy7MtIUM/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/_9PX5bNIY5/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/_zwvqrtIUt/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/_etowjNIfC/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/_c5yLotITP/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/_ais_KtIfj/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/_XlBjntIQV/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/_W9cdUtIVr/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/_P73qBNIaK/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/_DB9KPNIdk/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/-4LFvntIeC/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/-wy460NISV/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/-wfSdpNIbW/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/-uGlCqtIYC/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/9eE3U5tIe9/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/9bXyU-tIXB/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/8gJs_-NIVh/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/8REd46tIS9/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/8BqrmtNITR/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/570rg_NIS_/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/4-Ld_etIWW/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/4ZdwQ0NIUA/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/39m9H5tISe/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/3v9HVONIWl/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/3jmwgltIf0/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/3XYRZ5NIYH/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/24IIeDtIQX/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/2biKc7NIdo/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/2KNpe6tIUE/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/1x0u4LNIe1/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/1vH8y0tIbp/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/1gYgBKtIf_/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/1eVF7YtIa5/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/0-tqPutISE/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/08I_LINIRY/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/0DvGNetIf-/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/yXrbaaNIRa/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/wxLWJ9NITc/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/wUHYLsNIaX/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/wErG2etIYG/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/vTtiJcNIef/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/uD_Z4gtIcn/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/sKj3hTtIX3/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/rufdTntIeE/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/rkZS2VtIRA/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/pE0O7XtIWD/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/pCVFDeNIav/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/o6MpS5NIS-/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/o4CwlStIdF/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/oB1qpvtIXK/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/j4-auYNIWS/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/haC55EtITY/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/hZbn2VNIWg/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/hWVNzKtIWk/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/g3uFTitIQk/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/gLtNfLNIb4/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/gJel0hNIR2/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/WxiMJ/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/WxQs2/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/Ww1T2/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/Wpxm6/?taken-by=red
+No _ovg3g  https://www.instagram.com/p/Wn5Lc/?taken-by=red
+Successfully found 1411 reactids among 1481 urls
+getting src_urls
+writing to file
+Directory already exists:  red
+20160310.23:40:1457682000  items written to  red_src_urls.txt
+attempted username:  red

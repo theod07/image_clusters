@@ -1,0 +1,17 @@
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  tags.funny
+getting userlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BCSiW6Atrr6/?taken-by=tags.funny
+No _ovg3g  https://www.instagram.com/p/u_bznwtrit/?taken-by=tags.funny
+No _ovg3g  https://www.instagram.com/p/u-qg8ONrhv/?taken-by=tags.funny
+No _ovg3g  https://www.instagram.com/p/uq0webtrmv/?taken-by=tags.funny
+No _ovg3g  https://www.instagram.com/p/ujc6CBNrop/?taken-by=tags.funny
+No _ovg3g  https://www.instagram.com/p/ueRMEwtrnc/?taken-by=tags.funny
+No _ovg3g  https://www.instagram.com/p/lE7x5Xtrn8/?taken-by=tags.funny
+Successfully found 221 reactids among 228 urls
+getting src_urls
+writing to file
+Directory already exists:  tags.funny
+20160312.16:11:1457827875  items written to  tags.funny_src_urls.txt
+attempted username:  tags.funny

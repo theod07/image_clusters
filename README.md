@@ -1,30 +1,92 @@
 # image_clusters
-## Narrowing down the stethoscope
+## Damnit postgres..
+Postgres may be too slow to access, so I'm switching gears to storing predictions in a dataframe.
+Now, how to figure out the right algorithm to save predictions?
+```python
+deltas = []
+for i in xrange(5000):
+    tic = time.clock()
+    preds = []
+    for i in xrange(1000):
+        #simulate a prediction
+        prediction = np.random.rand(1000)
+        preds.append(prediction)
+    toc = time.clock()
+    # print 'delta: {}'.format(toc-tic)
+    deltas.append(toc-tic)
+print 'mean delta (list): {}'.format(np.mean(deltas))
+
+deltas = []
+for i in xrange(5000):
+    tic = time.clock()
+    preds = np.zeros([1000,1000])
+    for i in xrange(1000):
+        #simulate a prediction
+        prediction = np.random.rand(1000)
+        preds[i,:] = prediction
+    toc = time.clock()
+    deltas.append(toc-tic)
+print 'mean delta (numpy): {}'.format(np.mean(deltas))
+
+# mean delta (list): 0.01443885
+# mean delta (numpy): 0.0182667424
+# not a drastic difference, but i'll go with the list implementation anyway.
+```
+Francesco gave me the heads up to use these commands to pull my psql table into a pandas dataframe:
+
+```python
+import pandas.io.sql as pdsql
+import psycopg2 as pg2
+
+conn = pg2.connect(database='Fra', user='Fra')
+cur = conn.cursor()
+table_df = pdsql.read_sql("SELECT * FROM {};".format(tablename), conn)
+```
+
+<br>
+
+## Narrowing down the scope
 on a g2.8xlarge ec2, vgg16 is taking about 4sec/photo on lasagne, which comes out to about 21,000 photos in a day. that's far too slow, especially considering our code gets frozen in 7 days. keep in mind that i haven't even gotten to the clustering step of this project. so to be able to get some preliminary results, we'll have to strategize which users to analyze. the celebrity profiles so far are just noise -- tswizzle and miss zooeyd.
 
 What I can do is pick a few users who are already thematic and find clusters for those photos.
 Here are some themes we may be able to use and the users who could belong to each:
-1. dogs
+1. dogs (igtoppicture, postagram)
 2. cats
-3. food ( foodzie, love_food, benandjerrys, dunkindonuts)
-4. nature (beauty_edit_max, convergence, dudubarina)
-5. sports (futbolsport, garethbale11, 433 soccer, but many vids)
-6. fashion / style (burberry, GAP, amazing_pretty, bergdorfs, bonobos, chanelofficial, cintageshop, dress_varietyii, forever21, freedom_clothes, gigihadid)
-7. fitness (adidas, fitness_elites)
-8. science / technology (nasagoddard, cultofmac, generalelectric)
+3. food (jamieoliver, foodzie, love_food, matthewjennings, benandjerrys, dunkindonuts)
+4. nature (natgeo, solar, beauty_edit_max, convergence, dudubarina, gopro, indotravellers.co, instagrambrasil, mexicotravel)
+5. sports (trey5, sacramentokings, redbull, realmadrid, philadelphiaeagles, patriots, okcthunder, nyknicks, nyrangers, futbolsport, garethbale11, manchesterunited, lakers, miamiheat, nba, nhl,  433 soccer-but-many-vids, jamesrodriguez10)
+6. fashion / style (worthwhilestyle, urbanoutfitters, trendiest, sweetyberryz, rainyseasonshop, nylonmag, burberry, GAP, amazing_pretty, bergdorfs, bonobos, chanelofficial, cintageshop, dress_varietyii, forever21, freedom_clothes, gradient, hm, ideal, louisvuitton, manrepeller, mercihouse, paniexx_shop)
+7. fitness (toppeopleworld, adidas, fitness_elites, nike)
+8. science / technology (nasa, cultofmac, nasagoddard, generalelectric, )
 9. babies / nature (alukoyanov)
+11. architecture / urban (nycmayorsoffice, nickbilton, barcelonacitizen, beautifulworldgroup, darenta.ru, hangarang, highlinenyc, keepsy)
+12. selfies (jessicaalba, jlo, justinbieber, bellathorne, caiocastro, camerondallas, caradelevigne,)
+13. shoes (toms, sellkixcity, sellsneakershere, puma, nikefootball, bigfeetsneaks, adidasoriginals, converse, gucci, i_queens, kicks4sale)
+14. artistic (walaad, photogeekdom, photojojo, charlesdharapak, eyemediaa, fotogasm, giftbuddy, uselected,  harrystyles, instagram, instahaiku, livepainter, nationalpost, netofernandez7)
+15. drinks (starbucks, stumptowncoffee, dogfishbeer
+16. makeup / accessories (warbyparker, wakeupandmakeup, fashion_creative_love, fashionbeautydisplay, fashionchurch, glamherous, hudabeauty, katespadeny, makegirlz, nailsvideos, )
+17. cars (theultimateclub, girlscar, internetpoet, scobleizer, smsaruae)
+18. models (victoriassecret, shaym, gigihadid, instagramtop50, marinaruybarbosa, modelisy, negin_mirsalehi)
+19. motox, snowboarding (jeremymcgrath2, jimmiejohnson)
+20. surfing (julian_wilson)
+21. spiritual (nonghairstylist3245)
+22. animals (oceana, paolatonight)
+23. news (wired, reuters, npr, nbcnews, todayshow)
+24. celebrity (taylorswift, zooeydeschanel, vindiesel, vanessahudgens, tyrabanks, treysongz, tonyhawk, therock, theellenshow, shakira, shawnjohnson, selenagomez, ryanseacrest, robertdobbsarmy, kimkardashian, ronaldinhooficial, )
+25. tattoos (skinart_mag, thekatvond)
+26. bands (theroxy, theshins, )
 10. hairstyle (barbershopconnect)
-11. architecture (barcelonacitizen, beautifulworldgroup, darenta.ru)
-12. selfies (bellathorne, caiocastro, camerondallas, caradelevigne)
-13. shoes (bigfeetsneaks, adidasoriginals, converse)
-14. artistic (charlesdharapak, eyemediaa, fotogasm, giftbuddy)
-15. beer (dogfishbeer)
-16. makeup / accessories (fashion_creative_love, fashionbeautydisplay, fashionchurch)
+
+food/nature/architecture twheat, ivmikspb, karaswisher, keysik, kokoulin, niksidorkin, phenom, repostapp, rrharisov.life,
+animals/style/architecture patricknorton, marshanskiy, myhusbandtrue,  izdato_eng,
+flowers/feminine (laurenconrad)
+cars/menstyle/selfies (letthelordbewithyou)
+year, nickkristof, nickster2k
 
 
 
-
-
+Based on above categories, here are the users i'm going to start working on:
+year, oceana, paolatonight, patrickhorton
 
 any other suggestions?
 

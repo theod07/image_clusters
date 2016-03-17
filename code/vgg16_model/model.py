@@ -1,4 +1,3 @@
-import numpy as np
 import lasagne
 from lasagne.layers import InputLayer
 from lasagne.layers import DenseLayer
@@ -8,12 +7,14 @@ from lasagne.layers import Pool2DLayer as PoolLayer
 from lasagne.layers.dnn import Conv2DDNNLayer as ConvLayer
 from lasagne.nonlinearities import softmax
 from lasagne.utils import floatX
+import numpy as np
 import pickle
 import vgg16
 import urllib
 import io
 import skimage.transform
 import matplotlib.pyplot as plt
+import time
 # import matplotlib
 # matplotlib.use('agg')
 
@@ -33,9 +34,14 @@ np.random.seed(23)
 np.random.shuffle(image_urls)
 # image_urls = image_urls[:20]
 
-def prep_image(url):
-    ext = url.split('.')[-1]
-    im = plt.imread(io.BytesIO(urllib.urlopen(url).read()), ext)
+def prep_image(img_path, local_img=True):
+    ext = img_path.split('.')[-1]
+
+    if local_img:
+        im = plt.imread(img_path)
+    else:
+        im = plt.imread(io.BytesIO(urllib.urlopen(img_path).read()), ext)
+
     # Resize so smallest dim = 256, preserving aspect ratio
     h, w, _ = im.shape
     if h < w:
@@ -58,26 +64,29 @@ def prep_image(url):
     im = im - MEAN_IMAGE
     return rawim, floatX(im[np.newaxis])
 
-def predict(url):
+def predict(img_path, local_img=True):
     try:
-        rawim, im = prep_image(url)
+        tic = time.clock()
+        rawim, im = prep_image(img_path, local_img)
         print 'calculating probs..'
         prob = np.array(lasagne.layers.get_output(nnet['prob'], im, deterministic=True).eval())
         print 'got probs..'
-        top20 = np.argsort(prob[0])[-1:-21:-1]
+        top = np.argsort(prob[0])[-1:-4:-1]
         # print 'preparing to plot'
         # plt.figure()
         # plt.imshow(rawim.astype('uint8'))
         # plt.axis('off')
         # print 'successfully plotted'
+        toc = time.clock()
 
-        print "url: {}".format(url)
-        for n, label in enumerate(top20):
+        print "img_path: {}".format(img_path)
+        print "predict time: {}".format(toc-tic)
+        for n, label in enumerate(top):
             # plt.text(250, 70 + n * 20, '{}. {}'.format(n+1, CLASSES[label]), fontsize=14)
             print '{}.  Class: {}.'.format(n+1, CLASSES[label])
     # except IOError:
     except:
-        print('bad url: ' + url)
+        print('bad img_path: ' + img_path)
         return np.zeros(1000)
     return prob
 

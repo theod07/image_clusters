@@ -1,0 +1,96 @@
+➜  code git:(master) ✗ python one_user_userlinks_to_src_urls.py
+Give me a username to go through:  washingtonpost
+getting userlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BCs-he5yA70/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/BCstMJNyA4G/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/BCdG_VCyA5Y/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/BBsOjIfyA-g/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/BBdkRHSyA3o/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/BAcsTBMyA6H/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/BAaO0pOSA-M/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/BAHtnV6yA-m/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/_21ZR8yA9l/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/_ZHw7ZSAxz/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/_CsHQHyA2z/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/98k19ASAy_/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/96mXq5yA7Y/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/9V8_lvyA-w/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/8WGKt-SAxx/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/8OhBr6SAx0/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/776_JnSAy7/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/7aa2C0SAzN/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/7YaVl_SA70/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/60jrknyAzE/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/6p4srTSA9a/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/6psiN7yA_U/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/6pgieKyA3J/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/6iCmccyA-f/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/6IHLjNSAwz/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/6Fukt6SAwD/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/6A9iPcyA3_/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/57FG0YSA41/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/5PkI4TSA03/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/46w_YcSA9P/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/4t7WN5yA5Y/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/4Hvqv1yA1y/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/24Cnu5SA98/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/1Low2ESAya/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/zN2UvgyAzN/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/wmSjssSA9T/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/utNd0aSA4t/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/uieIqLyA5C/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/ubQpy_yA5R/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/tnRQ55SA6Y/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/syZ5m9SA8q/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/sSxKlIyA3n/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/sDH0-eyAyf/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/sAk85ISA_k/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/rIUR9ZyAwj/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/qkV1UcyA7r/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/qPVtKjSA2v/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/qKhDgMyA6J/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/p9IsVvSA_K/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/o1VAycyAwe/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/oqluewSA2k/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/ooJjrdSA-1/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/oY0xc8yA2j/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/oRUkAayA1u/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/ntJ-J3SA2b/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/noIG5-SA7f/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/navQJMSA9b/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/nV_o2LSA-C/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/nA2jAASAxV/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/m5NpicSA4B/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/m3WaK-SA81/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/lU7ZFvyA6K/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/lIoVwYSA1N/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/kAhk0cyA0u/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/jkHvx1yA8y/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/jJ81AiyA7L/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/i2arL0yA_Q/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/imjrjISA47/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/ijorBZyA50/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/hrLf4CSAzw/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/hD8PtWSA-H/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/hBxBeySA-J/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/gx-zgRSA-o/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/gVn87RSA1p/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/gGyEs7SA8X/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/f_A9DsyAzH/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/f-_9OTyAws/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/fvXexISA6z/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/dpB4KKSA5F/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/dF5YNyyA3l/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/c98mfJyAw-/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/bBzfptyA3x/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/a6nSKYyA02/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/a6lgo8SAxr/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/a586rfSA06/?taken-by=washingtonpost
+No _ovg3g  https://www.instagram.com/p/a57xfySAyo/?taken-by=washingtonpost
+Successfully found 511 reactids among 597 urls
+getting src_urls
+writing to file
+Directory already exists:  washingtonpost
+20160310.11:41:1457638900  items written to  washingtonpost_src_urls.txt
+attempted username:  washingtonpost
