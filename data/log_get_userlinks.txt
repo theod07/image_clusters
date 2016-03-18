@@ -258,6 +258,14 @@ Succeed get src_urls for harajsa
 Succeed get src_urls for hoodnews
 Succeed get src_urls for gucci
 Succeed get src_urls for fcbarcelona
+Succeed get src_urls for generalelectric
+Succeed get src_urls for garethbale11
+Succeed get src_urls for futbolsport
+Succeed get src_urls for gigihadid
+Succeed get src_urls for girlscar
+Succeed get src_urls for forever21
+Succeed get src_urls for favoritmusic
+Succeed get src_urls for gradient
 Succeed get src_urls for keysik
 Succeed get src_urls for kazabby
 Succeed get src_urls for k_chugunkin
