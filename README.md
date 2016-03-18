@@ -1,5 +1,15 @@
 # image_clusters
+## Some progress !!
+singular value decomposition on a test batch of users.
+initial results show that 300 'latent topics' provide 90% of the 'energy'. it's still not so clear to me what that means, but i'll think about it analogously to variance for now. in any case, here's a plot for those users:
+
+
+
+
+<br>
+
 ## Damnit postgres..
+
 Postgres may be too slow to access, so I'm switching gears to storing predictions in a dataframe.
 Now, how to figure out the right algorithm to save predictions?
 ```python
