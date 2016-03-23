@@ -1,7 +1,7 @@
 import os
 from vgg16_model import vgg16
 from vgg16_model import vgg16_cpu
-from vgg16_model import model
+from vgg16_model.model import prep_image, predict
 import cPickle as pickle
 import numpy as np
 import lasagne
@@ -25,5 +25,5 @@ imgs = ['natgeo_10009268_740227179454995_1126758630_n.jpg',
 		'natgeo_10175373_1701735806739918_820309524_n.jpg']
 
 for img in imgs:
-	model.predict(img, local_img=True)
+	predict(img, local_img=True)
 
