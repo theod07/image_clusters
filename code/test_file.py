@@ -10,8 +10,8 @@ model = pickle.load(open('./vgg16_model/vgg16.pkl'))
 CLASSES = model['synset words']
 MEAN_IMAGE = model['mean value'][:, np.newaxis, np.newaxis] # necessary to match dimensions of incoming images
 
-nnet = vgg16.build_model()
-# nnet = vgg16_cpu.build_model()
+# nnet = vgg16.build_model()
+nnet = vgg16_cpu.build_model()
 
 lasagne.layers.set_all_param_values(nnet['prob'], model['param values'])
 
