@@ -34,7 +34,7 @@ np.random.seed(23)
 np.random.shuffle(image_urls)
 # image_urls = image_urls[:20]
 
-def prep_image(img_path, local_img=True):
+def prep_image(img_path, nnet=nnet, local_img=True):
     ext = img_path.split('.')[-1]
 
     if local_img:
@@ -67,7 +67,9 @@ def prep_image(img_path, local_img=True):
 def predict(img_path, local_img=True):
     try:
         tic = time.clock()
+        print 'tic'
         rawim, im = prep_image(img_path, local_img)
+        print 'prepped'
         print 'calculating probs..'
         prob = np.array(lasagne.layers.get_output(nnet['prob'], im, deterministic=True).eval())
         print 'got probs..'
