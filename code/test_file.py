@@ -25,5 +25,5 @@ imgs = ['natgeo_10009268_740227179454995_1126758630_n.jpg',
 		'natgeo_10175373_1701735806739918_820309524_n.jpg']
 
 for img in imgs:
-	model.predict('../imgs/{}'.format(img), local_img=True)
+	model.predict(img, local_img=True)
 
