@@ -1,0 +1,527 @@
+Last login: Mon Mar 14 14:48:18 on ttys000
+➜  ~ cd theo/image_clusters/code/
+➜  code git:(master) python one_user_userlinks_to_src_urls.py
+give me a letter: b
+getting gooduserlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BCk0h0thM_V/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/BCQQY3ChMz5/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/BCJoPVBhM3c/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/BCGbPUJhMwE/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/BCGJ8mwhM6f/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/BBadFV2BMzz/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/BBES4RhBM1I/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/BAIhWHzhM3o/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/_maE3DBM79/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/_iR6GthMy_/?taken-by=badgalriri
+
+No _ovg3g  https://www.instagram.com/p/_XHLj1hM1z/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/_KgZq6hM_E/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/_Cg3QZBM-r/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/-2m5hOhMxr/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/-nn5vSBMxd/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/-gz-hnhMwb/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/-SDszpBM8G/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/-ROhkUBM6R/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/-RMzBTBM3R/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/-NQVDYBM90/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/8JlqW_BM0u/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/8H3FhHhMyR/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/7cDzVfhM4N/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/7bGLJGhM7w/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/7Q33aiBM0p/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/7OErzPBM6E/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/7EhdK1hM16/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/6yoXE3hMy3/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/6ynlRgBMxg/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/58TwgyBMzh/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/58TavFhMy4/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/5AkO9XhM8s/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/4x3NrEhM0n/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/4oHheNhMwx/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/4nuT87BM3g/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/4nqMvoBMyJ/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/4kj6cphMxW/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/4VoowNBMys/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/3H2WjBBM32/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/3H2OiGhM3l/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/283mxhhM_f/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/2v1zBdBM78/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/2tPFH9hMyO/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/2qhrgehMwp/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/2UJlMGBM3e/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/17WNdDBM7-/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/1tUHL2hM9H/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/1tT_V8BM8z/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/1pBh_UhM9V/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/1jAOvMhM2M/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/1dlwHVhM7_/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/1XBUmkBM2v/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/1PyZcihMx6/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/1FE5MUhM2F/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/03ZO-AhMyw/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/0xYBhVhM66/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/0qzx8ghM8Y/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/0qGpBOhM13/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/0iOhw7BM0l/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/z6TtFRBM64/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/z3og1GBMx5/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/z3B66RBMxn/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/z23TB1BM9C/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/z21Ng3BM5B/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/zoeDn4hM9H/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/zlfFUSBM99/?taken-by=badgalriri
+No _ovg3g  https://www.instagram.com/p/y8uRYEBM2L/?taken-by=badgalriri
+Successfully found 437 reactids among 504 urls
+getting src_urls
+writing to file
+Directory already exists:  badgalriri
+20160315.22:08:1458104914  items written to  badgalriri_src_urls.txt
+attempted username:  badgalriri
+getting gooduserlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BBpnb4HpWMh/?taken-by=boniver
+No _ovg3g  https://www.instagram.com/p/BBk3vMrJWLO/?taken-by=boniver
+No _ovg3g  https://www.instagram.com/p/9GjDXtpWPU/?taken-by=boniver
+No _ovg3g  https://www.instagram.com/p/1lQR0wpWLg/?taken-by=boniver
+Successfully found 11 reactids among 15 urls
+getting src_urls
+writing to file
+Directory already exists:  boniver
+20160315.22:13:1458105229  items written to  boniver_src_urls.txt
+attempted username:  boniver
+getting gooduserlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BCLS5BsOBnd/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/BBpkLZGuBhb/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/BAhUJcouBkr/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/_rJFamOBrY/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/_mUgzFuBh_/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/_g4MDNOBqh/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/_Hho2aOBnp/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/82qn50OBqm/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/8i7FZRuBrZ/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/8OItfIuBmc/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/78Kgv1uBm0/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/7YO6pvuBoY/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/6pTeZkuBly/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/6kNF6JOBnu/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/5mnG5aOBvs/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/5kiw53OBjM/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/5kJwxgOBni/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/4hf3QfuBpf/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/4hYkPQuBpS/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/4Y1LbJuBns/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/3WEOgLOBmU/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/3T6FDCuBpr/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/3PztiruBnu/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/3MO_XOOBmw/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/3J2DgMOBrN/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/1lTheMuBir/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/0KtPrsuBqc/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/xmgRJ8uBrV/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/uqxkb6uBh1/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/oogJzSuBoR/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/hcqQ2SOBoA/?taken-by=bowerswilkins
+No _ovg3g  https://www.instagram.com/p/eJGWL-uBpb/?taken-by=bowerswilkins
+Successfully found 1201 reactids among 1233 urls
+getting src_urls
+writing to file
+Directory already exists:  bowerswilkins
+20160316.06:03:1458133382  items written to  bowerswilkins_src_urls.txt
+attempted username:  bowerswilkins
+getting gooduserlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BCuQAQblBmx/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/_5h49-FBvu/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/_NfkNZFBji/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/91SqMHlBg7/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/8pBYDBFBiq/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/8kLMTAlBh4/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/8ej34KlBkD/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/8ejeSplBjV/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/8GzidIFBln/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/7WbfE1FBgF/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/7WbFVolBvN/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/6oT_pLlBsA/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/6oSUhYFBpA/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/6b2bwHlBpj/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/6RXldylBiH/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/5-ORzDFBmQ/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/55fvjxlBnU/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/5fNRYpFBke/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/5aaN01lBpk/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/5GyFIflBvz/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/5GQtCkFBrN/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/5GQmP1FBrD/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/5GQkU3FBrB/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/5GOqU0lBnS/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/5GIs6ClBtO/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/5BBpq0FBl9/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/4n5RFglBrW/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/4PbUdflBmE/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/4DoTI9lBgn/?taken-by=bmdc27
+No _ovg3g  https://www.instagram.com/p/377tXdlBjr/?taken-by=bmdc27
+Successfully found 246 reactids among 276 urls
+getting src_urls
+writing to file
+Directory already exists:  bmdc27
+20160316.07:53:1458140019  items written to  bmdc27_src_urls.txt
+attempted username:  bmdc27
+getting gooduserlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BCspd4ZAXkb/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/BChBKOtAXiK/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/BCR80iKAXpU/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/BB_Sw8cgXrI/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/BB3fhxNAXjg/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/BBqnpznAXjy/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/BBLTHoCgXgP/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/BBI6_WygXuT/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/BA--PenAXuz/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/BAyScm6gXhS/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/BADamMQgXs6/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/_UYT8cgXvy/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/_N7kOZAXoN/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/9sDQDqgXhh/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/9Wj-V1AXju/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/9PdamcAXhO/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/9JytHCAXss/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/9H37-0AXr9/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/9H06NDgXn4/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/9HudWTAXuA/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/9HRNMngXg4/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/9COjIOAXkO/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/84YHoYAXr1/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/83QEzcAXgj/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/8wzP7mAXqB/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/8vtwfhgXpE/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/8s_1TjAXqw/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/70JKlkAXkL/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/7ova6fAXo9/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/7ovJ3ggXop/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/7jHeCdgXpV/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/7jHXadgXpH/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/7i84NKgXjB/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/7gOfFvgXis/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/5Kq1regXqF/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/5CzbepgXku/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/5CsNIJgXk_/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/4_yYk_gXj0/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/4-5N_fgXnr/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/49JUp5gXmB/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/47C4AvgXu5/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/44qlHrgXgR/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/1JoxohgXsx/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/0sbjwDgXgE/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/0altwPAXkx/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/0TlTL9AXum/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/zcr-gEAXj6/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/yQqNqJgXk8/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/x0QoWIAXgK/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/x0HKdZAXju/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/xuvYdLAXri/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/xuh8PpAXvb/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/xuh2SNAXvU/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/xNb13LAXk9/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/xIlfpDgXku/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/w9ZRuxAXkR/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/w2IIdCAXmM/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/whN_fTAXqH/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/wfDxFtgXsk/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/wM5G-5gXpa/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/vWA5-MAXjM/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/u6xXQggXnU/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/u3vxxPgXhY/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/uyh658gXgR/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/uT5IHlAXmu/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/uRkHOnAXlb/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/uQePHagXi4/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/t8yRbHAXm9/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/tiULmIgXi2/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/tdHrQwgXgi/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/tX4mTaAXls/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/tQSNvpAXh_/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/tLJT0WAXgb/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/sxxXUqgXnF/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/sxOvqBgXi8/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/qjyMxggXi1/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/p5BfAwgXoz/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/mReMvhAXuD/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/jhGqABgXo2/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/jZl3nhAXjU/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/jFAVPJgXrW/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/im_IdEAXgH/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/gx2AxPAXq-/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/gd3ZWAgXr8/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/fvE6Z2gXsY/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/fsbis2gXvw/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/fnXIIVgXvd/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/fjKSVZgXv6/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/fNzgPVAXnm/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/eQ_vSsAXrE/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/eKdiwOgXv9/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/br1kv2AXmS/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/bov7fuAXsp/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/boYZrTgXmK/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/boTMM8gXu6/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/bmfR58gXvz/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/bmOH2agXjX/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/bl23uLgXhp/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/blw8srAXoz/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/blrcC3gXiI/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/bhH_a1gXkS/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/bNFyhVAXsO/?taken-by=buffalosabres
+No _ovg3g  https://www.instagram.com/p/bM6TCagXn8/?taken-by=buffalosabres
+Successfully found 2238 reactids among 2341 urls
+getting src_urls
+writing to file
+Directory already exists:  buffalosabres
+20160317.01:28:1458203318  items written to  buffalosabres_src_urls.txt
+attempted username:  buffalosabres
+getting gooduserlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BCso9yAxJPs/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BCryO0AxJPT/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BCqa4yzRJKW/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BCpySrExJFF/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BCSf0JvxJFn/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BCP3oJiRJGZ/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BCODzlNRJMb/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BCLNkD4xJNh/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BCG0XXqxJB1/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BCGDP4BxJBq/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BCF_v4DxJJ9/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BCFxR0bRJLg/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BCDvxtQxJP3/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BCA3dmPRJBn/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BCAXbfVRJOX/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BB9tBDkxJL6/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BB20AAbRJCV/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BBw0ixTxJPl/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BBvTmBwxJA8/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BBpEx0cRJDD/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BBkb9UARJJo/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BBMvhLfRJLS/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BBIMx-hxJEW/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BA7DEQMRJIy/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BAxbR6YRJLu/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BAr0VLXRJBS/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BAkOg41xJB2/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BAfo0OjxJK5/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BAcy95yxJAE/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BAae1e7RJJP/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BAXAsh2RJBC/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BAR38EmxJCX/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BAPY_VfRJAr/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BAPEMwlxJOm/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/BAOvQuyxJFd/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/_-bSO6RJB9/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/_wBrWIxJJF/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/_ofbs4RJBC/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/_jFU1DRJPk/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/_b44AGxJB0/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/_ba3FIRJCW/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/_Y4XI_RJDX/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/_ToePaxJBD/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/_SAY5nRJIK/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/_CgNy_RJI7/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/_BwuwBRJGR/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/-vzGojRJEz/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/-mUnE6xJCD/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/-ldrfhxJNq/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/-kCdRYRJOc/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/-V9b2mxJCM/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/-BybThxJNW/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/98zrvRRJN_/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/9y0NfnxJCT/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/9yS0sgRJI-/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/9wVcdUxJEh/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/9vYejixJHC/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/9tl1FDxJNH/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/9szjyoRJJw/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/9okaHjRJCN/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/9oIzuqxJDj/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/9lFWqxxJM8/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/9S53CDxJDN/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/9LOPP5xJOI/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/9EVyYFxJBf/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/9BI471xJDm/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/85F89FRJLu/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/8xdSReRJFc/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/8OgeBYxJAd/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/8OEn5exJNX/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/8NxsHtxJIv/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/8Dmr9mxJEb/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/7-y8jsRJJM/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/78SzzZxJNt/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/76CdahxJA-/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/72ZsZzxJCN/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/7z8btFRJMj/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/7x67G8xJNH/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/7xiHWvxJLF/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/7peLsLRJI1/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/7UxNuUxJBK/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/7LZHDlRJID/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/7KWuCvxJDx/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/7H57SiRJMv/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/6zrCFGRJGx/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/6xAJT4xJOF/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/6o6y-UxJDM/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/6eluItRJEu/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/6XOqfXRJFk/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/6CwmCLxJL6/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/598O1FRJFu/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/5gvD08RJFG/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/5XSlgRRJHD/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/5PB55GRJET/?taken-by=burberry
+No _ovg3g  https://www.instagram.com/p/5NGeQ5xJJJ/?taken-by=burberry
+Successfully found 373 reactids among 468 urls
+getting src_urls
+writing to file
+Directory already exists:  burberry
+20160317.05:29:1458217759  items written to  burberry_src_urls.txt
+attempted username:  burberry
+getting gooduserlinks
+getting reactids
+No _ovg3g  https://www.instagram.com/p/BCjEAq4puGO/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/BCYalW1puPH/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/BCV5lSmJuGp/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/BCQ99jIpuNf/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/BCQjQ5MpuFu/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/BCQP003JuJR/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/BCODbpzJuLe/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/BCNutPPpuB2/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/BCLVcpCJuO_/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/BB8tntEJuFd/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/BB6ExsPpuE1/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/BB0qnHwJuKo/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/BBv-GwvpuL4/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/BBqV_IiJuNz/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/BBiVltOpuKw/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/BBLhk7VJuC8/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/BA0d-9upuOY/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/BAmvSrKpuPG/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/BAFV5XQpuEL/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/_z_yyopuG5/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/_uZoFNpuMm/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/_cvV0ppuNf/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/_NazDrpuGU/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/_IP71TJuN8/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/-kRBiNpuA6/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/-WfVbjpuFQ/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/-PgIUXJuGQ/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/-K5rMHJuMZ/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/9o2o1upuIT/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/9L8Qm1JuPQ/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/9HwQOyJuB9/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/8wP6LFJuGV/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/8oXwQipuMu/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/8Ikhn4puKa/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/7ybMoCpuJa/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/7tdLk2JuLj/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/7p-HcUJuCs/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/7jFITRpuIp/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/7YRaKdJuLM/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/7JKD6npuGw/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/7F1S0RpuPN/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/62V1W6puF1/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/6sMz5QpuGb/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/5w0HMdpuF_/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/4PGKX7puDq/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/23d8yipuHy/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/2qhgKGJuEC/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/2XK1AnJuIv/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/1Ll-9yJuML/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/0ObxCbJuKZ/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/yUrzo_JuKf/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/v1ODPUJuF9/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/voC_zzJuPe/?taken-by=bergdorfs
+No _ovg3g  https://www.instagram.com/p/taU_etpuBT/?taken-by=bergdorfs
+attempted username:  bergdorfs
+getting gooduserlinks
+getting reactids
+attempted username:  bonobos
+getting gooduserlinks
+getting reactids
+attempted username:  benandjerrys
+getting gooduserlinks
+getting reactids
+attempted username:  brianstelter
+getting gooduserlinks
+getting reactids
+attempted username:  barackobama
+getting gooduserlinks
+getting reactids
+attempted username:  brooklynbowl
+getting gooduserlinks
+getting reactids
+attempted username:  beyonce
+getting gooduserlinks
+getting reactids
+attempted username:  brumarquezine
+getting gooduserlinks
+getting reactids
+attempted username:  bellathorne
+getting gooduserlinks
+getting reactids
+attempted username:  beauty_edit_max
+getting gooduserlinks
+getting reactids
+attempted username:  barcelonacitizen
+getting gooduserlinks
+getting reactids
+attempted username:  brutalcactus
+getting gooduserlinks
+getting reactids
+attempted username:  beautifulworldgroup
+getting gooduserlinks
+getting reactids
+attempted username:  bortnikovrussia
+getting gooduserlinks
+getting reactids
+attempted username:  bobbyfresh
+getting gooduserlinks
+getting reactids
+attempted username:  beybleedblue
+getting gooduserlinks
+getting reactids
+attempted username:  barbershopconnect
+getting gooduserlinks
+getting reactids
+attempted username:  buyph
+getting gooduserlinks
+getting reactids
+attempted username:  bobbyfresh
+getting gooduserlinks
+getting reactids
+attempted username:  bigfeetsneaks
+getting gooduserlinks
+getting reactids
+attempted username:  bahrainstore
+getting gooduserlinks
+getting reactids
+attempted username:  bahrain_gallery
+getting gooduserlinks
+getting reactids
+attempted username:  balleralert
+Traceback (most recent call last):
+  File "one_user_userlinks_to_src_urls.py", line 180, in <module>
+    driver.close()
+  File "/Users/datascientist/anaconda/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 473, in close
+    self.execute(Command.CLOSE)
+  File "/Users/datascientist/anaconda/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 199, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/Users/datascientist/anaconda/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 395, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/Users/datascientist/anaconda/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 426, in _request
+    resp = self._conn.getresponse()
+  File "/Users/datascientist/anaconda/lib/python2.7/httplib.py", line 1136, in getresponse
+    response.begin()
+  File "/Users/datascientist/anaconda/lib/python2.7/httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "/Users/datascientist/anaconda/lib/python2.7/httplib.py", line 417, in _read_status
+    raise BadStatusLine(line)
+httplib.BadStatusLine: ''
+➜  code git:(master) ✗
+➜  code git:(master) ✗
