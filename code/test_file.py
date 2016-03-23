@@ -3,6 +3,7 @@ import os
 from vgg16_model import vgg16_cpu
 from vgg16_model import model
 import cPickle as pickle
+import numpy as np
 
 model = pickle.load(open('./vgg16_model/vgg16.pkl'))
 CLASSES = model['synset words']
