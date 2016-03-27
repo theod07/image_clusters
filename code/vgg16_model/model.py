@@ -65,7 +65,7 @@ def prep_image(img_path, nnet=nnet, local_img=True):
     im = im - MEAN_IMAGE
     return rawim, floatX(im[np.newaxis])
 
-def predict(img_path, local_img=True):
+def predict(nnet, img_path, local_img=True):
     try:
         tic = time.clock()
         print 'tic'
