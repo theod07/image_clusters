@@ -1,5 +1,5 @@
 import os
-from vgg16_model import vgg16
+from vgg16_model import vgg16_gpu
 from vgg16_model import vgg16_cpu
 from vgg16_model.model import prep_image, predict
 import cPickle as pickle
@@ -10,20 +10,22 @@ model = pickle.load(open('./vgg16_model/vgg16.pkl'))
 CLASSES = model['synset words']
 MEAN_IMAGE = model['mean value'][:, np.newaxis, np.newaxis] # necessary to match dimensions of incoming images
 
-# nnet = vgg16.build_model()
-nnet = vgg16_cpu.build_model()
-
-lasagne.layers.set_all_param_values(nnet['prob'], model['param values'])
+nnet_gpu = vgg16_gpu.build_model()
+nnet_cpu = vgg16_cpu.build_model()
 
 
+if __name__ == '__main__':
 
-imgs = ['natgeo_10009268_740227179454995_1126758630_n.jpg',
-		'natgeo_10009414_871221042997178_322070705_n.jpg', 
-		'natgeo_10011420_443055039211825_611359185_n.jpg',
-		'natgeo_10011514_463266313865771_1194066775_n.jpg', 
-		'natgeo_10175197_1537119106600073_1792863643_n.jpg',
-		'natgeo_10175373_1701735806739918_820309524_n.jpg']
+	GPU = True
 
-for img in imgs:
-	predict(img, local_img=True)
+	if GPU:
+		nnet = nnet_gpu.copy()
+	else: 
+		nnet = nnet_cpu.copy()
 
+	lasagne.layers.set_all_param_values(nnet['prob'], model['param values'])
+
+	imgs = [ f for f in os.listdir('.') if f.endswith('.jpg') ]
+
+	for img in imgs:
+		prob = predict(img, local_img=True)
