@@ -16,7 +16,7 @@ nnet_cpu = vgg16_cpu.build_model()
 
 if __name__ == '__main__':
 
-	GPU = True
+	GPU = False
 
 	if GPU:
 		nnet = nnet_gpu.copy()
