@@ -84,14 +84,14 @@ def predict(img_path, local_img=True):
 
         print "img_path: {}".format(img_path)
         print "predict time: {}".format(toc-tic)
-        for n, label in enumerate(top):
+        # for n, label in enumerate(top):
             # plt.text(250, 70 + n * 20, '{}. {}'.format(n+1, CLASSES[label]), fontsize=14)
-            print '{}.  Class: {}.'.format(n+1, CLASSES[label])
+            # print '{}.  Class: {}.'.format(n+1, CLASSES[label])
     # except IOError:
     except:
         print('bad img_path: ' + img_path)
         return np.zeros(1000)
-    return prob
+    return # prob
 
 if __name__ == '__main__':
 
