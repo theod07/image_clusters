@@ -91,7 +91,7 @@ def predict(img_path, local_img=True):
     except:
         print('bad img_path: ' + img_path)
         return np.zeros(1000)
-    return # prob
+    return prob
 
 if __name__ == '__main__':
 
