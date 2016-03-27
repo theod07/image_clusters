@@ -42,5 +42,6 @@ if __name__ == '__main__':
 	prob_gpu = predict(nnet_gpu, imgs[0], local_img=True)
 
 	print 'prob_gpu == prob_cpu {}'.format(prob_gpu==prob_cpu)
+	print 'np.all(prob_gpu == prob_cpu) {}'.format(np.all(prob_gpu==prob_cpu))
+	print 'np.any(prob_gpu == prob_cpu) {}'.format(np.any(prob_gpu==prob_cpu))
 
-	
