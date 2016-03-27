@@ -21,7 +21,7 @@ def build_model():
     net['input'] = InputLayer((None, 3, 224, 224))
     net['conv1_1'] = ConvLayer(
         net['input'], 64, 3, pad=1)
-    net['conv1_2'] = ConvLayer(
+    net['conv1_2']  = ConvLayer(
         net['conv1_1'], 64, 3, pad=1)
     net['pool1'] = PoolLayer(net['conv1_2'], 2)
     net['conv2_1'] = ConvLayer(
