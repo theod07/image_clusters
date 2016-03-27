@@ -25,7 +25,7 @@ if __name__ == '__main__':
 
 	# lasagne.layers.set_all_param_values(nnet['prob'], model['param values'])
 
-	# imgs = [ f for f in os.listdir('.') if f.endswith('.jpg') ]
+	imgs = [ f for f in os.listdir('.') if f.endswith('.jpg') ]
 
 	# for img in imgs:
 	# 	prob = predict(img, local_img=True)
@@ -42,3 +42,5 @@ if __name__ == '__main__':
 	prob_cpu = predict(nnet_cpu, imgs[0], local_img=True)
 
 	print 'prob_gpu == prob_cpu {}'.format(prob_gpu==prob_cpu)
+
+	
