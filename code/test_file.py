@@ -45,7 +45,7 @@ if __name__ == '__main__':
 	print 'np.all(prob_gpu == prob_cpu) {}'.format(np.all(prob_gpu==prob_cpu))
 	print 'np.any(prob_gpu == prob_cpu) {}'.format(np.any(prob_gpu==prob_cpu))
 
-	for key in nnet_cpu.keys
+	for key in nnet_cpu.keys():
 		print '\n Layer: {}'.format(key)
 		try:
 			gpuW = nnet_gpu[key].W.get_value()
