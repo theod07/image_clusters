@@ -50,6 +50,8 @@ if __name__ == '__main__':
 		try:
 			gpuW = nnet_gpu[key].W.get_value()
 			cpuW = nnet_cpu[key].W.get_value()
+			print 'gpuW: {}'.format(gpuW)
+			print 'cpuW: {}'.format(cpuW)
 			print 'gpuW.shape == cpuW.shape : {}'.format(gpuW.shape==cpuW.shape )
 			print 'np.all(gpuW == cpuW) : {}'.format(np.all(gpuW==cpuW))
 			print 'np.any(gpuW == cpuW) : {}'.format(np.any(gpuW==cpuW))
