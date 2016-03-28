@@ -10,7 +10,7 @@ from lasagne.nonlinearities import softmax
 from lasagne.utils import floatX
 import numpy as np
 import pickle
-import vgg16
+# import vgg16
 import urllib
 import io
 import skimage.transform
