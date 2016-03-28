@@ -16,19 +16,19 @@ nnet_cpu = vgg16_cpu.build_model()
 
 if __name__ == '__main__':
 
-	# GPU = False
+	GPU = False
 
-	# if GPU:
-	# 	nnet = nnet_gpu.copy()
-	# else: 
-	# 	nnet = nnet_cpu.copy()
+	if GPU:
+		nnet = nnet_gpu.copy()
+	else: 
+		nnet = nnet_cpu.copy()
 
-	# lasagne.layers.set_all_param_values(nnet['prob'], model['param values'])
+	lasagne.layers.set_all_param_values(nnet['prob'], model['param values'])
 
 	imgs = [ f for f in os.listdir('.') if f.endswith('.jpg') ]
 
-	# for img in imgs:
-	# 	prob = predict(img, local_img=True)
+	for img in imgs:
+		prob = predict(nnet, img, local_img=True)
 
 	# GPU, sequential: 5.319, 3.318, 3.374, 3.358, 3.371, 3.381
 	# CPU, sequential: 3.481, 3.396, 3.401, 3.378, 3.375, 3.404

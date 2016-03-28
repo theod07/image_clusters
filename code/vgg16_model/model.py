@@ -10,7 +10,7 @@ from lasagne.nonlinearities import softmax
 from lasagne.utils import floatX
 import numpy as np
 import pickle
-# import vgg16
+import vgg16_cpu as vgg16
 import urllib
 import io
 import skimage.transform
@@ -28,11 +28,11 @@ nnet = vgg16.build_model()
 lasagne.layers.set_all_param_values(nnet['prob'], model['param values'])
 
 
-index = urllib.urlopen('http://www.image-net.org/challenges/LSVRC/2012/ori_urls/indexval.html').read()
-image_urls = index.split('<br>')
+# index = urllib.urlopen('http://www.image-net.org/challenges/LSVRC/2012/ori_urls/indexval.html').read()
+# image_urls = index.split('<br>')
 
-np.random.seed(23)
-np.random.shuffle(image_urls)
+# np.random.seed(23)
+# np.random.shuffle(image_urls)
 # image_urls = image_urls[:20]
 
 def prep_image(img_path, nnet=nnet, local_img=True):
@@ -84,9 +84,9 @@ def predict(nnet, img_path, local_img=True):
 
         print "img_path: {}".format(img_path)
         print "predict time: {}".format(toc-tic)
-        # for n, label in enumerate(top):
-            # plt.text(250, 70 + n * 20, '{}. {}'.format(n+1, CLASSES[label]), fontsize=14)
-            # print '{}.  Class: {}.'.format(n+1, CLASSES[label])
+        for n, label in enumerate(top):
+            plt.text(250, 70 + n * 20, '{}. {}'.format(n+1, CLASSES[label]), fontsize=14)
+            print '{}.  Class: {}.'.format(n+1, CLASSES[label])
     # except IOError:
     except:
         print('bad img_path: ' + img_path)
